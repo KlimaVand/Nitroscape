@@ -1,0 +1,537 @@
+Farm
+FarmBalance
+FarmCBalance
+Description	C fixed from atmosphere	Units	kg C	Name	carbonFromPlants	Value	0
+Description	C in imported manure	Units	kg C	Name	Cmanimp	Value	0
+Description	C in imported feed	Units	kg C	Name	CPlantProductImported	Value	2541.88847
+Description	C in imported bedding	Units	kg C	Name	CbeddingReq	Value	0
+Description	C in exported milk	Units	kg C	Name	Cmilk	Value	276.244066410449
+Description	C in exported meat	Units	kg C	Name	Cmeat	Value	2.32
+Description	C in crop products sold	Units	kg C	Name	Csold	Value	0
+Description	C lost to the environment	Units	kg C	Name	CLost	Value	1970.30909081361
+Description	C in enteric methane emissions	Units	kg C	Name	livestockCH4C	Value	81.4609164420485
+Description	C in CO2 emitted by livestock	Units	kg C	Name	livestockCO2C	Value	1252.49423768486
+Description	C in CO2 emitted from animal housing	Units	kg C	Name	housingCLoss	Value	92.432308
+Description	C in methane emitted by manure	Units	kg C	Name	manurestoreCH4C	Value	271.960814343348
+Description	C in CO2 emitted by manure	Units	kg C	Name	manurestoreCO2C	Value	271.960814343348
+Description	C in CO2 lost from stored crop products	Units	kg C	Name	processStorageCloss	Value	0
+Description	C in CO2 emitted by the soil	Units	kg C	Name	soilCO2Emission	Value	0
+Description	Change in C stored in the soil	Units	kg C	Name	CDeltaSoil	Value	0
+Description	Net C balance (should be zero)	Units	kg C	Name	Cbalance	Value	4.54747350886464E-13
+FarmNBalance
+Description	N in imported manure	Units	kg N	Name	Nmanimp	Value	0
+Description	N fixation	Units	kg N	Name	nFix	Value	0
+Description	N deposited from atmosphere	Units	kg N	Name	Natm	Value	0
+Description	N in fertiliser	Units	kg N	Name	nFert	Value	0
+Description	N in imported bedding	Units	kg N	Name	Nbedding	Value	0
+Description	N in imported crop products	Units	kg N	Name	NPlantProductImported	Value	145.37512
+Description	N sold in crop products	Units	kg N	Name	Nsold	Value	0
+Description	N sold in crop products	Units	kg N	Name	Nmilk	Value	30.718340184842
+Description	N exported in meat	Units	kg N	Name	NGrowth	Value	0.416
+Description	N in exported manure	Units	kg N	Name	Nmanexp	Value	82.2533614669138
+Description	Total amount of N exported	Units	kg N	Name	NExport	Value	113.387701651756
+Description	N lost in NH3 emission from housing	Units	kg N	Name	housingNLoss	Value	0
+Description	N lost in N2 emission from manure storage	Units	kg N	Name	manureN2Emission	Value	18.2785247704253
+Description	N lost in N2O emission from manure storage	Units	kg N	Name	manureN2OEmission	Value	2.28481559630316
+Description	N lost in NH3 emission from manure storage	Units	kg N	Name	manureNH3Emission	Value	11.4240779815158
+Description	N lost in runoff from manure storage	Units	kg N	Name	runoffN	Value	0
+Description	Emission of N2 from the field	Units	kg N	Name	fieldN2Emission	Value	0
+Description	Emission of N2O from the field	Units	kg N	Name	fieldN2OEmission	Value	0
+Description	N lost via NH3 emission from fertilisers	Units	kg N	Name	fertNH3NEmission	Value	0
+Description	N lost as NH3 from field-applied manure	Units	kg N	Name	fieldmanureNH3Emission	Value	0
+Description	N lost via NO3 leaching from soil	Units	kg N	Name	Nleaching	Value	0
+Description	N lost via leaching of organic N from soil	Units	kg N	Name	organicNLeached	Value	0
+Description	Change in N stored in soil	Units	kg N	Name	NDeltaSoil	Value	0
+Description	N balance (should be zero)	Units	kg N	Name	Nbalance	Value	2.8421709430404E-14
+FarmDirectGHG
+Description	Enteric methane emissions	Units	kg CO2 equivalents	Name	entericCH4CO2Eq	Value	2712.64851752021
+Description	Manure methane emissions	Units	kg CO2 equivalents	Name	manureCH4CO2Eq	Value	9056.29511763347
+Description	Manure N2O emissions	Units	kg CO2 equivalents	Name	manureN2OCO2Eq	Value	1069.97914374877
+Description	Field N2O emissions	Units	kg CO2 equivalents	Name	fieldN2OCO2Eq	Value	0
+Description	Change in C stored in soil	Units	kg CO2 equivalents	Name	CDeltaSoil	Value	0
+Description	Total GHG emissions	Units	kg CO2 equivalents	Name	directGHGEmissionCO2Eq	Value	12838.9227789025
+FarmIndirectGHG
+Description	Housing NH3 emissions	Units	kg CO2 equivalents	Name	housingNH3CO2Eq	Value	0
+Description	Manure storage NH3 emissions	Units	kg CO2 equivalents	Name	manurestoreNH3CO2Eq	Value	53.4989571874385
+Description	NH3 emissions from field-applied manure	Units	kg CO2 equivalents	Name	fieldmanureNH3CO2Eq	Value	0
+Description	NH3 emissions from fertilisers	Units	kg CO2 equivalents	Name	fieldfertNH3CO2Eq	Value	0
+Description	N2O emissions resulting from leaching of N	Units	kg CO2 equivalents	Name	leachedNCO2Eq	Value	0
+Description	Total indirect emissions	Units	kg CO2 equivalents	Name	indirectGHGCO2Eq	Value	53.4989571874385
+Housing
+Description	??	Units	??	Name	Name	Value	Cattle cubicle housing, slatted floor
+Description	??	Units	??	Name	HousingRefTemp	Value	20
+Description	??	Units	??	Name	Ninput	Value	114.240779815158
+Description	??	Units	??	Name	NtanInhouse	Value	66.3748684136385
+Description	??	Units	??	Name	NorgInHouse	Value	47.8659114015196
+Description	??	Units	??	Name	faecalN	Value	34.6499914015196
+Description	??	Units	??	Name	Nbedding	Value	0
+Description	??	Units	??	Name	NWasteFeed	Value	13.21592
+Description	??	Units	??	Name	proportionDegradable	Value	0.2
+Description	??	Units	??	Name	proportionNondegradable	Value	0.8
+Description	??	Units	??	Name	proportionTAN	Value	0.1
+Description	??	Units	??	Name	feedWasteFactor	Value	0.1
+Description	??	Units	??	Name	beddingDM	Value	0
+Description	??	Units	??	Name	feedWasteFactor	Value	0.1
+Description	??	Units	??	Name	NNH3housing	Value	0
+Description	??	Units	??	Name	CO2C	Value	92.432308
+Description	??	Units	??	Name	CtoStorage	Value	836.936941462639
+Description	??	Units	??	Name	FibreCToStorage	Value	508.716612462667
+Description	??	Units	??	Name	propTimeThisHouse	Value	1
+Description	??	Units	??	Name	HousingType	Value	3
+Description	??	Units	??	Name	Cinput	Value	929.369249462639
+Description	??	Units	??	Name	NTanInstore	Value	66.3748684136385
+TANtoThisStore
+Description	??	Units	??	Name	id	Value	0
+Description	??	Units	??	Name	TANtoThisStore	Value	66.3748684136385
+Description	??	Units	??	Name	id	Value	0
+Description	??	Units	??	Name	organicNtoThisStore	Value	47.8659114015196
+TANtoThisStore
+Description	??	Units	??	Name	id	Value	1
+Description	??	Units	??	Name	TANtoThisStore	Value	0
+Description	??	Units	??	Name	id	Value	1
+Description	??	Units	??	Name	organicNtoThisStore	Value	0
+Description	??	Units	??	Name	NLost	Value	0
+Description	??	Units	??	Name	Nout	Value	114.240779815158
+Description	??	Units	??	Name	Nbalance	Value	0
+manurestoreRecord
+Description	??	Units	??	Name	propYearGrazing	Value	0
+ManureStore
+Description	??	Units	??	Name	name	Value	slurryTank - cattle
+Description	??	Units	??	Name	Ninput	Value	114.240779815158
+Description	??	Units	??	Name	totalNstoreNH3	Value	11.4240779815158
+Description	??	Units	??	Name	totalNstoreN2	Value	18.2785247704253
+Description	??	Units	??	Name	totalNstoreN20	Value	2.28481559630316
+Description	??	Units	??	Name	NTANLost	Value	0
+Description	??	Units	??	Name	NDegOrgOut	Value	0
+Description	??	Units	??	Name	NHUM	Value	0
+Description	??	Units	??	Name	NorgOutStore	Value	16.7580665947316
+Description	??	Units	??	Name	NRunoffHum	Value	0
+Description	??	Units	??	Name	NRunOffOrg	Value	0
+Description	??	Units	??	Name	NTanInstore	Value	66.3748684136385
+Description	??	Units	??	Name	NLost	Value	31.9874183482442
+Description	??	Units	??	Name	Nout	Value	82.2533614669138
+Description	??	Units	??	Name	Nbalance	Value	0
+Description	??	Units	??	Name	meanTemp	Value	20
+Description	??	Units	??	Name	MCF	Value	0.14
+Description	??	Units	??	Name	Bo	Value	0.24
+Description	??	Units	??	Name	Cinput	Value	836.936941462639
+Description	??	Units	??	Name	lnArr	Value	40
+Description	??	Units	??	Name	identity	Value	0
+Description	??	Units	??	Name	Cinput	Value	836.936941462639
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	tstore	Value	0.5
+Description	??	Units	??	Name	CCH4ST	Value	271.960814343348
+Description	??	Units	??	Name	CCO2ST	Value	271.960814343348
+Description	??	Units	??	Name	b1	Value	1
+Description	??	Units	??	Name	Cinput	Value	836.936941462639
+manure
+Description	??	Units	??	Name	nonDegDM	Value	0
+Description	??	Units	??	Name	degDM	Value	0
+Description	??	Units	??	Name	nonDegC	Value	293.015312775944
+Description	??	Units	??	Name	degC	Value	0
+Description	??	Units	??	Name	humicC	Value	0
+Description	??	Units	??	Name	storageType	Value	1
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	DM	Value	0
+Description	??	Units	??	Name	TAN	Value	65.4952948721822
+Description	??	Units	??	Name	organicN	Value	16.7580665947316
+Description	??	Units	??	Name	degC	Value	0
+Description	??	Units	??	Name	nonDegC	Value	293.015312775944
+Description	??	Units	??	Name	humicC	Value	0
+manure
+Description	??	Units	??	Name	nonDegDM	Value	0
+Description	??	Units	??	Name	degDM	Value	0
+Description	??	Units	??	Name	nonDegC	Value	508.716612462667
+Description	??	Units	??	Name	degC	Value	328.220328999973
+Description	??	Units	??	Name	humicC	Value	0
+Description	??	Units	??	Name	storageType	Value	0
+Description	??	Units	??	Name	speciesGroup	Value	0
+Description	??	Units	??	Name	DM	Value	0
+Description	??	Units	??	Name	TAN	Value	66.3748684136385
+Description	??	Units	??	Name	organicN	Value	47.8659114015196
+Description	??	Units	??	Name	degC	Value	328.220328999973
+Description	??	Units	??	Name	nonDegC	Value	508.716612462667
+Description	??	Units	??	Name	humicC	Value	0
+LiveStock
+Description	??	Units	??	Name	name	Value	Holstein types - dairy
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	LivestockType	Value	1
+Description	??	Units	??	Name	liveweight	Value	650
+Description	??	Units	??	Name	isRuminant	Value	True
+Description	??	Units	??	Name	mu_b	Value	0.01
+Description	??	Units	??	Name	urineProp	Value	0.04
+Description	??	Units	??	Name	growthCconc	Value	0.232
+Description	??	Units	??	Name	milkNconc	Value	0.00556
+Description	??	Units	??	Name	milkCconc	Value	0.05
+Description	??	Units	??	Name	maintenanceEnergyCoeff	Value	1.4
+Description	??	Units	??	Name	growthEnergyDemandCoeff	Value	23
+Description	??	Units	??	Name	milkEnergyDemandCoeff	Value	5.3
+Description	??	Units	??	Name	housedDuringGrazing	Value	False
+Description	??	Units	??	Name	energyIntake	Value	72877.3945219134
+Description	??	Units	??	Name	energyUseForGrowth	Value	406.811222612761
+Description	??	Units	??	Name	energyUseForMilk	Value	43942.4927960341
+Description	??	Units	??	Name	energyFromRemobilisation	Value	0
+Description	??	Units	??	Name	energyUseForMaintenance	Value	28528.0905032666
+Description	??	Units	??	Name	maintenanceEnergyDeficit	Value	0
+Description	??	Units	??	Name	growthEnergyDeficit	Value	0
+Description	Deficit in energy required for milk production	Units	MJ/yr	Name	milkEnergyDeficit	Value	-24631987.3237618
+Description	??	Units	??	Name	DMintake	Value	5475
+Description	??	Units	??	Name	diet_ash	Value	451.505
+Description	??	Units	??	Name	diet_fibre	Value	1095.73
+Description	??	Units	??	Name	diet_fat	Value	227.03
+Description	??	Units	??	Name	diet_NFE	Value	803.73
+Description	??	Units	??	Name	digestibilityDiet	Value	0.759863333333333
+Description	??	Units	??	Name	Cintake	Value	2310.8077
+Description	??	Units	??	Name	energyLevel	Value	2.55601544700829
+Description	??	Units	??	Name	milkN	Value	30.718340184842
+Description	??	Units	??	Name	milkC	Value	276.244066410449
+Description	??	Units	??	Name	growthN	Value	0.416
+Description	??	Units	??	Name	growthC	Value	2.32
+Description	??	Units	??	Name	urineC	Value	92.432308
+Description	??	Units	??	Name	urineN	Value	66.3748684136385
+Description	??	Units	??	Name	faecalC	Value	605.856171462639
+Description	??	Units	??	Name	faecalN	Value	34.6499914015196
+Description	??	Units	??	Name	CH4C	Value	81.4609164420485
+Description	??	Units	??	Name	CO2C	Value	1252.49423768486
+Description	??	Units	??	Name	avgNumberOfAnimal	Value	1
+Description	??	Units	??	Name	avgNumberOfAnimal	Value	1
+Description	Average daily milk production	Units	kg/day	Name	avgProductionMilk	Value	15.1366611731753
+Description	Average yearly milk production	Units	kg/day	Name	avgProductionMilk	Value	5524.88132820899
+Description	Average yearly weight change	Units	kg/day	Name	avgProductionMeat	Value	0.0273972602739726
+Description	??	Units	??	Name	LivestockType	Value	1
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	growthNconc	Value	0.0416
+Description	??	Units	??	Name	growthCconc	Value	0.232
+Description	??	Units	??	Name	mu_b	Value	0.01
+Description	??	Units	??	Name	milkNconc	Value	0.00556
+Description	??	Units	??	Name	growthNconc	Value	0.0416
+Description	??	Units	??	Name	milkCconc	Value	0.05
+Description	??	Units	??	Name	milkNconc	Value	0.00556
+Description	??	Units	??	Name	growthNconc	Value	0.0416
+Description	??	Units	??	Name	urineProp	Value	0.04
+Description	??	Units	??	Name	maintenanceEnergyCoeff	Value	1.4
+Description	??	Units	??	Name	milkEnergyDemandCoeff	Value	5.3
+Description	??	Units	??	Name	growthEnergyDemandCoeff	Value	23
+Description	??	Units	??	Name	housedDuringGrazing	Value	False
+housingRecord
+Description	??	Units	??	Name	HousingType	Value	3
+Description	??	Units	??	Name	propTime	Value	1
+ManureRecipient
+Description	??	Units	??	Name	StorageType	Value	1
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.061
+Description	??	Units	??	Name	C_conc	Value	0.43194
+Description	??	Units	??	Name	N_conc	Value	0.01968
+Description	??	Units	??	Name	amount	Value	5
+Description	??	Units	??	Name	Unit	Value	kg DM/day
+Description	??	Units	??	Name	amount	Value	5
+Description	??	Units	??	Name	feedCode	Value	224
+Description	??	Units	??	Name	name	Value	Barley, husked meal
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.22
+Description	??	Units	??	Name	fibre_conc	Value	0.158
+Description	??	Units	??	Name	fat_conc	Value	0.042
+Description	??	Units	??	Name	DMdigestibility	Value	0.71159
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	12.65484
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.107
+Description	??	Units	??	Name	C_conc	Value	0.41078
+Description	??	Units	??	Name	N_conc	Value	0.02976
+Description	??	Units	??	Name	amount	Value	8
+Description	??	Units	??	Name	Unit	Value	kg DM/day
+Description	??	Units	??	Name	amount	Value	8
+Description	??	Units	??	Name	feedCode	Value	527
+Description	??	Units	??	Name	name	Value	Clovergrass, silage, high fodder index, 60% clover
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.056
+Description	??	Units	??	Name	fibre_conc	Value	0.231
+Description	??	Units	??	Name	fat_conc	Value	0.046
+Description	??	Units	??	Name	DMdigestibility	Value	0.785
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	13.69367
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.038
+Description	??	Units	??	Name	C_conc	Value	0.44252
+Description	??	Units	??	Name	N_conc	Value	0.0128
+Description	??	Units	??	Name	amount	Value	2
+Description	??	Units	??	Name	Unit	Value	kg DM/day
+Description	??	Units	??	Name	amount	Value	2
+Description	??	Units	??	Name	feedCode	Value	592
+Description	??	Units	??	Name	name	Value	Maize - silage, high fodder index
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.327
+Description	??	Units	??	Name	fibre_conc	Value	0.182
+Description	??	Units	??	Name	fat_conc	Value	0.022
+Description	??	Units	??	Name	DMdigestibility	Value	0.78
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	13.47622
+ManureStore
+Description	??	Units	??	Name	name	Value	slurryTank - cattle
+Description	??	Units	??	Name	Ninput	Value	114.240779815158
+Description	??	Units	??	Name	totalNstoreNH3	Value	11.4240779815158
+Description	??	Units	??	Name	totalNstoreN2	Value	18.2785247704253
+Description	??	Units	??	Name	totalNstoreN20	Value	2.28481559630316
+Description	??	Units	??	Name	NTANLost	Value	0
+Description	??	Units	??	Name	NDegOrgOut	Value	0
+Description	??	Units	??	Name	NHUM	Value	0
+Description	??	Units	??	Name	NorgOutStore	Value	16.7580665947316
+Description	??	Units	??	Name	NRunoffHum	Value	0
+Description	??	Units	??	Name	NRunOffOrg	Value	0
+Description	??	Units	??	Name	NTanInstore	Value	66.3748684136385
+Description	??	Units	??	Name	NLost	Value	31.9874183482442
+Description	??	Units	??	Name	Nout	Value	82.2533614669138
+Description	??	Units	??	Name	Nbalance	Value	0
+Description	??	Units	??	Name	meanTemp	Value	20
+Description	??	Units	??	Name	MCF	Value	0.14
+Description	??	Units	??	Name	Bo	Value	0.24
+Description	??	Units	??	Name	Cinput	Value	836.936941462639
+Description	??	Units	??	Name	lnArr	Value	40
+Description	??	Units	??	Name	identity	Value	0
+Description	??	Units	??	Name	Cinput	Value	836.936941462639
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	tstore	Value	0.5
+Description	??	Units	??	Name	CCH4ST	Value	271.960814343348
+Description	??	Units	??	Name	CCO2ST	Value	271.960814343348
+Description	??	Units	??	Name	b1	Value	1
+Description	??	Units	??	Name	Cinput	Value	836.936941462639
+manure
+Description	??	Units	??	Name	nonDegDM	Value	0
+Description	??	Units	??	Name	degDM	Value	0
+Description	??	Units	??	Name	nonDegC	Value	293.015312775944
+Description	??	Units	??	Name	degC	Value	0
+Description	??	Units	??	Name	humicC	Value	0
+Description	??	Units	??	Name	storageType	Value	1
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	DM	Value	0
+Description	??	Units	??	Name	TAN	Value	65.4952948721822
+Description	??	Units	??	Name	organicN	Value	16.7580665947316
+Description	??	Units	??	Name	degC	Value	0
+Description	??	Units	??	Name	nonDegC	Value	293.015312775944
+Description	??	Units	??	Name	humicC	Value	0
+LiveStock
+Description	??	Units	??	Name	name	Value	Holstein types - dairy
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	LivestockType	Value	1
+Description	??	Units	??	Name	liveweight	Value	650
+Description	??	Units	??	Name	isRuminant	Value	True
+Description	??	Units	??	Name	mu_b	Value	0.01
+Description	??	Units	??	Name	urineProp	Value	0.04
+Description	??	Units	??	Name	growthCconc	Value	0.232
+Description	??	Units	??	Name	milkNconc	Value	0.00556
+Description	??	Units	??	Name	milkCconc	Value	0.05
+Description	??	Units	??	Name	maintenanceEnergyCoeff	Value	1.4
+Description	??	Units	??	Name	growthEnergyDemandCoeff	Value	23
+Description	??	Units	??	Name	milkEnergyDemandCoeff	Value	5.3
+Description	??	Units	??	Name	housedDuringGrazing	Value	False
+Description	??	Units	??	Name	energyIntake	Value	72877.3945219134
+Description	??	Units	??	Name	energyUseForGrowth	Value	406.811222612761
+Description	??	Units	??	Name	energyUseForMilk	Value	43942.4927960341
+Description	??	Units	??	Name	energyFromRemobilisation	Value	0
+Description	??	Units	??	Name	energyUseForMaintenance	Value	28528.0905032666
+Description	??	Units	??	Name	maintenanceEnergyDeficit	Value	0
+Description	??	Units	??	Name	growthEnergyDeficit	Value	0
+Description	Deficit in energy required for milk production	Units	MJ/yr	Name	milkEnergyDeficit	Value	-24631987.3237618
+Description	??	Units	??	Name	DMintake	Value	5475
+Description	??	Units	??	Name	diet_ash	Value	451.505
+Description	??	Units	??	Name	diet_fibre	Value	1095.73
+Description	??	Units	??	Name	diet_fat	Value	227.03
+Description	??	Units	??	Name	diet_NFE	Value	803.73
+Description	??	Units	??	Name	digestibilityDiet	Value	0.759863333333333
+Description	??	Units	??	Name	Cintake	Value	2310.8077
+Description	??	Units	??	Name	energyLevel	Value	2.55601544700829
+Description	??	Units	??	Name	milkN	Value	30.718340184842
+Description	??	Units	??	Name	milkC	Value	276.244066410449
+Description	??	Units	??	Name	growthN	Value	0.416
+Description	??	Units	??	Name	growthC	Value	2.32
+Description	??	Units	??	Name	urineC	Value	92.432308
+Description	??	Units	??	Name	urineN	Value	66.3748684136385
+Description	??	Units	??	Name	faecalC	Value	605.856171462639
+Description	??	Units	??	Name	faecalN	Value	34.6499914015196
+Description	??	Units	??	Name	CH4C	Value	81.4609164420485
+Description	??	Units	??	Name	CO2C	Value	1252.49423768486
+Description	??	Units	??	Name	avgNumberOfAnimal	Value	1
+Description	??	Units	??	Name	avgNumberOfAnimal	Value	1
+Description	Average daily milk production	Units	kg/day	Name	avgProductionMilk	Value	15.1366611731753
+Description	Average yearly milk production	Units	kg/day	Name	avgProductionMilk	Value	5524.88132820899
+Description	Average yearly weight change	Units	kg/day	Name	avgProductionMeat	Value	0.0273972602739726
+Description	??	Units	??	Name	LivestockType	Value	1
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	growthNconc	Value	0.0416
+Description	??	Units	??	Name	growthCconc	Value	0.232
+Description	??	Units	??	Name	mu_b	Value	0.01
+Description	??	Units	??	Name	milkNconc	Value	0.00556
+Description	??	Units	??	Name	growthNconc	Value	0.0416
+Description	??	Units	??	Name	milkCconc	Value	0.05
+Description	??	Units	??	Name	milkNconc	Value	0.00556
+Description	??	Units	??	Name	growthNconc	Value	0.0416
+Description	??	Units	??	Name	urineProp	Value	0.04
+Description	??	Units	??	Name	maintenanceEnergyCoeff	Value	1.4
+Description	??	Units	??	Name	milkEnergyDemandCoeff	Value	5.3
+Description	??	Units	??	Name	growthEnergyDemandCoeff	Value	23
+Description	??	Units	??	Name	housedDuringGrazing	Value	False
+housingRecord
+Description	??	Units	??	Name	HousingType	Value	3
+Description	??	Units	??	Name	propTime	Value	1
+ManureRecipient
+Description	??	Units	??	Name	StorageType	Value	1
+theManureExchangeClass
+manure
+Description	??	Units	??	Name	nonDegDM	Value	0
+Description	??	Units	??	Name	degDM	Value	0
+Description	??	Units	??	Name	nonDegC	Value	293.015312775944
+Description	??	Units	??	Name	degC	Value	0
+Description	??	Units	??	Name	humicC	Value	0
+Description	??	Units	??	Name	storageType	Value	1
+Description	??	Units	??	Name	speciesGroup	Value	1
+Description	??	Units	??	Name	DM	Value	0
+Description	??	Units	??	Name	TAN	Value	65.4952948721822
+Description	??	Units	??	Name	organicN	Value	16.7580665947316
+Description	??	Units	??	Name	degC	Value	0
+Description	??	Units	??	Name	nonDegC	Value	293.015312775944
+Description	??	Units	??	Name	humicC	Value	0
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.061
+Description	??	Units	??	Name	C_conc	Value	0.43194
+Description	??	Units	??	Name	N_conc	Value	0.01968
+Description	??	Units	??	Name	amount	Value	2007.5
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	2007.5
+Description	??	Units	??	Name	feedCode	Value	224
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.22
+Description	??	Units	??	Name	fibre_conc	Value	0.158
+Description	??	Units	??	Name	fat_conc	Value	0.042
+Description	??	Units	??	Name	DMdigestibility	Value	0.71159
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	12.65484
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.107
+Description	??	Units	??	Name	C_conc	Value	0.41078
+Description	??	Units	??	Name	N_conc	Value	0.02976
+Description	??	Units	??	Name	amount	Value	3212
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	3212
+Description	??	Units	??	Name	feedCode	Value	527
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.056
+Description	??	Units	??	Name	fibre_conc	Value	0.231
+Description	??	Units	??	Name	fat_conc	Value	0.046
+Description	??	Units	??	Name	DMdigestibility	Value	0.785
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	13.69367
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.038
+Description	??	Units	??	Name	C_conc	Value	0.44252
+Description	??	Units	??	Name	N_conc	Value	0.0128
+Description	??	Units	??	Name	amount	Value	803
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	803
+Description	??	Units	??	Name	feedCode	Value	592
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.327
+Description	??	Units	??	Name	fibre_conc	Value	0.182
+Description	??	Units	??	Name	fat_conc	Value	0.022
+Description	??	Units	??	Name	DMdigestibility	Value	0.78
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	13.47622
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0
+Description	??	Units	??	Name	C_conc	Value	0
+Description	??	Units	??	Name	N_conc	Value	0
+Description	??	Units	??	Name	amount	Value	0
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	0
+Description	??	Units	??	Name	feedCode	Value	224
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	Name	fibre_conc	Value	0
+Description	??	Units	??	Name	fat_conc	Value	0
+Description	??	Units	??	Name	DMdigestibility	Value	0
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	0
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0
+Description	??	Units	??	Name	C_conc	Value	0
+Description	??	Units	??	Name	N_conc	Value	0
+Description	??	Units	??	Name	amount	Value	0
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	0
+Description	??	Units	??	Name	feedCode	Value	527
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	Name	fibre_conc	Value	0
+Description	??	Units	??	Name	fat_conc	Value	0
+Description	??	Units	??	Name	DMdigestibility	Value	0
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	0
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0
+Description	??	Units	??	Name	C_conc	Value	0
+Description	??	Units	??	Name	N_conc	Value	0
+Description	??	Units	??	Name	amount	Value	0
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	0
+Description	??	Units	??	Name	feedCode	Value	592
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	Name	fibre_conc	Value	0
+Description	??	Units	??	Name	fat_conc	Value	0
+Description	??	Units	??	Name	DMdigestibility	Value	0
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	0
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.061
+Description	??	Units	??	Name	C_conc	Value	0.43194
+Description	??	Units	??	Name	N_conc	Value	0.01968
+Description	??	Units	??	Name	amount	Value	-2007.5
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	-2007.5
+Description	??	Units	??	Name	feedCode	Value	224
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.22
+Description	??	Units	??	Name	fibre_conc	Value	0.158
+Description	??	Units	??	Name	fat_conc	Value	0.042
+Description	??	Units	??	Name	DMdigestibility	Value	0.71159
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	12.65484
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.107
+Description	??	Units	??	Name	C_conc	Value	0.41078
+Description	??	Units	??	Name	N_conc	Value	0.02976
+Description	??	Units	??	Name	amount	Value	-3212
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	-3212
+Description	??	Units	??	Name	feedCode	Value	527
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.056
+Description	??	Units	??	Name	fibre_conc	Value	0.231
+Description	??	Units	??	Name	fat_conc	Value	0.046
+Description	??	Units	??	Name	DMdigestibility	Value	0.785
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	13.69367
+FeedItem
+Description	??	Units	??	Name	ash_conc	Value	0.038
+Description	??	Units	??	Name	C_conc	Value	0.44252
+Description	??	Units	??	Name	N_conc	Value	0.0128
+Description	??	Units	??	Name	amount	Value	-803
+Description	??	Units	??	Name	Unit	Value	kg/day
+Description	??	Units	??	Name	amount	Value	-803
+Description	??	Units	??	Name	feedCode	Value	592
+Description	??	Units	??	Name	name	Value	None
+Description	??	Units	??	Name	nitrogenfreeExtract_conc	Value	0.327
+Description	??	Units	??	Name	fibre_conc	Value	0.182
+Description	??	Units	??	Name	fat_conc	Value	0.022
+Description	??	Units	??	Name	DMdigestibility	Value	0.78
+Description	??	Units	??	Name	fedAtPasture	Value	False
+Description	??	Units	??	Name	beddingMaterial	Value	False
+Description	??	Units	??	Name	energy_conc	Value	13.47622
+ExpectedYield

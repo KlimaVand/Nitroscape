@@ -1,0 +1,1887 @@
+Farm	FarmBalance	FarmCBalance	carbonFromPlants	Value	70544.1908325429
+Description	C fixed from atmosphere	Units	kg C	Cmanimp	Value	0
+Description	C in imported manure	Units	kg C	CPlantProductImported	Value	0
+Description	C in imported feed	Units	kg C	CbeddingReq	Value	0
+Description	C in imported bedding	Units	kg C	Cmilk	Value	0
+Description	C in exported milk	Units	kg C	Cmeat	Value	0
+Description	C in exported meat	Units	kg C	Csold	Value	58158.3796390876
+Description	C in crop products sold	Units	kg C	CLost	Value	21512.1833760718
+Description	C lost to the environment	Units	kg C	livestockCH4C	Value	0
+Description	C in enteric methane emissions	Units	kg C	livestockCO2C	Value	0
+Description	C in CO2 emitted by livestock	Units	kg C	housingCLoss	Value	0
+Description	C in CO2 emitted from animal housing	Units	kg C	manurestoreCH4C	Value	0
+Description	C in methane emitted by manure	Units	kg C	manurestoreCO2C	Value	0
+Description	C in CO2 emitted by manure	Units	kg C	processStorageCloss	Value	392.950631975764
+Description	C in CO2 lost from stored crop products	Units	kg C	soilCO2Emission	Value	20677.838577008
+Description	C in CO2 emitted by the soil	Units	kg C	CDeltaSoil	Value	-9126.37218261632
+Description	Change in C stored in the soil	Units	kg C	Cbalance	Value	-1.30967237055302E-10
+Description	Net C balance (should be zero)	Units	kg C	FarmNBalance	Nmanimp	Value	0
+Description	N in imported manure	Units	kg N	nFix	Value	0
+Description	N fixation	Units	kg N	Natm	Value	200
+Description	N deposited from atmosphere	Units	kg N	nFert	Value	3600
+Description	N in fertiliser	Units	kg N	Nbedding	Value	0
+Description	N in imported bedding	Units	kg N	NPlantProductImported	Value	0
+Description	N in imported crop products	Units	kg N	Nsold	Value	2230.4213803815
+Description	N sold in crop products	Units	kg N	Nmilk	Value	0
+Description	N exported in milk	Units	kg N	NGrowth	Value	0
+Description	N exported in meat	Units	kg N	Nmanexp	Value	0
+Description	N in exported manure	Units	kg N	NExport	Value	2230.4213803815
+Description	Total amount of N exported	Units	kg N	housingNLoss	Value	0
+Description	N lost in NH3 emission from housing	Units	kg N	manureN2Emission	Value	0
+Description	N lost in N2 emission from manure storage	Units	kg N	manureN2OEmission	Value	0
+Description	N lost in N2O emission from manure storage	Units	kg N	manureNH3Emission	Value	0
+Description	N lost in NH3 emission from manure storage	Units	kg N	runoffN	Value	0
+Description	N lost in runoff from manure storage	Units	kg N	fieldN2Emission	Value	808.524134764464
+Description	Emission of N2 from the field	Units	kg N	fieldN2OEmission	Value	101.065516845558
+Description	Emission of N2O from the field	Units	kg N	fertNH3NEmission	Value	40
+Description	N lost via NH3 emission from fertilisers	Units	kg N	fieldmanureNH3Emission	Value	0
+Description	N lost as NH3 from field-applied manure	Units	kg N	Nleaching	Value	1346.83240381972
+Description	N lost via NO3 leaching from soil	Units	kg C	organicNLeached	Value	44.1314489465982
+Description	N lost via leaching of organic N from soil	Units	kg C	NDeltaSoil	Value	-638.33050635628
+Description	Change in N stored in soil	Units	kg N	Nbalance	Value	-1.28414264842741
+Description	N balance (should be zero)	Units	kg N	FarmDirectGHG	entericCH4CO2Eq	Value	0
+Description	Enteric methane emissions	Units	kg CO2 equivalents	manureCH4CO2Eq	Value	0
+Description	Manure methane emissions	Units	kg CO2 equivalents	manureN2OCO2Eq	Value	0
+Description	Manure N2O emissions	Units	kg CO2 equivalents	fieldN2OCO2Eq	Value	47328.9815387748
+Description	Field N2O emissions	Units	kg CO2 equivalents	CDeltaSoil	Value	-9126.37218261632
+Description	Change in C stored in soil	Units	kg CO2 equivalents	directGHGEmissionCO2Eq	Value	38202.6093561585
+Description	Total GHG emissions	Units	kg CO2 equivalents	FarmIndirectGHG	housingNH3CO2Eq	Value	0
+Description	Housing NH3 emissions	Units	kg CO2 equivalents	manurestoreNH3CO2Eq	Value	0
+Description	Manure storage NH3 emissions	Units	kg CO2 equivalents	fieldmanureNH3CO2Eq	Value	0
+Description	NH3 emissions from field-applied manure	Units	kg CO2 equivalents	fieldfertNH3CO2Eq	Value	187.32
+Description	NH3 emissions from fertilisers	Units	kg CO2 equivalents	leachedNCO2Eq	Value	4730.41211031581
+Description	N2O emissions resulting from leaching of N	Units	kg CO2 equivalents	indirectGHGCO2Eq	Value	4917.73211031581
+Description	Total indirect emissions	Units	kg CO2 equivalents	CropSequenceClass
+Description	??	Units	??	name	Value	Cereal
+Description	??	Units	??	identity	Value	1
+Description	??	Units	??	soilType	Value	Coarse Sandy Soil
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.022353
+Description	??	Units	??	C_conc	Value	0.4452204438
+Description	??	Units	??	N_conc	Value	0.017312
+Description	??	Units	??	amount	Value	600
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	600
+Description	??	Units	??	feedCode	Value	201
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.6294117
+Description	??	Units	??	fibre_conc	Value	0.05294117
+Description	??	Units	??	fat_conc	Value	0.0306
+Description	??	Units	??	DMdigestibility	Value	0.85
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	15.19205
+product
+Description	??	Units	??	Modelled_yield	Value	6000
+Description	??	Units	??	Expected_yield	Value	6000
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.045
+Description	??	Units	??	C_conc	Value	0.434907
+Description	??	Units	??	N_conc	Value	0.0064
+Description	??	Units	??	amount	Value	400
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	400
+Description	??	Units	??	feedCode	Value	781
+Description	??	Units	??	name	Value	Spring barley - straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.452
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.45
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	True
+Description	??	Units	??	energy_conc	Value	7.623185
+product
+Description	??	Units	??	Modelled_yield	Value	4000
+Description	??	Units	??	Expected_yield	Value	4000
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	1
+theEndDate
+day	8
+month	8
+year	1
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	2.13217528642478
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	129.472
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	8
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.017647
+Description	??	Units	??	C_conc	Value	0.4473635562
+Description	??	Units	??	N_conc	Value	0.018448
+Description	??	Units	??	amount	Value	666.540770952514
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	666.540770952514
+Description	??	Units	??	feedCode	Value	203
+Description	??	Units	??	name	Value	Wheat
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.712
+Description	??	Units	??	fibre_conc	Value	0.02823529
+Description	??	Units	??	fat_conc	Value	0.0247
+Description	??	Units	??	DMdigestibility	Value	0.9
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	16.06155
+product
+Description	??	Units	??	Modelled_yield	Value	6665.40770952514
+Description	??	Units	??	Expected_yield	Value	6665.40770952514
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.031
+Description	??	Units	??	C_conc	Value	0.4412826
+Description	??	Units	??	N_conc	Value	0.00528
+Description	??	Units	??	amount	Value	380.880440544294
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	380.880440544294
+Description	??	Units	??	feedCode	Value	788
+Description	??	Units	??	name	Value	Wheat- straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.453
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.44
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	True
+Description	??	Units	??	energy_conc	Value	7.519378
+product
+Description	??	Units	??	Modelled_yield	Value	3808.80440544294
+Description	??	Units	??	Expected_yield	Value	3808.80440544294
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Winter wheat
+Description	??	Units	??	area	Value	10
+theStartDate
+day	9
+month	8
+year	1
+theEndDate
+day	27
+month	7
+year	2
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	2
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.95648184159325
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	150.256
+Description	??	Units	??	GetStartMonth()	Value	8
+Description	??	Units	??	GetEndMonth()	Value	7
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	10
+theStartDate
+day	28
+month	7
+year	2
+theEndDate
+day	20
+month	3
+year	3
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	3
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.734077860883551
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	7
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.022353
+Description	??	Units	??	C_conc	Value	0.44971762
+Description	??	Units	??	N_conc	Value	0.017312
+Description	??	Units	??	amount	Value	598.448662230835
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	598.448662230835
+Description	??	Units	??	feedCode	Value	201
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.6294117
+Description	??	Units	??	fibre_conc	Value	0.05294117
+Description	??	Units	??	fat_conc	Value	0.0306
+Description	??	Units	??	DMdigestibility	Value	0.85
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	15.19205
+product
+Description	??	Units	??	Modelled_yield	Value	5984.48662230835
+Description	??	Units	??	Expected_yield	Value	5984.48662230835
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.045
+Description	??	Units	??	C_conc	Value	0.4393
+Description	??	Units	??	N_conc	Value	0.0064
+Description	??	Units	??	amount	Value	398.965774820557
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	398.965774820557
+Description	??	Units	??	feedCode	Value	781
+Description	??	Units	??	name	Value	Spring barley - straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.452
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.45
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.623185
+product
+Description	??	Units	??	Modelled_yield	Value	3989.65774820557
+Description	??	Units	??	Expected_yield	Value	3989.65774820557
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	3
+theEndDate
+day	8
+month	8
+year	3
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.942756504004668
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	129.472
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	8
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.017647
+Description	??	Units	??	C_conc	Value	0.45188238
+Description	??	Units	??	N_conc	Value	0.018448
+Description	??	Units	??	amount	Value	610.58928374563
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	610.58928374563
+Description	??	Units	??	feedCode	Value	203
+Description	??	Units	??	name	Value	Wheat
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.712
+Description	??	Units	??	fibre_conc	Value	0.02823529
+Description	??	Units	??	fat_conc	Value	0.0247
+Description	??	Units	??	DMdigestibility	Value	0.9
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	16.06155
+product
+Description	??	Units	??	Modelled_yield	Value	6105.8928374563
+Description	??	Units	??	Expected_yield	Value	6105.8928374563
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.031
+Description	??	Units	??	C_conc	Value	0.44574
+Description	??	Units	??	N_conc	Value	0.00528
+Description	??	Units	??	amount	Value	348.90816214036
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	348.90816214036
+Description	??	Units	??	feedCode	Value	788
+Description	??	Units	??	name	Value	Wheat- straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.453
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.44
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.519378
+product
+Description	??	Units	??	Modelled_yield	Value	3489.0816214036
+Description	??	Units	??	Expected_yield	Value	3489.0816214036
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Winter wheat
+Description	??	Units	??	area	Value	10
+theStartDate
+day	9
+month	8
+year	3
+theEndDate
+day	27
+month	7
+year	4
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	2
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.15312379963273
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	150.256
+Description	??	Units	??	GetStartMonth()	Value	8
+Description	??	Units	??	GetEndMonth()	Value	7
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	10
+theStartDate
+day	28
+month	7
+year	4
+theEndDate
+day	20
+month	3
+year	5
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	3
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.744358771134337
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	7
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.022353
+Description	??	Units	??	C_conc	Value	0.44971762
+Description	??	Units	??	N_conc	Value	0.017312
+Description	??	Units	??	amount	Value	598.745583415281
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	598.745583415281
+Description	??	Units	??	feedCode	Value	201
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.6294117
+Description	??	Units	??	fibre_conc	Value	0.05294117
+Description	??	Units	??	fat_conc	Value	0.0306
+Description	??	Units	??	DMdigestibility	Value	0.85
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	15.19205
+product
+Description	??	Units	??	Modelled_yield	Value	5987.45583415281
+Description	??	Units	??	Expected_yield	Value	5987.45583415281
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.045
+Description	??	Units	??	C_conc	Value	0.4393
+Description	??	Units	??	N_conc	Value	0.0064
+Description	??	Units	??	amount	Value	399.163722276854
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	399.163722276854
+Description	??	Units	??	feedCode	Value	781
+Description	??	Units	??	name	Value	Spring barley - straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.452
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.45
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.623185
+product
+Description	??	Units	??	Modelled_yield	Value	3991.63722276854
+Description	??	Units	??	Expected_yield	Value	3991.63722276854
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	5
+theEndDate
+day	8
+month	8
+year	5
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.945023788455359
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	129.472
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	8
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.017647
+Description	??	Units	??	C_conc	Value	0.45188238
+Description	??	Units	??	N_conc	Value	0.018448
+Description	??	Units	??	amount	Value	609.983009731845
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	609.983009731845
+Description	??	Units	??	feedCode	Value	203
+Description	??	Units	??	name	Value	Wheat
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.712
+Description	??	Units	??	fibre_conc	Value	0.02823529
+Description	??	Units	??	fat_conc	Value	0.0247
+Description	??	Units	??	DMdigestibility	Value	0.9
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	16.06155
+product
+Description	??	Units	??	Modelled_yield	Value	6099.83009731845
+Description	??	Units	??	Expected_yield	Value	6099.83009731845
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.031
+Description	??	Units	??	C_conc	Value	0.44574
+Description	??	Units	??	N_conc	Value	0.00528
+Description	??	Units	??	amount	Value	348.561719846768
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	348.561719846768
+Description	??	Units	??	feedCode	Value	788
+Description	??	Units	??	name	Value	Wheat- straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.453
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.44
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.519378
+product
+Description	??	Units	??	Modelled_yield	Value	3485.61719846768
+Description	??	Units	??	Expected_yield	Value	3485.61719846768
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Winter wheat
+Description	??	Units	??	area	Value	10
+theStartDate
+day	9
+month	8
+year	5
+theEndDate
+day	27
+month	7
+year	6
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	2
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.14441884595018
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	150.256
+Description	??	Units	??	GetStartMonth()	Value	8
+Description	??	Units	??	GetEndMonth()	Value	7
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	10
+theStartDate
+day	28
+month	7
+year	6
+theEndDate
+day	20
+month	3
+year	7
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	3
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.736581872073105
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	7
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.022353
+Description	??	Units	??	C_conc	Value	0.44971762
+Description	??	Units	??	N_conc	Value	0.017312
+Description	??	Units	??	amount	Value	597.412779466034
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	597.412779466034
+Description	??	Units	??	feedCode	Value	201
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.6294117
+Description	??	Units	??	fibre_conc	Value	0.05294117
+Description	??	Units	??	fat_conc	Value	0.0306
+Description	??	Units	??	DMdigestibility	Value	0.85
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	15.19205
+product
+Description	??	Units	??	Modelled_yield	Value	5974.12779466034
+Description	??	Units	??	Expected_yield	Value	5974.12779466034
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.045
+Description	??	Units	??	C_conc	Value	0.4393
+Description	??	Units	??	N_conc	Value	0.0064
+Description	??	Units	??	amount	Value	398.275186310689
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	398.275186310689
+Description	??	Units	??	feedCode	Value	781
+Description	??	Units	??	name	Value	Spring barley - straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.452
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.45
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.623185
+product
+Description	??	Units	??	Modelled_yield	Value	3982.75186310689
+Description	??	Units	??	Expected_yield	Value	3982.75186310689
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	7
+theEndDate
+day	8
+month	8
+year	7
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.934846523146446
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	129.472
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	8
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.017647
+Description	??	Units	??	C_conc	Value	0.45188238
+Description	??	Units	??	N_conc	Value	0.018448
+Description	??	Units	??	amount	Value	609.110538473463
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	609.110538473463
+Description	??	Units	??	feedCode	Value	203
+Description	??	Units	??	name	Value	Wheat
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.712
+Description	??	Units	??	fibre_conc	Value	0.02823529
+Description	??	Units	??	fat_conc	Value	0.0247
+Description	??	Units	??	DMdigestibility	Value	0.9
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	16.06155
+product
+Description	??	Units	??	Modelled_yield	Value	6091.10538473463
+Description	??	Units	??	Expected_yield	Value	6091.10538473463
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.031
+Description	??	Units	??	C_conc	Value	0.44574
+Description	??	Units	??	N_conc	Value	0.00528
+Description	??	Units	??	amount	Value	348.063164841979
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	348.063164841979
+Description	??	Units	??	feedCode	Value	788
+Description	??	Units	??	name	Value	Wheat- straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.453
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.44
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.519378
+product
+Description	??	Units	??	Modelled_yield	Value	3480.63164841979
+Description	??	Units	??	Expected_yield	Value	3480.63164841979
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Winter wheat
+Description	??	Units	??	area	Value	10
+theStartDate
+day	9
+month	8
+year	7
+theEndDate
+day	27
+month	7
+year	8
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	2
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.13189180088328
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	150.256
+Description	??	Units	??	GetStartMonth()	Value	8
+Description	??	Units	??	GetEndMonth()	Value	7
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	10
+theStartDate
+day	28
+month	7
+year	8
+theEndDate
+day	20
+month	3
+year	9
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	3
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.728494249209899
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	7
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.022353
+Description	??	Units	??	C_conc	Value	0.44971762
+Description	??	Units	??	N_conc	Value	0.017312
+Description	??	Units	??	amount	Value	596.108945577501
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	596.108945577501
+Description	??	Units	??	feedCode	Value	201
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.6294117
+Description	??	Units	??	fibre_conc	Value	0.05294117
+Description	??	Units	??	fat_conc	Value	0.0306
+Description	??	Units	??	DMdigestibility	Value	0.85
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	15.19205
+product
+Description	??	Units	??	Modelled_yield	Value	5961.08945577501
+Description	??	Units	??	Expected_yield	Value	5961.08945577501
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.045
+Description	??	Units	??	C_conc	Value	0.4393
+Description	??	Units	??	N_conc	Value	0.0064
+Description	??	Units	??	amount	Value	397.405963718334
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	397.405963718334
+Description	??	Units	??	feedCode	Value	781
+Description	??	Units	??	name	Value	Spring barley - straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.452
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.45
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.623185
+product
+Description	??	Units	??	Modelled_yield	Value	3974.05963718334
+Description	??	Units	??	Expected_yield	Value	3974.05963718334
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	9
+theEndDate
+day	8
+month	8
+year	9
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.924890472663666
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	129.472
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	8
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.017647
+Description	??	Units	??	C_conc	Value	0.45188238
+Description	??	Units	??	N_conc	Value	0.018448
+Description	??	Units	??	amount	Value	608.293739605588
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	608.293739605588
+Description	??	Units	??	feedCode	Value	203
+Description	??	Units	??	name	Value	Wheat
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.712
+Description	??	Units	??	fibre_conc	Value	0.02823529
+Description	??	Units	??	fat_conc	Value	0.0247
+Description	??	Units	??	DMdigestibility	Value	0.9
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	16.06155
+product
+Description	??	Units	??	Modelled_yield	Value	6082.93739605588
+Description	??	Units	??	Expected_yield	Value	6082.93739605588
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.031
+Description	??	Units	??	C_conc	Value	0.44574
+Description	??	Units	??	N_conc	Value	0.00528
+Description	??	Units	??	amount	Value	347.596422631764
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	347.596422631764
+Description	??	Units	??	feedCode	Value	788
+Description	??	Units	??	name	Value	Wheat- straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.453
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.44
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.519378
+product
+Description	??	Units	??	Modelled_yield	Value	3475.96422631764
+Description	??	Units	??	Expected_yield	Value	3475.96422631764
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	160
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	4
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Winter wheat
+Description	??	Units	??	area	Value	10
+theStartDate
+day	9
+month	8
+year	9
+theEndDate
+day	27
+month	7
+year	10
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	2
+Description	??	Units	??	fertiliserN2OEmission	Value	3.2
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.12016410655506
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	150.256
+Description	??	Units	??	GetStartMonth()	Value	8
+Description	??	Units	??	GetEndMonth()	Value	7
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	10
+theStartDate
+day	28
+month	7
+year	10
+theEndDate
+day	20
+month	3
+year	11
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	3
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	0.720927557966404
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	7
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	CropSequenceClass
+Description	??	Units	??	name	Value	Permanent grass
+Description	??	Units	??	identity	Value	2
+Description	??	Units	??	soilType	Value	Coarse Sandy Soil
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.3312
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	363.886965005359
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	363.886965005359
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	4366.64358006431
+Description	??	Units	??	Expected_yield	Value	4366.64358006431
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	1
+theEndDate
+day	20
+month	3
+year	2
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	2.69043579175058
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	288.06546462807
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	288.06546462807
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3456.78557553684
+Description	??	Units	??	Expected_yield	Value	3456.78557553684
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	2
+theEndDate
+day	20
+month	3
+year	3
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.26543541783048
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	287.114073155071
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	287.114073155071
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3445.36887786086
+Description	??	Units	??	Expected_yield	Value	3445.36887786086
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	3
+theEndDate
+day	20
+month	3
+year	4
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.24755482725892
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	285.792538380879
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	285.792538380879
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3429.51046057055
+Description	??	Units	??	Expected_yield	Value	3429.51046057055
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	4
+theEndDate
+day	20
+month	3
+year	5
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.22271770931743
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	284.669728909383
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	284.669728909383
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3416.0367469126
+Description	??	Units	??	Expected_yield	Value	3416.0367469126
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	5
+theEndDate
+day	20
+month	3
+year	6
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.20161546379655
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	283.734740543139
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	283.734740543139
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3404.81688651767
+Description	??	Units	??	Expected_yield	Value	3404.81688651767
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	6
+theEndDate
+day	20
+month	3
+year	7
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.18404315561379
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	282.912021720341
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	282.912021720341
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3394.94426064409
+Description	??	Units	??	Expected_yield	Value	3394.94426064409
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	7
+theEndDate
+day	20
+month	3
+year	8
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.16858085766025
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	282.150123425142
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	282.150123425142
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3385.8014811017
+Description	??	Units	??	Expected_yield	Value	3385.8014811017
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	8
+theEndDate
+day	20
+month	3
+year	9
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.15426162960296
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	281.422114892283
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	281.422114892283
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3377.06537870739
+Description	??	Units	??	Expected_yield	Value	3377.06537870739
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	9
+theEndDate
+day	20
+month	3
+year	10
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.14057933069857
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	280.715265838386
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	280.715265838386
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3368.58319006063
+Description	??	Units	??	Expected_yield	Value	3368.58319006063
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	10
+theEndDate
+day	20
+month	3
+year	11
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.12729470613831
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	280.023823806649
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	280.023823806649
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3360.28588567978
+Description	??	Units	??	Expected_yield	Value	3360.28588567978
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	11
+theEndDate
+day	20
+month	3
+year	12
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.11429964340721
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.414
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	279.345213654686
+Description	??	Units	??	Unit	Value	
+Description	??	Units	??	amount	Value	279.345213654686
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+product
+Description	??	Units	??	Modelled_yield	Value	3352.14256385623
+Description	??	Units	??	Expected_yield	Value	3352.14256385623
+Description	??	Units	??	Harvested	Value	True
+Description	??	Units	??	usableForBedding	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	3
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+fertRecord
+Description	??	Units	??	Namount	Value	100
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	storageType	Value	0
+Description	??	Units	??	speciesGroup	Value	0
+Description	??	Units	??	Units	Value	kg N/ha
+Description	??	Units	??	Month_applied	Value	5
+Description	??	Units	??	Applic_techniqueS	Value	Fertilizer spreading
+Description	??	Units	??	Applic_techniqueI	Value	5
+Description	??	Units	??	dayOfApplication	Value	0
+CropClass
+Description	??	Units	??	name	Value	Grass
+Description	??	Units	??	area	Value	10
+theStartDate
+day	21
+month	3
+year	12
+theEndDate
+day	20
+month	3
+year	13
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	4
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.10154574490242
+Description	??	Units	??	area	Value	10
+Description	??	Units	??	NyieldMax	Value	264
+Description	??	Units	??	GetStartMonth()	Value	3
+Description	??	Units	??	GetEndMonth()	Value	3
+Description	??	Units	??	Proportion_grazed	Value	FeedItem
+Description	??	Units	??	ash_conc	Value	0
+Description	??	Units	??	C_conc	Value	0
+Description	??	Units	??	N_conc	Value	0
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	feedCode	Value	201
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0
+Description	??	Units	??	fat_conc	Value	0
+Description	??	Units	??	DMdigestibility	Value	0
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0
+Description	??	Units	??	C_conc	Value	0
+Description	??	Units	??	N_conc	Value	0
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	feedCode	Value	203
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0
+Description	??	Units	??	fat_conc	Value	0
+Description	??	Units	??	DMdigestibility	Value	0
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0
+Description	??	Units	??	C_conc	Value	0
+Description	??	Units	??	N_conc	Value	0
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0
+Description	??	Units	??	fat_conc	Value	0
+Description	??	Units	??	DMdigestibility	Value	0
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0
+Description	??	Units	??	C_conc	Value	0
+Description	??	Units	??	N_conc	Value	0
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	feedCode	Value	781
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0
+Description	??	Units	??	fat_conc	Value	0
+Description	??	Units	??	DMdigestibility	Value	0
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0
+Description	??	Units	??	C_conc	Value	0
+Description	??	Units	??	N_conc	Value	0
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	0
+Description	??	Units	??	feedCode	Value	788
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0
+Description	??	Units	??	fat_conc	Value	0
+Description	??	Units	??	DMdigestibility	Value	0
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	0
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.022353
+Description	??	Units	??	C_conc	Value	0.448815392658305
+Description	??	Units	??	N_conc	Value	0.017312
+Description	??	Units	??	amount	Value	29907.1597068965
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	29907.1597068965
+Description	??	Units	??	feedCode	Value	201
+Description	??	Units	??	name	Value	Spring barley
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.6294117
+Description	??	Units	??	fibre_conc	Value	0.05294117
+Description	??	Units	??	fat_conc	Value	0.0306
+Description	??	Units	??	DMdigestibility	Value	0.85
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	15.19205
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.017647
+Description	??	Units	??	C_conc	Value	0.450912187223748
+Description	??	Units	??	N_conc	Value	0.018448
+Description	??	Units	??	amount	Value	31045.1734250904
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	31045.1734250904
+Description	??	Units	??	feedCode	Value	203
+Description	??	Units	??	name	Value	Wheat
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.712
+Description	??	Units	??	fibre_conc	Value	0.02823529
+Description	??	Units	??	fat_conc	Value	0.0247
+Description	??	Units	??	DMdigestibility	Value	0.9
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	16.06155
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.40534158198957
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	34798.3207395939
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	34798.3207395939
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	Cocksfoot, silage
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.045
+Description	??	Units	??	C_conc	Value	0.43841867257679
+Description	??	Units	??	N_conc	Value	0.0064
+Description	??	Units	??	amount	Value	19938.1064712643
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	19938.1064712643
+Description	??	Units	??	feedCode	Value	781
+Description	??	Units	??	name	Value	Spring barley - straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.452
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.45
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.623185
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.031
+Description	??	Units	??	C_conc	Value	0.444782994931366
+Description	??	Units	??	N_conc	Value	0.00528
+Description	??	Units	??	amount	Value	17740.0991000517
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	17740.0991000517
+Description	??	Units	??	feedCode	Value	788
+Description	??	Units	??	name	Value	Wheat- straw
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.453
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.44
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.519378
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.022353
+Description	??	Units	??	C_conc	Value	0.448815392658305
+Description	??	Units	??	N_conc	Value	0.017312
+Description	??	Units	??	amount	Value	29907.1597068965
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	29907.1597068965
+Description	??	Units	??	feedCode	Value	201
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.6294117
+Description	??	Units	??	fibre_conc	Value	0.05294117
+Description	??	Units	??	fat_conc	Value	0.0306
+Description	??	Units	??	DMdigestibility	Value	0.85
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	15.19205
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.017647
+Description	??	Units	??	C_conc	Value	0.450912187223748
+Description	??	Units	??	N_conc	Value	0.018448
+Description	??	Units	??	amount	Value	31045.1734250904
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	31045.1734250904
+Description	??	Units	??	feedCode	Value	203
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.712
+Description	??	Units	??	fibre_conc	Value	0.02823529
+Description	??	Units	??	fat_conc	Value	0.0247
+Description	??	Units	??	DMdigestibility	Value	0.9
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	16.06155
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.1
+Description	??	Units	??	C_conc	Value	0.40534158198957
+Description	??	Units	??	N_conc	Value	0.0264
+Description	??	Units	??	amount	Value	34798.3207395939
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	34798.3207395939
+Description	??	Units	??	feedCode	Value	555
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0.02
+Description	??	Units	??	fibre_conc	Value	0.28
+Description	??	Units	??	fat_conc	Value	0.04
+Description	??	Units	??	DMdigestibility	Value	0.68
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	11.92154
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.045
+Description	??	Units	??	C_conc	Value	0.43841867257679
+Description	??	Units	??	N_conc	Value	0.0064
+Description	??	Units	??	amount	Value	19938.1064712643
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	19938.1064712643
+Description	??	Units	??	feedCode	Value	781
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.452
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.45
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.623185
+FeedItem
+Description	??	Units	??	ash_conc	Value	0.031
+Description	??	Units	??	C_conc	Value	0.444782994931366
+Description	??	Units	??	N_conc	Value	0.00528
+Description	??	Units	??	amount	Value	17740.0991000517
+Description	??	Units	??	Unit	Value	kg/day
+Description	??	Units	??	amount	Value	17740.0991000517
+Description	??	Units	??	feedCode	Value	788
+Description	??	Units	??	name	Value	None
+Description	??	Units	??	nitrogenfreeExtract_conc	Value	0
+Description	??	Units	??	fibre_conc	Value	0.453
+Description	??	Units	??	fat_conc	Value	0.019
+Description	??	Units	??	DMdigestibility	Value	0.44
+Description	??	Units	??	fedAtPasture	Value	False
+Description	??	Units	??	beddingMaterial	Value	False
+Description	??	Units	??	energy_conc	Value	7.519378

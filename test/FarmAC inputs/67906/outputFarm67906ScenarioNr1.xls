@@ -1,0 +1,258 @@
+Farm	FarmBalance	FarmCBalance	carbonFromPlants	Value	0
+Description	C fixed from atmosphere	Units	kg C	Cmanimp	Value	0
+Description	C in imported manure	Units	kg C	CPlantProductImported	Value	0
+Description	C in imported feed	Units	kg C	CbeddingReq	Value	0
+Description	C in imported bedding	Units	kg C	Cmilk	Value	0
+Description	C in exported milk	Units	kg C	Cmeat	Value	0
+Description	C in exported meat	Units	kg C	Csold	Value	0
+Description	C in crop products sold	Units	kg C	CLost	Value	63586.0036660959
+Description	C lost to the environment	Units	kg C	livestockCH4C	Value	0
+Description	C in enteric methane emissions	Units	kg C	livestockCO2C	Value	0
+Description	C in CO2 emitted by livestock	Units	kg C	housingCLoss	Value	0
+Description	C in CO2 emitted from animal housing	Units	kg C	manurestoreCH4C	Value	0
+Description	C in methane emitted by manure	Units	kg C	manurestoreCO2C	Value	0
+Description	C in CO2 emitted by manure	Units	kg C	processStorageCloss	Value	0
+Description	C in CO2 lost from stored crop products	Units	kg C	soilCO2Emission	Value	61354.4318317115
+Description	C in CO2 emitted by the soil	Units	kg C	CDeltaSoil	Value	-63586.0036660969
+Description	Change in C stored in the soil	Units	kg C	Cbalance	Value	1.00408215075731E-09
+Description	Net C balance (should be zero)	Units	kg C	FarmNBalance	Nmanimp	Value	0
+Description	N in imported manure	Units	kg N	nFix	Value	0
+Description	N fixation	Units	kg N	Natm	Value	1000
+Description	N deposited from atmosphere	Units	kg N	nFert	Value	0
+Description	N in fertiliser	Units	kg N	Nbedding	Value	0
+Description	N in imported bedding	Units	kg N	NPlantProductImported	Value	0
+Description	N in imported crop products	Units	kg N	Nsold	Value	0
+Description	N sold in crop products	Units	kg N	Nmilk	Value	0
+Description	N exported in milk	Units	kg N	NGrowth	Value	0
+Description	N exported in meat	Units	kg N	Nmanexp	Value	0
+Description	N in exported manure	Units	kg N	NExport	Value	0
+Description	Total amount of N exported	Units	kg N	housingNLoss	Value	0
+Description	N lost in NH3 emission from housing	Units	kg N	manureN2Emission	Value	0
+Description	N lost in N2 emission from manure storage	Units	kg N	manureN2OEmission	Value	0
+Description	N lost in N2O emission from manure storage	Units	kg N	manureNH3Emission	Value	0
+Description	N lost in NH3 emission from manure storage	Units	kg N	runoffN	Value	0
+Description	N lost in runoff from manure storage	Units	kg N	fieldN2Emission	Value	1460.9629931519
+Description	Emission of N2 from the field	Units	kg N	fieldN2OEmission	Value	182.620374143987
+Description	Emission of N2O from the field	Units	kg N	fertNH3NEmission	Value	0
+Description	N lost via NH3 emission from fertilisers	Units	kg N	fieldmanureNH3Emission	Value	0
+Description	N lost as NH3 from field-applied manure	Units	kg N	Nleaching	Value	4243.71766995173
+Description	N lost via NO3 leaching from soil	Units	kg C	organicNLeached	Value	223.157183438445
+Description	N lost via leaching of organic N from soil	Units	kg C	NDeltaSoil	Value	-4709.06776117038
+Description	Change in N stored in soil	Units	kg N	Nbalance	Value	2.04636307898909E-12
+Description	N balance (should be zero)	Units	kg N	FarmDirectGHG	entericCH4CO2Eq	Value	0
+Description	Enteric methane emissions	Units	kg CO2 equivalents	manureCH4CO2Eq	Value	0
+Description	Manure methane emissions	Units	kg CO2 equivalents	manureN2OCO2Eq	Value	0
+Description	Manure N2O emissions	Units	kg CO2 equivalents	fieldN2OCO2Eq	Value	85521.1212116291
+Description	Field N2O emissions	Units	kg CO2 equivalents	CDeltaSoil	Value	-63586.0036660969
+Description	Change in C stored in soil	Units	kg CO2 equivalents	directGHGEmissionCO2Eq	Value	21935.1175455321
+Description	Total GHG emissions	Units	kg CO2 equivalents	FarmIndirectGHG	housingNH3CO2Eq	Value	0
+Description	Housing NH3 emissions	Units	kg CO2 equivalents	manurestoreNH3CO2Eq	Value	0
+Description	Manure storage NH3 emissions	Units	kg CO2 equivalents	fieldmanureNH3CO2Eq	Value	0
+Description	NH3 emissions from field-applied manure	Units	kg CO2 equivalents	fieldfertNH3CO2Eq	Value	0
+Description	NH3 emissions from fertilisers	Units	kg CO2 equivalents	leachedNCO2Eq	Value	14904.997386288
+Description	N2O emissions resulting from leaching of N	Units	kg CO2 equivalents	indirectGHGCO2Eq	Value	14904.997386288
+Description	Total indirect emissions	Units	kg CO2 equivalents	CropSequenceClass
+Description	??	Units	??	name	Value	1
+Description	??	Units	??	identity	Value	1
+Description	??	Units	??	soilType	Value	Coarse Sandy Soil
+CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	1
+theEndDate
+day	15
+month	11
+year	2
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	2.56498048331396
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	2
+theEndDate
+day	15
+month	11
+year	3
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	2.15081630334752
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	3
+theEndDate
+day	15
+month	11
+year	4
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.93284167118514
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	4
+theEndDate
+day	15
+month	11
+year	5
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.80665273938946
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	5
+theEndDate
+day	15
+month	11
+year	6
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.72915030765191
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	6
+theEndDate
+day	15
+month	11
+year	7
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.67804635024829
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	7
+theEndDate
+day	15
+month	11
+year	8
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.6410187716501
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	8
+theEndDate
+day	15
+month	11
+year	9
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.61134896535989
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	9
+theEndDate
+day	15
+month	11
+year	10
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.58550133691461
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	CropClass
+Description	??	Units	??	name	Value	Bare soil
+Description	??	Units	??	area	Value	100
+theStartDate
+day	16
+month	11
+year	10
+theEndDate
+day	15
+month	11
+year	11
+Description	??	Units	??	isIrrigated	Value	True
+Description	??	Units	??	Proportion_grazed	Value	Description	??	Units	??	identity	Value	1
+Description	??	Units	??	fertiliserN2OEmission	Value	0
+Description	??	Units	??	cropResidueN2O	Value	0
+Description	??	Units	??	soilN2OEmission	Value	1.56168048533781
+Description	??	Units	??	area	Value	100
+Description	??	Units	??	NyieldMax	Value	0
+Description	??	Units	??	GetStartMonth()	Value	11
+Description	??	Units	??	GetEndMonth()	Value	11
+Description	??	Units	??	Proportion_grazed	Value	

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <settings>
+    <Identity>0</Identity>
+    <constants>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\constants.xml </constants>
+    <parameters>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\parameters.xml</parameters>
+    <farm>K:\NJH\FarmAC inputs\farm_67893_1.xml</farm>
+    <fertAndManure>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\fertMan.xml</fertAndManure>
+    <feedItems>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\feedstuff.xml</feedItems>
+    <outputDir>K:\NJH\FarmAC inputs\67893\</outputDir>
+ <pauseBeforeExit>true</pauseBeforeExit>
+<stopOnError>true</stopOnError>
+  </settings>
+  <settings>
+    <Identity>1</Identity>
+    <constants>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\constants.xml </constants>
+    <parameters>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\parameters.xml</parameters>
+    <farm>K:\NJH\FarmAC inputs\farm_67895_1.xml</farm>
+    <fertAndManure>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\fertMan.xml</fertAndManure>
+    <feedItems>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\feedstuff.xml</feedItems>
+    <outputDir>K:\NJH\FarmAC inputs\67895\</outputDir>
+ <pauseBeforeExit>true</pauseBeforeExit>
+<stopOnError>true</stopOnError>
+  </settings>
+  <settings>
+    <Identity>2</Identity>
+    <constants>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\constants.xml </constants>
+    <parameters>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\parameters.xml</parameters>
+    <farm>K:\NJH\FarmAC inputs\farm_67897_1.xml</farm>
+    <fertAndManure>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\fertMan.xml</fertAndManure>
+    <feedItems>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\feedstuff.xml</feedItems>
+    <outputDir>K:\NJH\FarmAC inputs\67897\</outputDir>
+ <pauseBeforeExit>true</pauseBeforeExit>
+<stopOnError>true</stopOnError>
+  </settings>
+  <settings>
+    <Identity>3</Identity>
+    <constants>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\constants.xml </constants>
+    <parameters>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\parameters.xml</parameters>
+    <farm>K:\NJH\FarmAC inputs\farm_67898_1.xml</farm>
+    <fertAndManure>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\fertMan.xml</fertAndManure>
+    <feedItems>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\feedstuff.xml</feedItems>
+    <outputDir>K:\NJH\FarmAC inputs\67898\</outputDir>
+ <pauseBeforeExit>true</pauseBeforeExit>
+<stopOnError>true</stopOnError>
+  </settings>
+  <settings>
+    <Identity>4</Identity>
+    <constants>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\constants.xml </constants>
+    <parameters>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\parameters.xml</parameters>
+    <farm>K:\NJH\FarmAC inputs\farm_67900_1.xml</farm>
+    <fertAndManure>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\fertMan.xml</fertAndManure>
+    <feedItems>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\feedstuff.xml</feedItems>
+    <outputDir>K:\NJH\FarmAC inputs\67900\</outputDir>
+ <pauseBeforeExit>true</pauseBeforeExit>
+<stopOnError>true</stopOnError>
+  </settings>
+  <settings>
+    <Identity>5</Identity>
+    <constants>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\constants.xml </constants>
+    <parameters>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\parameters.xml</parameters>
+    <farm>K:\NJH\FarmAC inputs\farm_67903_1.xml</farm>
+    <fertAndManure>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\fertMan.xml</fertAndManure>
+    <feedItems>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\feedstuff.xml</feedItems>
+    <outputDir>K:\NJH\FarmAC inputs\67903\</outputDir>
+ <pauseBeforeExit>true</pauseBeforeExit>
+<stopOnError>true</stopOnError>
+  </settings>
+  <settings>
+    <Identity>6</Identity>
+    <constants>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\constants.xml </constants>
+    <parameters>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\parameters.xml</parameters>
+    <farm>K:\NJH\FarmAC inputs\farm_67906_1.xml</farm>
+    <fertAndManure>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\fertMan.xml</fertAndManure>
+    <feedItems>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\feedstuff.xml</feedItems>
+    <outputDir>K:\NJH\FarmAC inputs\67906\</outputDir>
+ <pauseBeforeExit>true</pauseBeforeExit>
+<stopOnError>true</stopOnError>
+  </settings>
+  <settings>
+    <Identity>7</Identity>
+    <constants>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\constants.xml </constants>
+    <parameters>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\parameters.xml</parameters>
+    <farm>K:\NJH\FarmAC inputs\farm_67908_1.xml</farm>
+    <fertAndManure>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\fertMan.xml</fertAndManure>
+    <feedItems>C:\Users\jove\Desktop\main\tools\annimalChange\inputFiles\feedstuff.xml</feedItems>
+    <outputDir>K:\NJH\FarmAC inputs\67908\</outputDir>
+ <pauseBeforeExit>true</pauseBeforeExit>
+<stopOnError>true</stopOnError>
+  </settings>
+
+ 
+</xml>
