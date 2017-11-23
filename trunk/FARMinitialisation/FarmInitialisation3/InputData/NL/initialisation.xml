@@ -1,0 +1,1008 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!-- NitroScape XML file generated using Datum on 07-12-2010 12:27:51 -->
+<init>
+ <site>
+  <site_id>201</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SC_1</site_code>
+  <latitude>56.342233</latitude>
+  <longitude>9.664471</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2>25</depth2>
+  <soil_chem>
+   <id>189</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-10-15 12:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem>0.00</soilno3_level_1_sem>
+   <soilno3_level_2>0.00</soilno3_level_2>
+   <soilno3_level_2_sem>0.00</soilno3_level_2_sem>
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem>0.00</soilnh4_level_1_sem>
+   <soilnh4_level_2>0.00</soilnh4_level_2>
+   <soilnh4_level_2_sem>0.00</soilnh4_level_2_sem>
+  </soil_chem>
+  <soil_chem>
+   <id>193</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-11-15 12:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem>0.00</soilno3_level_1_sem>
+   <soilno3_level_2>0.00</soilno3_level_2>
+   <soilno3_level_2_sem>0.00</soilno3_level_2_sem>
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem>0.00</soilnh4_level_1_sem>
+   <soilnh4_level_2>0.00</soilnh4_level_2>
+   <soilnh4_level_2_sem>0.00</soilnh4_level_2_sem>
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>202</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SC_2</site_code>
+  <latitude>56.342882</latitude>
+  <longitude>9.666565</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2>25</depth2>
+  <soil_chem>
+   <id>190</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-10-15 12:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem>0.00</soilno3_level_1_sem>
+   <soilno3_level_2>0.00</soilno3_level_2>
+   <soilno3_level_2_sem>0.00</soilno3_level_2_sem>
+   <soilnh4_level_1>0.04</soilnh4_level_1>
+   <soilnh4_level_1_sem>0.00</soilnh4_level_1_sem>
+   <soilnh4_level_2>0.04</soilnh4_level_2>
+   <soilnh4_level_2_sem>0.00</soilnh4_level_2_sem>
+  </soil_chem>
+  <soil_chem>
+   <id>194</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-11-15 12:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem>0.00</soilno3_level_1_sem>
+   <soilno3_level_2>0.00</soilno3_level_2>
+   <soilno3_level_2_sem>0.00</soilno3_level_2_sem>
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem>0.00</soilnh4_level_1_sem>
+   <soilnh4_level_2>0.03</soilnh4_level_2>
+   <soilnh4_level_2_sem>0.00</soilnh4_level_2_sem>
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>203</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SC_3</site_code>
+  <latitude>56.342747</latitude>
+  <longitude>9.668079</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2>25</depth2>
+  <soil_chem>
+   <id>191</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-10-15 12:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem>0.00</soilno3_level_1_sem>
+   <soilno3_level_2>0.01</soilno3_level_2>
+   <soilno3_level_2_sem>0.00</soilno3_level_2_sem>
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem>0.00</soilnh4_level_1_sem>
+   <soilnh4_level_2>0.00</soilnh4_level_2>
+   <soilnh4_level_2_sem>0.00</soilnh4_level_2_sem>
+  </soil_chem>
+  <soil_chem>
+   <id>195</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-11-15 12:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem>0.00</soilno3_level_1_sem>
+   <soilno3_level_2>0.01</soilno3_level_2>
+   <soilno3_level_2_sem>0.00</soilno3_level_2_sem>
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem>0.00</soilnh4_level_1_sem>
+   <soilnh4_level_2>0.00</soilnh4_level_2>
+   <soilnh4_level_2_sem>0.00</soilnh4_level_2_sem>
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>204</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SC_4</site_code>
+  <latitude>56.343068</latitude>
+  <longitude>9.667725</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2>25</depth2>
+  <soil_chem>
+   <id>192</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-10-15 12:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem>0.00</soilno3_level_1_sem>
+   <soilno3_level_2>0.01</soilno3_level_2>
+   <soilno3_level_2_sem>0.00</soilno3_level_2_sem>
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem>0.00</soilnh4_level_1_sem>
+   <soilnh4_level_2>0.00</soilnh4_level_2>
+   <soilnh4_level_2_sem>0.00</soilnh4_level_2_sem>
+  </soil_chem>
+  <soil_chem>
+   <id>196</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-11-15 12:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem>0.00</soilno3_level_1_sem>
+   <soilno3_level_2>0.01</soilno3_level_2>
+   <soilno3_level_2_sem>0.00</soilno3_level_2_sem>
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem>0.00</soilnh4_level_1_sem>
+   <soilnh4_level_2>0.00</soilnh4_level_2>
+   <soilnh4_level_2_sem>0.00</soilnh4_level_2_sem>
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>426</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SC_5</site_code>
+  <latitude>56.343150</latitude>
+  <longitude>9.662800</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2>25</depth2>
+ </site>
+ <site>
+  <site_id>107</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_1</site_code>
+  <latitude>53.147400</latitude>
+  <longitude>6.112800</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>108</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_2</site_code>
+  <latitude>53.136100</latitude>
+  <longitude>6.122200</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>109</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_3</site_code>
+  <latitude>53.129200</latitude>
+  <longitude>6.103400</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>110</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_4</site_code>
+  <latitude>53.143400</latitude>
+  <longitude>6.108300</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>111</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_5</site_code>
+  <latitude>53.143400</latitude>
+  <longitude>6.113800</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>112</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_6</site_code>
+  <latitude>53.148900</latitude>
+  <longitude>6.150600</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>113</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_7</site_code>
+  <latitude>53.143700</latitude>
+  <longitude>6.109400</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>114</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_8</site_code>
+  <latitude>53.164500</latitude>
+  <longitude>6.157900</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>115</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_9</site_code>
+  <latitude>53.131500</latitude>
+  <longitude>6.155100</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>116</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_10</site_code>
+  <latitude>53.092679</latitude>
+  <longitude>6.185468</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>117</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_11</site_code>
+  <latitude>53.169444</latitude>
+  <longitude>6.181933</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>118</site_id>
+  <landscape_id>4</landscape_id>
+  <site_code>NL_SP_12</site_code>
+  <latitude>53.161012</latitude>
+  <longitude>6.044465</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>165</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_1</site_code>
+  <latitude>56.342233</latitude>
+  <longitude>9.664471</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+  <soil_prop>
+   <soil_prop_id>120</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>25</sdepth>
+   <sand>58.7</sand>
+   <silt>26.1</silt>
+   <clay>12.1</clay>
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc>20.38</toc>
+   <ton>1.9594</ton>
+   <tn>1.96</tn>
+   <soil_cn>10.375</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>121</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>50</sdepth>
+   <sand>57.4</sand>
+   <silt>25.1</silt>
+   <clay>15.6</clay>
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc>10.20</toc>
+   <ton>0.8264</ton>
+   <tn>0.83</tn>
+   <soil_cn>12.286</soil_cn>
+  </soil_prop>
+ </site>
+ <site>
+  <site_id>166</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_2</site_code>
+  <latitude>56.342882</latitude>
+  <longitude>9.666565</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+  <soil_prop>
+   <soil_prop_id>122</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>25</sdepth>
+   <sand />
+   <silt />
+   <clay />
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc>374.24</toc>
+   <ton>31.0356</ton>
+   <tn>31.07</tn>
+   <soil_cn>12.044</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>123</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>50</sdepth>
+   <sand />
+   <silt />
+   <clay />
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc>624.37</toc>
+   <ton>49.6835</ton>
+   <tn>49.72</tn>
+   <soil_cn>12.558</soil_cn>
+  </soil_prop>
+ </site>
+ <site>
+  <site_id>167</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_3</site_code>
+  <latitude>56.342747</latitude>
+  <longitude>9.668079</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+  <soil_prop>
+   <soil_prop_id>124</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>25</sdepth>
+   <sand>63.0</sand>
+   <silt>21.8</silt>
+   <clay>11.6</clay>
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc>23.85</toc>
+   <ton>2.0233</ton>
+   <tn>2.03</tn>
+   <soil_cn>11.750</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>125</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>50</sdepth>
+   <sand>59.9</sand>
+   <silt>22.5</silt>
+   <clay>15.6</clay>
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc>7.93</toc>
+   <ton>0.8263</ton>
+   <tn>0.83</tn>
+   <soil_cn>9.571</soil_cn>
+  </soil_prop>
+ </site>
+ <site>
+  <site_id>168</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_4</site_code>
+  <latitude>56.343068</latitude>
+  <longitude>9.667725</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+  <soil_prop>
+   <soil_prop_id>126</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>25</sdepth>
+   <sand>64.6</sand>
+   <silt>20.8</silt>
+   <clay>11.5</clay>
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc>20.26</toc>
+   <ton>1.8603</ton>
+   <tn>1.86</tn>
+   <soil_cn>10.867</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>127</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>50</sdepth>
+   <sand>68.2</sand>
+   <silt>18.7</silt>
+   <clay>11.9</clay>
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc>7.51</toc>
+   <ton>4.3383</ton>
+   <tn>4.34</tn>
+   <soil_cn>1.730</soil_cn>
+  </soil_prop>
+ </site>
+ <site>
+  <site_id>169</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_5</site_code>
+  <latitude>56.341108</latitude>
+  <longitude>9.686168</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+  <soil_prop>
+   <soil_prop_id>128</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>25</sdepth>
+   <sand>63.1</sand>
+   <silt>21.4</silt>
+   <clay>12.6</clay>
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>129</soil_prop_id>
+   <date>2007-10-15</date>
+   <sdepth>50</sdepth>
+   <sand>57.8</sand>
+   <silt>22.3</silt>
+   <clay>18.4</clay>
+   <bd />
+   <shc />
+   <fc />
+   <wp />
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+ </site>
+ <site>
+  <site_id>170</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_6</site_code>
+  <latitude>56.351632</latitude>
+  <longitude>9.625161</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>171</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_7</site_code>
+  <latitude>56.350099</latitude>
+  <longitude>9.682545</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>172</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_8</site_code>
+  <latitude>56.351785</latitude>
+  <longitude>9.734841</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>173</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_9</site_code>
+  <latitude>56.321654</latitude>
+  <longitude>9.620936</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>174</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_10</site_code>
+  <latitude>56.321385</latitude>
+  <longitude>9.734096</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>175</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_11</site_code>
+  <latitude>56.320817</latitude>
+  <longitude>9.677754</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>176</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_12</site_code>
+  <latitude>56.336254</latitude>
+  <longitude>9.647295</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>177</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_SP_13</site_code>
+  <latitude>56.336230</latitude>
+  <longitude>9.651824</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>225</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_1</site_code>
+  <latitude>56.342244</latitude>
+  <longitude>9.673235</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>226</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_2</site_code>
+  <latitude>56.342382</latitude>
+  <longitude>9.672671</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>227</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_3</site_code>
+  <latitude>56.342792</latitude>
+  <longitude>9.673325</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>228</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_4</site_code>
+  <latitude>56.342983</latitude>
+  <longitude>9.672843</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>229</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_5</site_code>
+  <latitude>56.341803</latitude>
+  <longitude>9.672391</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>230</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_6</site_code>
+  <latitude>56.341924</latitude>
+  <longitude>9.671857</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>231</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_7</site_code>
+  <latitude>56.341414</latitude>
+  <longitude>9.671615</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>232</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_8</site_code>
+  <latitude>56.341801</latitude>
+  <longitude>9.670694</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>233</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_9</site_code>
+  <latitude>56.343275</latitude>
+  <longitude>9.667875</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>234</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_10</site_code>
+  <latitude>56.343556</latitude>
+  <longitude>9.668036</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>235</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_11</site_code>
+  <latitude>56.343831</latitude>
+  <longitude>9.667498</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>236</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_12</site_code>
+  <latitude>56.344218</latitude>
+  <longitude>9.667701</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>237</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_13</site_code>
+  <latitude>56.342027</latitude>
+  <longitude>9.663557</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>238</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_14</site_code>
+  <latitude>56.341736</latitude>
+  <longitude>9.663568</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>239</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_15</site_code>
+  <latitude>56.341636</latitude>
+  <longitude>9.662330</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>240</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_16</site_code>
+  <latitude>56.341278</latitude>
+  <longitude>9.662348</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>241</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_17</site_code>
+  <latitude>56.343160</latitude>
+  <longitude>9.662501</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>242</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_18</site_code>
+  <latitude>56.343135</latitude>
+  <longitude>9.661578</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>243</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_19</site_code>
+  <latitude>56.343484</latitude>
+  <longitude>9.661791</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>244</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_20</site_code>
+  <latitude>56.343499</latitude>
+  <longitude>9.662329</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>245</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_21</site_code>
+  <latitude>56.341848</latitude>
+  <longitude>9.657793</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>246</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_22</site_code>
+  <latitude>56.341515</latitude>
+  <longitude>9.657828</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>247</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_23</site_code>
+  <latitude>56.341616</latitude>
+  <longitude>9.655898</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>248</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_24</site_code>
+  <latitude>56.342217</latitude>
+  <longitude>9.655782</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>249</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_25</site_code>
+  <latitude>56.343581</latitude>
+  <longitude>9.654577</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>250</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_26</site_code>
+  <latitude>56.343635</latitude>
+  <longitude>9.654108</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>251</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_27</site_code>
+  <latitude>56.343794</latitude>
+  <longitude>9.654199</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>252</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_28</site_code>
+  <latitude>56.343753</latitude>
+  <longitude>9.654677</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>253</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_29</site_code>
+  <latitude>56.343070</latitude>
+  <longitude>9.654557</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>254</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_30</site_code>
+  <latitude>56.343063</latitude>
+  <longitude>9.654111</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>255</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_31</site_code>
+  <latitude>56.342891</latitude>
+  <longitude>9.654109</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>256</site_id>
+  <landscape_id>1</landscape_id>
+  <site_code>DK_ECO_32</site_code>
+  <latitude>56.342904</latitude>
+  <longitude>9.654597</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <comments>
+  <site>
+   <comment>measurement sites</comment>
+   <site_id comment="" unit="" />
+   <landscape_id comment="" unit="" />
+   <site_code comment="Site code (eg. UK_CNT_NH3_1 for the first NH3 continuous sampling in UK)" unit="" />
+   <latitude comment="Unit: decimal deg N" unit="" />
+   <longitude comment="Unit: decimal deg E" unit="" />
+   <measurement_type comment="" unit="" />
+   <depth1 comment="Depth of layer, Level 1. Unit: m" unit="m" />
+   <depth2 comment="Depth of layer, Level 2. Unit: m" unit="m" />
+  </site>
+  <ecosystem>
+   <comment>DONNÃES ÃcosystÃ¨me (indice foliaire, azote, chlorophyle, biomasse sÃ¨che)</comment>
+   <id comment="" unit="" />
+   <measurement_period comment="" unit="" />
+   <site_id comment="" unit="" />
+   <datetime comment="" unit="" />
+   <lai comment="LAI. Once/Twice during period . Unit: m2 leaf area m-2 ground area" unit="m2 leaf area m-2 ground area" />
+   <lai_sem comment="Standard error of the mean of LAI (m2 leaf area m-2 ground area) Once/Twice during period" unit="" />
+   <veg_n comment="Vegetation N. Once/Twice during period. Unit: g N m-2 ground area" unit="g N m-2 ground area" />
+   <veg_n_sem comment="Standard error of the mean of Vegetation N (g N m-2 ground area) Once/Twice during period" unit="" />
+   <chlorophyll comment="Chlorophyll. Once/Twice during period. Unit: mg m-2 leaf area" unit="mg m-2 leaf area" />
+   <chlorophyll_sem comment="Standard error of the mean of Chlorophyll (mg m-2 leaf area) Once/Twice during period" unit="" />
+   <green_leaf_area comment="Green leaf area. Once/Twice during period. Unit: mÂ² green leaves m-2 ground area" unit="mÂ² green leaves m-2 ground area" />
+   <green_leaf_area_sem comment="Standard error of the mean of Green leaf area (mÂ² green leaves m-2 ground area) Once/Twice during period" unit="" />
+   <green_leaf_n comment="Green leaf N content. Once/Twice during period. Unit: g N m-2 green leaf area" unit="g N m-2 green leaf area" />
+   <green_leaf_n_sem comment="Standard error of the mean of Green leaf N content. Once/Twice during period. Unit: g N m-2 green leaf area" unit="g N m-2 green leaf area" />
+   <drybiomass comment="Dry biomass Once/Twice during period. Unit: g m-2 ground area" unit="g m-2 ground area" />
+   <drybiomass_sem comment="Standard error of the mean of Dry biomass  Once/Twice during period (g m-2 ground area)" unit="" />
+  </ecosystem>
+  <soil_prop>
+   <comment>DATA: One-off soil property measurements (once)</comment>
+   <soil_prop_id comment="" unit="" />
+   <site_id comment="" unit="" />
+   <date comment="" unit="" />
+   <sdepth comment="Soil depth Ex. &quot;0-50&quot;. Unit: cm" unit="cm" />
+   <sand comment="Texture. Unit: %" unit="%" />
+   <silt comment="Texture. Unit: %" unit="%" />
+   <clay comment="Texture. Unit: %" unit="%" />
+   <bd comment="Bulk density. Unit: g cm-3 dry soil" unit="g cm-3 dry soil" />
+   <shc comment="Saturated conductivity. Unit: m h-1 MPa-1" unit="m h-1 MPa-1" />
+   <fc comment="Field capacity. Unit: % water by volume" unit="% water by volume" />
+   <wp comment="Wilting point. Unit: % water by volume" unit="% water by volume" />
+   <infrate comment="Infiltration rates. Unit: mm h-1" unit="mm h-1" />
+   <pf_p1 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <pf_p2 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <pf_p3 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <ph comment="pH" unit="" />
+   <toc comment="organic Carbon. Unit: g-C kg-1 dry soil" unit="g-C kg-1 dry soil" />
+   <ton comment="Total organic N. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <tn comment="Total N Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soil_cn comment="C:N ratio" unit="" />
+  </soil_prop>
+  <soil_chem>
+   <comment>DATA: Soil chemistry measurements (monthly)</comment>
+   <id comment="" unit="" />
+   <measurement_period comment="" unit="" />
+   <site_id comment="" unit="" />
+   <datetime comment="" unit="" />
+   <soilno3_level_1 comment="monthly NO3- concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilno3_level_1_sem comment="Standard error of the mean of monthly NO3- concentration (g-N kg-1 dry soil)" unit="" />
+   <soilno3_level_2 comment="monthly NO3- concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilno3_level_2_sem comment="Standard error of the mean of monthly NO3- concentration (g-N kg-1 dry soil)" unit="" />
+   <soilnh4_level_1 comment="monthly NH4 concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilnh4_level_1_sem comment="Standard error of the mean of monthly NH4 concentration (g-N kg-1 dry soil)" unit="" />
+   <soilnh4_level_2 comment="monthly NH4 concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilnh4_level_2_sem comment="Standard error of the mean of monthly NH4 concentration (g-N kg-1 dry soil)" unit="" />
+  </soil_chem>
+ </comments>
+</init><!-- Temps d'exécution : 11.270 secondes.-->

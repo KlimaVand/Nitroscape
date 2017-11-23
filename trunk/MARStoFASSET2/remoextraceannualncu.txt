@@ -1,0 +1,24 @@
+c:\\Datastore\\JRCMetdatastore\\a1b
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\MARSmetDataAccess2\\output
+remoA1B_ncu
+climate_ncus.txt
+2001
+10
+1,40
+2001,2030
+1,365
+1,4
+
+
+Line 1: input folder
+Line 2: output folder (used in the example program)
+Line 3: trunc of file name for climate data on Tmin/Tmax/Prec/Vap
+Line 4: trunc of file name for climate data on radiation
+Line 5: file name assigning NCU-index to NCU-number
+Line 6: first year considered in the climate data set
+Line 7: number of years stored in one set of files
+Line 8: NCUs (all between first and second number inclusive - max possible 40991)
+Line 9: years (all between first and second number incl. - max possible 2000)
+Line 10: days (Julian days, all between first and second number incl.)
+Line 11:  parameters (all between parameter #1 (Tmin) and #5 (Rad) incl.
+

@@ -1,0 +1,6 @@
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FieldOperations\\OutputData\\Route_2B\\
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FieldOperations\\OutputData\\Route_2_Reader\\
+data4nick_norm_grap_p150_spring.txt
+testout.txt
+0	//stop at end of each series
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="src"
+        root="/home/maury/Documents/nitroeurope/nitroscape/PRE_PROCESSING/FASSET/src">
+      <df name="base">
+        <in>bstime.cpp</in>
+        <in>bstime.h</in>
+        <in>cloneList.h</in>
+        <in>common.h</in>
+        <in>comsort.cpp</in>
+        <in>comsort.h</in>
+        <in>linklist.h</in>
+        <in>message.cpp</in>
+        <in>message.h</in>
+        <in>unix_util.cpp</in>
+        <in>unix_util.h</in>
+      </df>
+      <df name="tools">
+        <in>compare.cpp</in>
+        <in>compare.h</in>
+        <in>convertData.cpp</in>
+        <in>convertData.h</in>
+        <in>fileAccess.cpp</in>
+        <in>fileAccess.h</in>
+      </df>
+      <in>FARM_initiator.cpp</in>
+      <in>animalHousingClass.cpp</in>
+      <in>animalHousingClass.h</in>
+      <in>animalSectionClass.cpp</in>
+      <in>animalSectionClass.h</in>
+      <in>cropSeriesClass.cpp</in>
+      <in>cropSeriesClass.h</in>
+      <in>farmInitClass.cpp</in>
+      <in>farmInitClass.h</in>
+      <in>feedingRecordClass.cpp</in>
+      <in>feedingRecordClass.h</in>
+      <in>fieldOp.cpp</in>
+      <in>fieldOp.h</in>
+      <in>fieldOpFert.cpp</in>
+      <in>fieldOpFert.h</in>
+      <in>fieldOpHarv.cpp</in>
+      <in>fieldOpHarv.h</in>
+      <in>fieldOpSow.cpp</in>
+      <in>fieldOpSow.h</in>
+      <in>fieldOpTill.cpp</in>
+      <in>fieldOpTill.h</in>
+      <in>manureStorageClass.cpp</in>
+      <in>manureStorageClass.h</in>
+      <in>sectionRecordClass.cpp</in>
+      <in>sectionRecordClass.h</in>
+      <in>xmlParser.cpp</in>
+      <in>xmlParser.h</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>/home/maury/Documents/nitroeurope/nitroscape/PRE_PROCESSING/FASSET/src/Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>/home/maury/Documents/nitroeurope/nitroscape/PRE_PROCESSING/FASSET/src</Elem>
+  </sourceRootList>
+  <projectmakefile>/home/maury/Documents/nitroeurope/nitroscape/PRE_PROCESSING/FASSET/src/Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>/home/maury/Documents/nitroeurope/nitroscape/PRE_PROCESSING/FASSET/src</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>tools</pElem>
+              <pElem>base</pElem>
+              <pElem>/usr/include/glib-2.0</pElem>
+              <pElem>/usr/lib64/glib-2.0/include</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>UNIX</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="/home/maury/Documents/nitroeurope/nitroscape/PRE_PROCESSING/FASSET/src/base/cloneList.h"
+            ex="true"
+            tool="3"
+            flavor="0">
+      </item>
+      <folder path="src/base">
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="src/tools">
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+    </conf>
+  </confs>
+</configurationDescriptor>

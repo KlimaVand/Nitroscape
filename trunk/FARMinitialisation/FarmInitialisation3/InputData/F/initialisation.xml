@@ -1,0 +1,560 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!-- NitroScape XML file generated using Datum on 24-02-2011 10:23:07 -->
+<init>
+ <site>
+  <site_id>106</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_6a</site_code>
+  <latitude>48.015440</latitude>
+  <longitude>-2.824580</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>103</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_7</site_code>
+  <latitude>48.015715</latitude>
+  <longitude>-2.824900</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>102</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_8</site_code>
+  <latitude>48.015395</latitude>
+  <longitude>-2.820460</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>616</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SP_1</site_code>
+  <latitude />
+  <longitude />
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>617</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SP_2</site_code>
+  <latitude />
+  <longitude />
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>618</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SP_3</site_code>
+  <latitude />
+  <longitude />
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>619</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SP_4</site_code>
+  <latitude />
+  <longitude />
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>620</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SP_5</site_code>
+  <latitude />
+  <longitude />
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>621</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SC_1</site_code>
+  <latitude>48.016640</latitude>
+  <longitude>-2.828640</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>622</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SC_2</site_code>
+  <latitude>48.005800</latitude>
+  <longitude>-2.817950</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>623</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SC_3</site_code>
+  <latitude>48.013130</latitude>
+  <longitude>-2.814640</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>624</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_SC_4</site_code>
+  <latitude>48.012960</latitude>
+  <longitude>-2.814130</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>632</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_1</site_code>
+  <latitude>48.005850</latitude>
+  <longitude>-2.816595</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+  <ecosystem>
+   <id>91</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2008-04-17 10:00:00</datetime>
+   <lai>0.48</lai>
+   <lai_sem>0.250</lai_sem>
+   <veg_n>0.6400000</veg_n>
+   <veg_n_sem>0.0500000</veg_n_sem>
+   <chlorophyll />
+   <chlorophyll_sem />
+   <green_leaf_area>0.48</green_leaf_area>
+   <green_leaf_area_sem>0.25</green_leaf_area_sem>
+   <green_leaf_n>6.71</green_leaf_n>
+   <green_leaf_n_sem>3.33</green_leaf_n_sem>
+   <drybiomass>187.32</drybiomass>
+   <drybiomass_sem>5.88</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>93</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2008-06-24 10:00:00</datetime>
+   <lai>0.64</lai>
+   <lai_sem>0.050</lai_sem>
+   <veg_n>0.4100000</veg_n>
+   <veg_n_sem>0.0200000</veg_n_sem>
+   <chlorophyll />
+   <chlorophyll_sem />
+   <green_leaf_area>0.64</green_leaf_area>
+   <green_leaf_area_sem>0.05</green_leaf_area_sem>
+   <green_leaf_n>1.71</green_leaf_n>
+   <green_leaf_n_sem>0.13</green_leaf_n_sem>
+   <drybiomass>93.58</drybiomass>
+   <drybiomass_sem>9.58</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>97</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2008-09-10 10:00:00</datetime>
+   <lai>2.66</lai>
+   <lai_sem>0.730</lai_sem>
+   <veg_n>3.2700000</veg_n>
+   <veg_n_sem>2.3600000</veg_n_sem>
+   <chlorophyll />
+   <chlorophyll_sem />
+   <green_leaf_area>2.66</green_leaf_area>
+   <green_leaf_area_sem>0.73</green_leaf_area_sem>
+   <green_leaf_n>0.95</green_leaf_n>
+   <green_leaf_n_sem>0.32</green_leaf_n_sem>
+   <drybiomass>187.18</drybiomass>
+   <drybiomass_sem>119.42</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>100</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2009-04-01 10:00:00</datetime>
+   <lai>1.84</lai>
+   <lai_sem>0.030</lai_sem>
+   <veg_n>4.8000000</veg_n>
+   <veg_n_sem>0.9900000</veg_n_sem>
+   <chlorophyll>35.28</chlorophyll>
+   <chlorophyll_sem>0.81</chlorophyll_sem>
+   <green_leaf_area>1.84</green_leaf_area>
+   <green_leaf_area_sem>0.03</green_leaf_area_sem>
+   <green_leaf_n>2.95</green_leaf_n>
+   <green_leaf_n_sem>0.36</green_leaf_n_sem>
+   <drybiomass>197.06</drybiomass>
+   <drybiomass_sem>47.02</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>102</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2009-06-17 10:00:00</datetime>
+   <lai>1.36</lai>
+   <lai_sem>0.100</lai_sem>
+   <veg_n>6.1900000</veg_n>
+   <veg_n_sem>1.7700000</veg_n_sem>
+   <chlorophyll>32.39</chlorophyll>
+   <chlorophyll_sem>0.70</chlorophyll_sem>
+   <green_leaf_area>1.36</green_leaf_area>
+   <green_leaf_area_sem>0.10</green_leaf_area_sem>
+   <green_leaf_n>2.59</green_leaf_n>
+   <green_leaf_n_sem>0.12</green_leaf_n_sem>
+   <drybiomass>271.50</drybiomass>
+   <drybiomass_sem>28.46</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>106</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2009-09-16 10:00:00</datetime>
+   <lai>0.73</lai>
+   <lai_sem>0.000</lai_sem>
+   <veg_n>8.1800000</veg_n>
+   <veg_n_sem>2.2500000</veg_n_sem>
+   <chlorophyll>32.87</chlorophyll>
+   <chlorophyll_sem>0.87</chlorophyll_sem>
+   <green_leaf_area>0.62</green_leaf_area>
+   <green_leaf_area_sem>0.06</green_leaf_area_sem>
+   <green_leaf_n>1.90</green_leaf_n>
+   <green_leaf_n_sem>1.62</green_leaf_n_sem>
+   <drybiomass>435.28</drybiomass>
+   <drybiomass_sem>60.32</drybiomass_sem>
+  </ecosystem>
+ </site>
+ <site>
+  <site_id>633</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_2</site_code>
+  <latitude>48.015715</latitude>
+  <longitude>-2.824900</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+  <ecosystem>
+   <id>92</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2008-04-17 10:00:00</datetime>
+   <lai>4.02</lai>
+   <lai_sem>0.010</lai_sem>
+   <veg_n>1.0200000</veg_n>
+   <veg_n_sem>0.1700000</veg_n_sem>
+   <chlorophyll />
+   <chlorophyll_sem />
+   <green_leaf_area>4.02</green_leaf_area>
+   <green_leaf_area_sem>0.01</green_leaf_area_sem>
+   <green_leaf_n>2.38</green_leaf_n>
+   <green_leaf_n_sem>0.03</green_leaf_n_sem>
+   <drybiomass>676.58</drybiomass>
+   <drybiomass_sem>50.42</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>94</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2008-06-24 10:00:00</datetime>
+   <lai>2.03</lai>
+   <lai_sem>1.210</lai_sem>
+   <veg_n>0.2200000</veg_n>
+   <veg_n_sem>0.0600000</veg_n_sem>
+   <chlorophyll>9.14</chlorophyll>
+   <chlorophyll_sem>0.48</chlorophyll_sem>
+   <green_leaf_area />
+   <green_leaf_area_sem />
+   <green_leaf_n />
+   <green_leaf_n_sem />
+   <drybiomass>1277.98</drybiomass>
+   <drybiomass_sem>538.10</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>104</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2009-06-17 10:00:00</datetime>
+   <lai>7.15</lai>
+   <lai_sem>0.870</lai_sem>
+   <veg_n>21.9700000</veg_n>
+   <veg_n_sem>3.3800000</veg_n_sem>
+   <chlorophyll>43.17</chlorophyll>
+   <chlorophyll_sem>0.37</chlorophyll_sem>
+   <green_leaf_area>7.15</green_leaf_area>
+   <green_leaf_area_sem>0.87</green_leaf_area_sem>
+   <green_leaf_n>3.06</green_leaf_n>
+   <green_leaf_n_sem>0.10</green_leaf_n_sem>
+   <drybiomass>471.74</drybiomass>
+   <drybiomass_sem>59.10</drybiomass_sem>
+  </ecosystem>
+ </site>
+ <site>
+  <site_id>634</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_3</site_code>
+  <latitude>48.013250</latitude>
+  <longitude>-2.820530</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+  <ecosystem>
+   <id>95</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2008-06-24 10:00:00</datetime>
+   <lai>2.42</lai>
+   <lai_sem>0.040</lai_sem>
+   <veg_n>1.6700000</veg_n>
+   <veg_n_sem>0.1900000</veg_n_sem>
+   <chlorophyll>36.67</chlorophyll>
+   <chlorophyll_sem>0.69</chlorophyll_sem>
+   <green_leaf_area>2.42</green_leaf_area>
+   <green_leaf_area_sem>0.04</green_leaf_area_sem>
+   <green_leaf_n>0.99</green_leaf_n>
+   <green_leaf_n_sem>0.01</green_leaf_n_sem>
+   <drybiomass>123.64</drybiomass>
+   <drybiomass_sem>6.12</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>98</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2008-09-10 10:00:00</datetime>
+   <lai>15.12</lai>
+   <lai_sem>0.420</lai_sem>
+   <veg_n>6.7200000</veg_n>
+   <veg_n_sem>0.5600000</veg_n_sem>
+   <chlorophyll>46.31</chlorophyll>
+   <chlorophyll_sem>1.00</chlorophyll_sem>
+   <green_leaf_area>15.12</green_leaf_area>
+   <green_leaf_area_sem>0.42</green_leaf_area_sem>
+   <green_leaf_n>0.96</green_leaf_n>
+   <green_leaf_n_sem>0.00</green_leaf_n_sem>
+   <drybiomass>4953.20</drybiomass>
+   <drybiomass_sem>83.36</drybiomass_sem>
+  </ecosystem>
+ </site>
+ <site>
+  <site_id>635</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_4</site_code>
+  <latitude>48.015620</latitude>
+  <longitude>-2.824630</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+  <ecosystem>
+   <id>96</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2008-06-24 10:00:00</datetime>
+   <lai>11.47</lai>
+   <lai_sem>7.250</lai_sem>
+   <veg_n>2.4200000</veg_n>
+   <veg_n_sem>0.7500000</veg_n_sem>
+   <chlorophyll>40.26</chlorophyll>
+   <chlorophyll_sem>0.34</chlorophyll_sem>
+   <green_leaf_area>11.47</green_leaf_area>
+   <green_leaf_area_sem>7.25</green_leaf_area_sem>
+   <green_leaf_n>2.24</green_leaf_n>
+   <green_leaf_n_sem>1.35</green_leaf_n_sem>
+   <drybiomass>575.92</drybiomass>
+   <drybiomass_sem>180.56</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>101</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2009-04-01 10:00:00</datetime>
+   <lai>1.93</lai>
+   <lai_sem>1.070</lai_sem>
+   <veg_n>3.1300000</veg_n>
+   <veg_n_sem>0.0200000</veg_n_sem>
+   <chlorophyll>34.80</chlorophyll>
+   <chlorophyll_sem>0.79</chlorophyll_sem>
+   <green_leaf_area>1.93</green_leaf_area>
+   <green_leaf_area_sem>1.07</green_leaf_area_sem>
+   <green_leaf_n>2.18</green_leaf_n>
+   <green_leaf_n_sem>1.25</green_leaf_n_sem>
+   <drybiomass>95.18</drybiomass>
+   <drybiomass_sem>14.34</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>103</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2009-06-17 10:00:00</datetime>
+   <lai>3.72</lai>
+   <lai_sem>0.260</lai_sem>
+   <veg_n>23.0200000</veg_n>
+   <veg_n_sem>0.1900000</veg_n_sem>
+   <chlorophyll>46.73</chlorophyll>
+   <chlorophyll_sem>0.63</chlorophyll_sem>
+   <green_leaf_area>3.11</green_leaf_area>
+   <green_leaf_area_sem>0.25</green_leaf_area_sem>
+   <green_leaf_n>1.79</green_leaf_n>
+   <green_leaf_n_sem>0.09</green_leaf_n_sem>
+   <drybiomass>1430.34</drybiomass>
+   <drybiomass_sem>10.90</drybiomass_sem>
+  </ecosystem>
+ </site>
+ <site>
+  <site_id>105</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_5</site_code>
+  <latitude>48.017600</latitude>
+  <longitude>-2.826455</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+  <ecosystem>
+   <id>99</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2009-04-01 10:00:00</datetime>
+   <lai>1.95</lai>
+   <lai_sem>0.550</lai_sem>
+   <veg_n>5.4600000</veg_n>
+   <veg_n_sem>0.4000000</veg_n_sem>
+   <chlorophyll>32.56</chlorophyll>
+   <chlorophyll_sem>1.17</chlorophyll_sem>
+   <green_leaf_area>1.95</green_leaf_area>
+   <green_leaf_area_sem>0.55</green_leaf_area_sem>
+   <green_leaf_n>2.11</green_leaf_n>
+   <green_leaf_n_sem>0.02</green_leaf_n_sem>
+   <drybiomass>310.96</drybiomass>
+   <drybiomass_sem>18.56</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>107</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2009-09-16 10:00:00</datetime>
+   <lai>1.93</lai>
+   <lai_sem>0.770</lai_sem>
+   <veg_n>3.1800000</veg_n>
+   <veg_n_sem>0.4500000</veg_n_sem>
+   <chlorophyll>27.19</chlorophyll>
+   <chlorophyll_sem>0.48</chlorophyll_sem>
+   <green_leaf_area>1.62</green_leaf_area>
+   <green_leaf_area_sem>0.53</green_leaf_area_sem>
+   <green_leaf_n>1.53</green_leaf_n>
+   <green_leaf_n_sem>0.27</green_leaf_n_sem>
+   <drybiomass>182.48</drybiomass>
+   <drybiomass_sem>39.20</drybiomass_sem>
+  </ecosystem>
+ </site>
+ <site>
+  <site_id>104</site_id>
+  <landscape_id>2</landscape_id>
+  <site_code>FR_ECO_6</site_code>
+  <latitude>48.015395</latitude>
+  <longitude>-2.820460</longitude>
+  <measurement_type>ECO</measurement_type>
+  <depth1 />
+  <depth2 />
+  <ecosystem>
+   <id>105</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2009-06-17 00:00:00</datetime>
+   <lai>0.73</lai>
+   <lai_sem>0.050</lai_sem>
+   <veg_n>4.0400000</veg_n>
+   <veg_n_sem>0.2800000</veg_n_sem>
+   <chlorophyll>35.03</chlorophyll>
+   <chlorophyll_sem>0.38</chlorophyll_sem>
+   <green_leaf_area>0.73</green_leaf_area>
+   <green_leaf_area_sem>0.05</green_leaf_area_sem>
+   <green_leaf_n>5.49</green_leaf_n>
+   <green_leaf_n_sem>0.05</green_leaf_n_sem>
+   <drybiomass>119.86</drybiomass>
+   <drybiomass_sem>10.90</drybiomass_sem>
+  </ecosystem>
+  <ecosystem>
+   <id>108</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2009-09-16 10:00:00</datetime>
+   <lai>9.73</lai>
+   <lai_sem>1.850</lai_sem>
+   <veg_n>7.9000000</veg_n>
+   <veg_n_sem>2.7900000</veg_n_sem>
+   <chlorophyll>32.86</chlorophyll>
+   <chlorophyll_sem>0.91</chlorophyll_sem>
+   <green_leaf_area>7.86</green_leaf_area>
+   <green_leaf_area_sem>2.37</green_leaf_area_sem>
+   <green_leaf_n>0.97</green_leaf_n>
+   <green_leaf_n_sem>0.15</green_leaf_n_sem>
+   <drybiomass>6389.80</drybiomass>
+   <drybiomass_sem>478.20</drybiomass_sem>
+  </ecosystem>
+ </site>
+ <comments>
+  <site>
+   <comment>measurement sites</comment>
+   <site_id comment="" unit="" />
+   <landscape_id comment="" unit="" />
+   <site_code comment="Site code (eg. UK_CNT_NH3_1 for the first NH3 continuous sampling in UK)" unit="" />
+   <latitude comment="Unit: decimal deg N" unit="" />
+   <longitude comment="Unit: decimal deg E" unit="" />
+   <measurement_type comment="" unit="" />
+   <depth1 comment="Depth of layer, Level 1. Unit: m" unit="m" />
+   <depth2 comment="Depth of layer, Level 2. Unit: m" unit="m" />
+  </site>
+  <ecosystem>
+   <comment>DONNÃES ÃcosystÃ¨me (indice foliaire, azote, chlorophyle, biomasse sÃ¨che)</comment>
+   <id comment="" unit="" />
+   <measurement_period comment="" unit="" />
+   <site_id comment="" unit="" />
+   <datetime comment="" unit="" />
+   <lai comment="LAI. Once/Twice during period . Unit: m2 leaf area m-2 ground area" unit="m2 leaf area m-2 ground area" />
+   <lai_sem comment="Standard error of the mean of LAI (m2 leaf area m-2 ground area) Once/Twice during period" unit="" />
+   <veg_n comment="Vegetation N. Once/Twice during period. Unit: g N m-2 ground area" unit="g N m-2 ground area" />
+   <veg_n_sem comment="Standard error of the mean of Vegetation N (g N m-2 ground area) Once/Twice during period" unit="" />
+   <chlorophyll comment="Chlorophyll. Once/Twice during period. Unit: mg m-2 leaf area" unit="mg m-2 leaf area" />
+   <chlorophyll_sem comment="Standard error of the mean of Chlorophyll (mg m-2 leaf area) Once/Twice during period" unit="" />
+   <green_leaf_area comment="Green leaf area. Once/Twice during period. Unit: mÂ² green leaves m-2 ground area" unit="mÂ² green leaves m-2 ground area" />
+   <green_leaf_area_sem comment="Standard error of the mean of Green leaf area (mÂ² green leaves m-2 ground area) Once/Twice during period" unit="" />
+   <green_leaf_n comment="Green leaf N content. Once/Twice during period. Unit: g N m-2 green leaf area" unit="g N m-2 green leaf area" />
+   <green_leaf_n_sem comment="Standard error of the mean of Green leaf N content. Once/Twice during period. Unit: g N m-2 green leaf area" unit="g N m-2 green leaf area" />
+   <drybiomass comment="Dry biomass Once/Twice during period. Unit: g m-2 ground area" unit="g m-2 ground area" />
+   <drybiomass_sem comment="Standard error of the mean of Dry biomass  Once/Twice during period (g m-2 ground area)" unit="" />
+  </ecosystem>
+  <soil_prop>
+   <comment>DATA: One-off soil property measurements (once)</comment>
+   <soil_prop_id comment="" unit="" />
+   <site_id comment="" unit="" />
+   <date comment="" unit="" />
+   <sdepth comment="Soil depth Ex. &quot;0-50&quot;. Unit: cm" unit="cm" />
+   <sand comment="Texture. Unit: %" unit="%" />
+   <silt comment="Texture. Unit: %" unit="%" />
+   <clay comment="Texture. Unit: %" unit="%" />
+   <bd comment="Bulk density. Unit: g cm-3 dry soil" unit="g cm-3 dry soil" />
+   <shc comment="Saturated conductivity. Unit: m h-1 MPa-1" unit="m h-1 MPa-1" />
+   <fc comment="Field capacity. Unit: % water by volume" unit="% water by volume" />
+   <wp comment="Wilting point. Unit: % water by volume" unit="% water by volume" />
+   <infrate comment="Infiltration rates. Unit: mm h-1" unit="mm h-1" />
+   <pf_p1 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <pf_p2 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <pf_p3 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <ph comment="pH" unit="" />
+   <toc comment="organic Carbon. Unit: g-C kg-1 dry soil" unit="g-C kg-1 dry soil" />
+   <ton comment="Total organic N. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <tn comment="Total N Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soil_cn comment="C:N ratio" unit="" />
+  </soil_prop>
+  <soil_chem>
+   <comment>DATA: Soil chemistry measurements (monthly)</comment>
+   <id comment="" unit="" />
+   <measurement_period comment="" unit="" />
+   <site_id comment="" unit="" />
+   <datetime comment="" unit="" />
+   <soilno3_level_1 comment="monthly NO3- concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilno3_level_1_sem comment="Standard error of the mean of monthly NO3- concentration (g-N kg-1 dry soil)" unit="" />
+   <soilno3_level_2 comment="monthly NO3- concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilno3_level_2_sem comment="Standard error of the mean of monthly NO3- concentration (g-N kg-1 dry soil)" unit="" />
+   <soilnh4_level_1 comment="monthly NH4 concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilnh4_level_1_sem comment="Standard error of the mean of monthly NH4 concentration (g-N kg-1 dry soil)" unit="" />
+   <soilnh4_level_2 comment="monthly NH4 concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilnh4_level_2_sem comment="Standard error of the mean of monthly NH4 concentration (g-N kg-1 dry soil)" unit="" />
+  </soil_chem>
+ </comments>
+</init><!-- Temps d'exécution : 15.241 secondes.-->

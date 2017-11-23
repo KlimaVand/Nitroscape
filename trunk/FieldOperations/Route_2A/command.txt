@@ -1,0 +1,19 @@
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FieldOperations\\InputData\\Route_2A\\
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FieldOperations\\OutputData\\Route_2A\\
+data4nick
+1	//start day
+1971	//start year
+365	//end day
+2029	//end year
+0	//1 if use zero tillage
+0	//1 if use cover cropping
+
+\\cygdrive\\c\\Documents and Settings\\njh\\workspace\\nitroscape\\trunk\\FieldOperations\\InputData\\Route_2A\\
+c:\\Documents and Settings\\njh\\workspace\\nitroscape\\trunk\\FieldOperations\\OutputData\\Route_2A\\
+
+c://Documents and Settings//njh//workspace//nitroscape//trunk//FieldOperations//InputData//Route_2A//
+c:\\Documents and Settings\\njh\\workspace\\nitroscape\\trunk\\FieldOperations\\OutputData\\Route_2A\\
+
+
+
+c:\Users\NJH\workspace\nitro\trunk\FieldOperations\InputData\Route_2A\

@@ -1,0 +1,4145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NitroScape XML file generated using Datum on 30-05-2011 16:01:09 -->
+<init>
+ <site>
+  <site_id>341</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_L1</site_code>
+  <latitude>52.044219</latitude>
+  <longitude>16.822525</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+  <soil_prop>
+   <soil_prop_id>261</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>25</sdepth>
+   <sand>80.0</sand>
+   <silt>11.0</silt>
+   <clay>9.0</clay>
+   <bd>1.100</bd>
+   <shc />
+   <fc>28.00</fc>
+   <wp>12.00</wp>
+   <infrate>120</infrate>
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph>4.50</ph>
+   <toc>64.80</toc>
+   <ton>5.2200</ton>
+   <tn>5.25</tn>
+   <soil_cn>12.000</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>262</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>50</sdepth>
+   <sand>78.0</sand>
+   <silt>10.0</silt>
+   <clay>12.0</clay>
+   <bd>1.250</bd>
+   <shc />
+   <fc>24.00</fc>
+   <wp>11.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>263</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>100</sdepth>
+   <sand>85.0</sand>
+   <silt>14.0</silt>
+   <clay>1.0</clay>
+   <bd>1.600</bd>
+   <shc>0.13</shc>
+   <fc>18.00</fc>
+   <wp>9.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>264</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>200</sdepth>
+   <sand>88.0</sand>
+   <silt>11.0</silt>
+   <clay>1.0</clay>
+   <bd>1.800</bd>
+   <shc>0.13</shc>
+   <fc>17.00</fc>
+   <wp>7.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>309</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>25</sdepth>
+   <sand>80.0</sand>
+   <silt>11.0</silt>
+   <clay>9.0</clay>
+   <bd>1.100</bd>
+   <shc />
+   <fc>28.00</fc>
+   <wp>12.00</wp>
+   <infrate>120</infrate>
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph>4.50</ph>
+   <toc>64.80</toc>
+   <ton>5.2200</ton>
+   <tn>5.25</tn>
+   <soil_cn>12.000</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>310</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>50</sdepth>
+   <sand>78.0</sand>
+   <silt>10.0</silt>
+   <clay>12.0</clay>
+   <bd>1.250</bd>
+   <shc />
+   <fc>24.00</fc>
+   <wp>11.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>311</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>100</sdepth>
+   <sand>85.0</sand>
+   <silt>14.0</silt>
+   <clay>1.0</clay>
+   <bd>1.600</bd>
+   <shc>0.13</shc>
+   <fc>18.00</fc>
+   <wp>9.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>312</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>200</sdepth>
+   <sand>88.0</sand>
+   <silt>11.0</silt>
+   <clay>1.0</clay>
+   <bd>1.800</bd>
+   <shc>0.13</shc>
+   <fc>17.00</fc>
+   <wp>7.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+ </site>
+ <site>
+  <site_id>342</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_Z1</site_code>
+  <latitude>52.042806</latitude>
+  <longitude>16.826181</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+  <soil_prop>
+   <soil_prop_id>265</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>25</sdepth>
+   <sand>84.0</sand>
+   <silt>15.0</silt>
+   <clay>1.0</clay>
+   <bd>1.160</bd>
+   <shc />
+   <fc>24.00</fc>
+   <wp>10.00</wp>
+   <infrate>730</infrate>
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph>5.00</ph>
+   <toc>35.60</toc>
+   <ton>7.3700</ton>
+   <tn>7.38</tn>
+   <soil_cn>4.800</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>266</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>50</sdepth>
+   <sand>84.0</sand>
+   <silt>16.0</silt>
+   <clay>0.0</clay>
+   <bd>1.350</bd>
+   <shc />
+   <fc>18.00</fc>
+   <wp>8.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>267</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>100</sdepth>
+   <sand>80.0</sand>
+   <silt>19.0</silt>
+   <clay>1.0</clay>
+   <bd>1.450</bd>
+   <shc>0.01</shc>
+   <fc>17.00</fc>
+   <wp>6.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>268</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>200</sdepth>
+   <sand>70.0</sand>
+   <silt>21.0</silt>
+   <clay>9.0</clay>
+   <bd>1.530</bd>
+   <shc>0.01</shc>
+   <fc>17.00</fc>
+   <wp>6.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>313</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>25</sdepth>
+   <sand>84.0</sand>
+   <silt>15.0</silt>
+   <clay>1.0</clay>
+   <bd>1.160</bd>
+   <shc />
+   <fc>24.00</fc>
+   <wp>10.00</wp>
+   <infrate>730</infrate>
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph>5.00</ph>
+   <toc>35.60</toc>
+   <ton>7.3700</ton>
+   <tn>7.38</tn>
+   <soil_cn>4.800</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>314</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>50</sdepth>
+   <sand>84.0</sand>
+   <silt>16.0</silt>
+   <clay>0.0</clay>
+   <bd>1.350</bd>
+   <shc />
+   <fc>18.00</fc>
+   <wp>8.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>315</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>100</sdepth>
+   <sand>80.0</sand>
+   <silt>19.0</silt>
+   <clay>1.0</clay>
+   <bd>1.450</bd>
+   <shc>0.01</shc>
+   <fc>17.00</fc>
+   <wp>6.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>316</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>200</sdepth>
+   <sand>70.0</sand>
+   <silt>21.0</silt>
+   <clay>9.0</clay>
+   <bd>1.530</bd>
+   <shc>0.01</shc>
+   <fc>17.00</fc>
+   <wp>6.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+ </site>
+ <site>
+  <site_id>343</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_P1</site_code>
+  <latitude>52.041991</latitude>
+  <longitude>16.826836</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+  <soil_prop>
+   <soil_prop_id>269</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>25</sdepth>
+   <sand>84.0</sand>
+   <silt>14.0</silt>
+   <clay>2.0</clay>
+   <bd>1.580</bd>
+   <shc />
+   <fc>19.00</fc>
+   <wp>7.00</wp>
+   <infrate>40</infrate>
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph>6.60</ph>
+   <toc>8.50</toc>
+   <ton>1.2600</ton>
+   <tn>1.27</tn>
+   <soil_cn>6.700</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>270</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>50</sdepth>
+   <sand>86.0</sand>
+   <silt>12.0</silt>
+   <clay>2.0</clay>
+   <bd>1.730</bd>
+   <shc />
+   <fc>17.00</fc>
+   <wp>6.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>271</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>100</sdepth>
+   <sand>87.0</sand>
+   <silt>10.0</silt>
+   <clay>3.0</clay>
+   <bd>1.620</bd>
+   <shc>0.02</shc>
+   <fc>17.00</fc>
+   <wp>6.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>272</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>200</sdepth>
+   <sand>70.0</sand>
+   <silt>17.0</silt>
+   <clay>13.0</clay>
+   <bd>1.860</bd>
+   <shc>0.01</shc>
+   <fc>23.00</fc>
+   <wp>10.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>317</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>25</sdepth>
+   <sand>84.0</sand>
+   <silt>14.0</silt>
+   <clay>2.0</clay>
+   <bd>1.580</bd>
+   <shc />
+   <fc>19.00</fc>
+   <wp>7.00</wp>
+   <infrate>40</infrate>
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph>6.60</ph>
+   <toc>8.50</toc>
+   <ton>1.2600</ton>
+   <tn>1.27</tn>
+   <soil_cn>6.700</soil_cn>
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>318</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>50</sdepth>
+   <sand>86.0</sand>
+   <silt>12.0</silt>
+   <clay>2.0</clay>
+   <bd>1.730</bd>
+   <shc />
+   <fc>17.00</fc>
+   <wp>6.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>319</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>100</sdepth>
+   <sand>87.0</sand>
+   <silt>10.0</silt>
+   <clay>3.0</clay>
+   <bd>1.620</bd>
+   <shc>0.02</shc>
+   <fc>17.00</fc>
+   <wp>6.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+  <soil_prop>
+   <soil_prop_id>320</soil_prop_id>
+   <date>2007-08-29</date>
+   <sdepth>200</sdepth>
+   <sand>70.0</sand>
+   <silt>17.0</silt>
+   <clay>13.0</clay>
+   <bd>1.860</bd>
+   <shc>0.01</shc>
+   <fc>23.00</fc>
+   <wp>10.00</wp>
+   <infrate />
+   <pf_p1 />
+   <pf_p2 />
+   <pf_p3 />
+   <ph />
+   <toc />
+   <ton />
+   <tn />
+   <soil_cn />
+  </soil_prop>
+ </site>
+ <site>
+  <site_id>372</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_L1</site_code>
+  <latitude>52.044219</latitude>
+  <longitude>16.822525</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>451</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>463</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>475</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>487</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>499</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>511</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>523</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>535</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>547</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>559</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>571</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>583</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>595</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>647</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>373</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_L2</site_code>
+  <latitude>52.043897</latitude>
+  <longitude>16.225250</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>452</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>464</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>476</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>488</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>500</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>512</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>524</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>536</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>548</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>560</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>572</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>584</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>596</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.03</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>648</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>374</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_L3</site_code>
+  <latitude>52.043511</latitude>
+  <longitude>16.822510</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>453</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>465</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>477</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>489</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>501</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>513</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>525</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>537</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>549</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>561</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>573</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>585</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>597</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>649</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>375</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_L4</site_code>
+  <latitude>52.043139</latitude>
+  <longitude>16.822498</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>454</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>466</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>478</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>490</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>502</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>514</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>526</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>538</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>550</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>562</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>574</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>586</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>598</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>650</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>376</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_Z1</site_code>
+  <latitude>52.042806</latitude>
+  <longitude>16.826181</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>455</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>467</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>479</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>491</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>503</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>515</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>527</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>539</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>551</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>563</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>575</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>587</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>599</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>651</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>377</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_Z2</site_code>
+  <latitude>52.042322</latitude>
+  <longitude>16.826122</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>456</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>468</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>480</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>492</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>504</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>516</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>528</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>540</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>552</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>564</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>576</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>588</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>600</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>652</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>378</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_Z3</site_code>
+  <latitude>52.041749</latitude>
+  <longitude>16.826078</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>457</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>469</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>481</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>493</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>505</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>517</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>529</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>541</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>553</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>565</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>577</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>589</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>601</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>653</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>379</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_Z4</site_code>
+  <latitude>52.041256</latitude>
+  <longitude>16.826050</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>458</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>470</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>482</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>494</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>506</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>518</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>530</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>542</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>554</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>566</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>578</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>590</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>602</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>654</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>380</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_P1</site_code>
+  <latitude>52.041991</latitude>
+  <longitude>16.826836</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>459</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>471</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>483</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>495</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>507</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>519</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>531</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>543</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>555</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>567</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>579</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>591</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>603</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>655</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>381</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_P2</site_code>
+  <latitude>52.041980</latitude>
+  <longitude>16.827571</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>460</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>472</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>484</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>496</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>508</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>520</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>532</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.03</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>544</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>556</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>568</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>580</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>592</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>604</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>656</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>382</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_P3</site_code>
+  <latitude>52.041975</latitude>
+  <longitude>16.828275</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>461</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>473</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>485</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>497</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>509</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>521</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>533</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>545</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>557</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>569</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>581</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>593</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>605</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>657</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>383</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_P4</site_code>
+  <latitude>52.041975</latitude>
+  <longitude>16.828946</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>462</id>
+   <measurement_period>1</measurement_period>
+   <datetime>2007-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>474</id>
+   <measurement_period>2</measurement_period>
+   <datetime>2007-09-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>486</id>
+   <measurement_period>3</measurement_period>
+   <datetime>2007-10-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>498</id>
+   <measurement_period>4</measurement_period>
+   <datetime>2007-11-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>510</id>
+   <measurement_period>5</measurement_period>
+   <datetime>2007-12-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>522</id>
+   <measurement_period>6</measurement_period>
+   <datetime>2008-01-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>534</id>
+   <measurement_period>7</measurement_period>
+   <datetime>2008-02-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.03</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>546</id>
+   <measurement_period>8</measurement_period>
+   <datetime>2008-03-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>558</id>
+   <measurement_period>9</measurement_period>
+   <datetime>2008-04-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>570</id>
+   <measurement_period>10</measurement_period>
+   <datetime>2008-05-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>582</id>
+   <measurement_period>11</measurement_period>
+   <datetime>2008-06-27 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>594</id>
+   <measurement_period>12</measurement_period>
+   <datetime>2008-07-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>606</id>
+   <measurement_period>13</measurement_period>
+   <datetime>2008-08-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>658</id>
+   <measurement_period>14</measurement_period>
+   <datetime>2008-09-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>344</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_1</site_code>
+  <latitude>52.058836</latitude>
+  <longitude>16.723390</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>345</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_2</site_code>
+  <latitude>52.051038</latitude>
+  <longitude>16.752955</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>346</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_3</site_code>
+  <latitude>52.046574</latitude>
+  <longitude>16.801817</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>347</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_4</site_code>
+  <latitude>52.033380</latitude>
+  <longitude>16.841206</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>348</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_5</site_code>
+  <latitude>52.030876</latitude>
+  <longitude>16.804202</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>349</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_6</site_code>
+  <latitude>52.042835</latitude>
+  <longitude>16.775993</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>350</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_7</site_code>
+  <latitude>52.042336</latitude>
+  <longitude>16.777972</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>351</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_8</site_code>
+  <latitude>52.040023</latitude>
+  <longitude>16.787459</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>352</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SP_9</site_code>
+  <latitude>52.036110</latitude>
+  <longitude>16.804106</longitude>
+  <measurement_type>SP</measurement_type>
+  <depth1 />
+  <depth2 />
+ </site>
+ <site>
+  <site_id>408</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_1</site_code>
+  <latitude>52.058836</latitude>
+  <longitude>16.723390</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>659</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>668</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>677</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>740</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>749</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>758</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>767</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>776</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>785</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>409</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_2</site_code>
+  <latitude>52.051038</latitude>
+  <longitude>16.752955</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>660</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>669</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>678</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>741</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>750</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>759</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>768</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>777</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>786</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>410</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_3</site_code>
+  <latitude>52.046574</latitude>
+  <longitude>16.801817</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>661</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>670</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>679</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>742</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>751</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>760</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>769</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>778</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>787</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>411</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_4</site_code>
+  <latitude>52.033380</latitude>
+  <longitude>16.841206</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>662</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>671</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>680</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>743</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>752</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>761</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>770</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>779</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>788</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>412</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_5</site_code>
+  <latitude>52.030876</latitude>
+  <longitude>16.804202</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>663</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>672</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>681</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>744</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>753</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>762</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>771</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.03</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.03</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>780</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>789</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.06</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>413</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_6</site_code>
+  <latitude>52.042835</latitude>
+  <longitude>16.775993</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>664</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>673</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>682</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>745</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>754</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>763</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>772</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>781</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>790</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>414</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_7</site_code>
+  <latitude>52.042336</latitude>
+  <longitude>16.777972</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>665</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>674</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>683</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>746</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>755</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>764</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>773</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>782</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>791</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>415</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_8</site_code>
+  <latitude>52.040023</latitude>
+  <longitude>16.787459</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>666</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>675</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>684</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>747</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>756</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>765</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>774</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>783</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.01</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>792</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <site>
+  <site_id>416</site_id>
+  <landscape_id>5</landscape_id>
+  <site_code>PL_SC_9</site_code>
+  <latitude>52.036110</latitude>
+  <longitude>16.804106</longitude>
+  <measurement_type>SC</measurement_type>
+  <depth1>25</depth1>
+  <depth2 />
+  <soil_chem>
+   <id>667</id>
+   <measurement_period>15</measurement_period>
+   <datetime>2008-10-28 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>676</id>
+   <measurement_period>16</measurement_period>
+   <datetime>2008-11-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>685</id>
+   <measurement_period>17</measurement_period>
+   <datetime>2008-12-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>748</id>
+   <measurement_period>18</measurement_period>
+   <datetime>2009-01-28 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>757</id>
+   <measurement_period>19</measurement_period>
+   <datetime>2009-02-26 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>766</id>
+   <measurement_period>20</measurement_period>
+   <datetime>2009-03-26 00:00:00</datetime>
+   <soilno3_level_1>0.01</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>775</id>
+   <measurement_period>21</measurement_period>
+   <datetime>2009-04-28 00:00:00</datetime>
+   <soilno3_level_1>0.03</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.03</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>784</id>
+   <measurement_period>22</measurement_period>
+   <datetime>2009-05-27 00:00:00</datetime>
+   <soilno3_level_1>0.02</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.02</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+  <soil_chem>
+   <id>793</id>
+   <measurement_period>23</measurement_period>
+   <datetime>2009-06-29 00:00:00</datetime>
+   <soilno3_level_1>0.00</soilno3_level_1>
+   <soilno3_level_1_sem />
+   <soilno3_level_2 />
+   <soilno3_level_2_sem />
+   <soilnh4_level_1>0.00</soilnh4_level_1>
+   <soilnh4_level_1_sem />
+   <soilnh4_level_2 />
+   <soilnh4_level_2_sem />
+  </soil_chem>
+ </site>
+ <comments>
+  <site>
+   <comment>DATUMOJ: Mezur-lokoj</comment>
+   <site_id comment="" unit="" />
+   <landscape_id comment="" unit="" />
+   <site_code comment="Site code (eg. UK_CNT_NH3_1 for the first NH3 continuous sampling in UK)" unit="" />
+   <latitude comment="Unit: decimal deg N" unit="" />
+   <longitude comment="Unit: decimal deg E" unit="" />
+   <measurement_type comment="" unit="" />
+   <depth1 comment="Depth of layer, Level 1. Unit: m" unit="m" />
+   <depth2 comment="Depth of layer, Level 2. Unit: m" unit="m" />
+  </site>
+  <ecosystem>
+   <comment>DATUMOJ: Mezuroj pri plantoj (folia surfaco, nitrogena enhavo, klorofilo, seka maso)</comment>
+   <id comment="" unit="" />
+   <measurement_period comment="" unit="" />
+   <site_id comment="" unit="" />
+   <datetime comment="" unit="" />
+   <lai comment="LAI. Once/Twice during period . Unit: m2 leaf area m-2 ground area" unit="m2 leaf area m-2 ground area" />
+   <lai_sem comment="Standard error of the mean of LAI (m2 leaf area m-2 ground area) Once/Twice during period" unit="" />
+   <veg_n comment="Vegetation N. Once/Twice during period. Unit: g N m-2 ground area" unit="g N m-2 ground area" />
+   <veg_n_sem comment="Standard error of the mean of Vegetation N (g N m-2 ground area) Once/Twice during period" unit="" />
+   <chlorophyll comment="Chlorophyll. Once/Twice during period. Unit: mg m-2 leaf area" unit="mg m-2 leaf area" />
+   <chlorophyll_sem comment="Standard error of the mean of Chlorophyll (mg m-2 leaf area) Once/Twice during period" unit="" />
+   <green_leaf_area comment="Green leaf area. Once/Twice during period. Unit: mÂ² green leaves m-2 ground area" unit="mÂ² green leaves m-2 ground area" />
+   <green_leaf_area_sem comment="Standard error of the mean of Green leaf area (mÂ² green leaves m-2 ground area) Once/Twice during period" unit="" />
+   <green_leaf_n comment="Green leaf N content. Once/Twice during period. Unit: g N m-2 green leaf area" unit="g N m-2 green leaf area" />
+   <green_leaf_n_sem comment="Standard error of the mean of Green leaf N content. Once/Twice during period. Unit: g N m-2 green leaf area" unit="g N m-2 green leaf area" />
+   <drybiomass comment="Dry biomass Once/Twice during period. Unit: g m-2 ground area" unit="g m-2 ground area" />
+   <drybiomass_sem comment="Standard error of the mean of Dry biomass  Once/Twice during period (g m-2 ground area)" unit="" />
+  </ecosystem>
+  <soil_prop>
+   <comment>DATUMOJ: unufojaj mezuroj pri grundaj ecoj</comment>
+   <soil_prop_id comment="" unit="" />
+   <site_id comment="" unit="" />
+   <date comment="" unit="" />
+   <sdepth comment="Soil depth Ex. &quot;0-50&quot;. Unit: cm" unit="cm" />
+   <sand comment="Texture. Unit: %" unit="%" />
+   <silt comment="Texture. Unit: %" unit="%" />
+   <clay comment="Texture. Unit: %" unit="%" />
+   <bd comment="Bulk density. Unit: g cm-3 dry soil" unit="g cm-3 dry soil" />
+   <shc comment="Saturated conductivity. Unit: m h-1 MPa-1" unit="m h-1 MPa-1" />
+   <fc comment="Field capacity. Unit: % water by volume" unit="% water by volume" />
+   <wp comment="Wilting point. Unit: % water by volume" unit="% water by volume" />
+   <infrate comment="Infiltration rates. Unit: mm h-1" unit="mm h-1" />
+   <pf_p1 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <pf_p2 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <pf_p3 comment="pF (soil water retention) curves. Unit: m3 water m-3 soil" unit="m3 water m-3 soil" />
+   <ph comment="pH" unit="" />
+   <toc comment="organic Carbon. Unit: g-C kg-1 dry soil" unit="g-C kg-1 dry soil" />
+   <ton comment="Total organic N. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <tn comment="Total N Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soil_cn comment="C:N ratio" unit="" />
+  </soil_prop>
+  <soil_chem>
+   <comment>DATUMOJ: Grundaj Ä¥emiaj mezuroj (Äiumonate)</comment>
+   <id comment="" unit="" />
+   <measurement_period comment="" unit="" />
+   <site_id comment="" unit="" />
+   <datetime comment="" unit="" />
+   <soilno3_level_1 comment="monthly NO3- concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilno3_level_1_sem comment="Standard error of the mean of monthly NO3- concentration (g-N kg-1 dry soil)" unit="" />
+   <soilno3_level_2 comment="monthly NO3- concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilno3_level_2_sem comment="Standard error of the mean of monthly NO3- concentration (g-N kg-1 dry soil)" unit="" />
+   <soilnh4_level_1 comment="monthly NH4 concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilnh4_level_1_sem comment="Standard error of the mean of monthly NH4 concentration (g-N kg-1 dry soil)" unit="" />
+   <soilnh4_level_2 comment="monthly NH4 concentration. Unit: g-N kg-1 dry soil" unit="g-N kg-1 dry soil" />
+   <soilnh4_level_2_sem comment="Standard error of the mean of monthly NH4 concentration (g-N kg-1 dry soil)" unit="" />
+  </soil_chem>
+ </comments>
+</init><!-- Tempo de plenumo: 26.343 sekundoj.-->

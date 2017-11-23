@@ -1,0 +1,3 @@
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FieldOperations\\OutputData\\Route_2B\\
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FieldOperations\\OutputData\\Test\\
+SpBarl_test.txt

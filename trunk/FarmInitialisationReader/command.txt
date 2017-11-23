@@ -1,0 +1,13 @@
+c:\\Documents and Settings\\njh\\workspace\\nitroscape\\trunk\\FarmInitialisationReader\\InputData\\DK\\
+c:\\Documents and Settings\\njh\\workspace\\nitroscape\\trunk\\FarmInitialisationReader\\OutputData\\DK\\
+management.xml
+2007 //
+2009 //
+verbosity
+W1
+2
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FarmInitialisation\\FarmInitialisation3\\OutputData\\F\\
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FarmInitialisation\\FarmInitialisation3\\InputData\\F\\
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FARM\\InputFiles\\DK\\
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FARMinitialisation\\FarmInitialisation3\\InputData\\F\\
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FARMinitialisation\\FarmInitialisation3\\OutputData\\F\\

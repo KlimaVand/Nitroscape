@@ -1,0 +1,17 @@
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FieldOperations\\InputData\\Route_2B\\
+c:\\Users\\NJH\\workspace\\nitro\\trunk\\FieldOperations\\OutputData\\Route_2B\\
+1	//arable rotation (choose 0 for grassland). Any grassland in the arable rotation will be cut only
+1	//number of crops sequences per NCU
+ArableWithGrass.out
+ArableWithGrass.txt
+-1   //start NCUI (if starting at beginning, set to -1)
+999999999   //end NCUI (if continue to end, set to 999999999)
+1	//start day
+1971	//start year
+365	//end day
+2030	//end year
+0	//1 if use zero tillage
+0	//1 if use cover cropping
+0	//1 if use spring grazing
+2000	//year of implementation of measures
+0	//verbosity level - determines the amount of detail sent to screen

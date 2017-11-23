@@ -1,0 +1,17 @@
+remoextraceannualncu.txt
+remo
+3
+1
+
+Line 1: name of file with input information
+remoextraceannualncu.txt
+marsateamextraceannualncushort.txt
+Line 2: type of data (hsmu/ncu)
+remo
+ncushort
+Line 3: data to write:    1=only annual data
+                          2=annual and monthly data
+                          3=annual and monthly and daily data
+Line 4: type of listing:  0=no listing
+                          1=some listing
+                          2=more listing

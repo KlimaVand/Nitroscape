@@ -1,0 +1,6 @@
+C:\\Users\\jove\\Desktop\\nitroscape\\trunk\\FieldOperations\\OutputData\\Route_2B\\
+C:\\Users\\jove\\Desktop\\nitroscape\\trunk\\FieldOperations\\OutputData\\Route_2_Reader\\
+PL_test_WWHE.txt
+PL_test_WWHE_OpOut.txt
+9	//
+0	//

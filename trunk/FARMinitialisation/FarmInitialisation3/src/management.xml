@@ -1,0 +1,2436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--	Generated	by:	Datum	-->
+<nitroscape>
+  <description>
+    <ecosystemtype>
+      <ecosystem_id>1</ecosystem_id>
+      <ecosystem_code>f</ecosystem_code>
+      <ecosystem_name>forest</ecosystem_name>
+    </ecosystemtype>
+    <ecosystemtype>
+      <ecosystem_id>2</ecosystem_id>
+      <ecosystem_code>a</ecosystem_code>
+      <ecosystem_name>arable</ecosystem_name>
+    </ecosystemtype>
+    <ecosystemtype>
+      <ecosystem_id>4</ecosystem_id>
+      <ecosystem_code>g</ecosystem_code>
+      <ecosystem_name>grassland</ecosystem_name>
+    </ecosystemtype>
+    <ecosystemtype>
+      <ecosystem_id>3</ecosystem_id>
+      <ecosystem_code>s</ecosystem_code>
+      <ecosystem_name>shrubland/wetland</ecosystem_name>
+    </ecosystemtype>
+    <fieldpermgrass>
+      <fieldpermgrassid>1</fieldpermgrassid>
+      <fieldpermgrassdescription>never</fieldpermgrassdescription>
+    </fieldpermgrass>
+    <fieldpermgrass>
+      <fieldpermgrassid>2</fieldpermgrassid>
+      <fieldpermgrassdescription>within the last 5 years</fieldpermgrassdescription>
+    </fieldpermgrass>
+    <fieldpermgrass>
+      <fieldpermgrassid>3</fieldpermgrassid>
+      <fieldpermgrassdescription>within the last 10 years</fieldpermgrassdescription>
+    </fieldpermgrass>
+    <fieldpermgrass>
+      <fieldpermgrassid>4</fieldpermgrassid>
+      <fieldpermgrassdescription>always</fieldpermgrassdescription>
+    </fieldpermgrass>
+    <manurestoretype>
+      <manurestoretypeid>1</manurestoretypeid>
+      <manurestoretypedescription>slurry lagoon</manurestoretypedescription>
+    </manurestoretype>
+    <manurestoretype>
+      <manurestoretypeid>2</manurestoretypeid>
+      <manurestoretypedescription>uncovered slurry tank (with or without natural crust)</manurestoretypedescription>
+    </manurestoretype>
+    <manurestoretype>
+      <manurestoretypeid>3</manurestoretypeid>
+      <manurestoretypedescription>slurry tank covered with tent or other impervious	cover</manurestoretypedescription>
+    </manurestoretype>
+    <manurestoretype>
+      <manurestoretypeid>4</manurestoretypeid>
+      <manurestoretypedescription>slurry tank with other cover (e.g. straw  or leca crust)</manurestoretypedescription>
+    </manurestoretype>
+    <manurestoretype>
+      <manurestoretypeid>5</manurestoretypeid>
+      <manurestoretypedescription>slurry pit (under floor)</manurestoretypedescription>
+    </manurestoretype>
+    <manurestoretype>
+      <manurestoretypeid>8</manurestoretypeid>
+      <manurestoretypedescription>farmyard manure stack (in field)</manurestoretypedescription>
+    </manurestoretype>
+    <manurestoretype>
+      <manurestoretypeid>6</manurestoretypeid>
+      <manurestoretypedescription>farmyard manure stack (solid floor. uncovered)</manurestoretypedescription>
+    </manurestoretype>
+    <manurestoretype>
+      <manurestoretypeid>7</manurestoretypeid>
+      <manurestoretypedescription>farmyard manure stack (solid floor. Covered or roofed)</manurestoretypedescription>
+    </manurestoretype>
+    <manurestoretype>
+      <manurestoretypeid>9</manurestoretypeid>
+      <manurestoretypedescription>farmyard manure (stored in animal house</manurestoretypedescription>
+    </manurestoretype>
+    <manurefertappmethod>
+      <manurefertappmethodid>1</manurefertappmethodid>
+      <manurefertappmethodname>broadcast not incorporated</manurefertappmethodname>
+      <manurefertappmethod_fasset_id>0</manurefertappmethod_fasset_id>
+      <manurefertappmethod_ecosys_model_id>0</manurefertappmethod_ecosys_model_id>
+      <manurefertappmethodcomments />
+    </manurefertappmethod>
+    <manurefertappmethod>
+      <manurefertappmethodid>2</manurefertappmethodid>
+      <manurefertappmethodname>broadcast incorporated</manurefertappmethodname>
+      <manurefertappmethod_fasset_id>0</manurefertappmethod_fasset_id>
+      <manurefertappmethod_ecosys_model_id>0</manurefertappmethod_ecosys_model_id>
+      <manurefertappmethodcomments />
+    </manurefertappmethod>
+    <manurefertappmethod>
+      <manurefertappmethodid>5</manurefertappmethodid>
+      <manurefertappmethodname>trailing hose not incorporated</manurefertappmethodname>
+      <manurefertappmethod_fasset_id>0</manurefertappmethod_fasset_id>
+      <manurefertappmethod_ecosys_model_id>0</manurefertappmethod_ecosys_model_id>
+      <manurefertappmethodcomments />
+    </manurefertappmethod>
+    <manurefertappmethod>
+      <manurefertappmethodid>6</manurefertappmethodid>
+      <manurefertappmethodname>trailing hose incorporated</manurefertappmethodname>
+      <manurefertappmethod_fasset_id>0</manurefertappmethod_fasset_id>
+      <manurefertappmethod_ecosys_model_id>0</manurefertappmethod_ecosys_model_id>
+      <manurefertappmethodcomments />
+    </manurefertappmethod>
+    <manurefertappmethod>
+      <manurefertappmethodid>9</manurefertappmethodid>
+      <manurefertappmethodname>trailing shoe</manurefertappmethodname>
+      <manurefertappmethod_fasset_id>0</manurefertappmethod_fasset_id>
+      <manurefertappmethod_ecosys_model_id>0</manurefertappmethod_ecosys_model_id>
+      <manurefertappmethodcomments />
+    </manurefertappmethod>
+    <manurefertappmethod>
+      <manurefertappmethodid>10</manurefertappmethodid>
+      <manurefertappmethodname>shallow injection</manurefertappmethodname>
+      <manurefertappmethod_fasset_id>0</manurefertappmethod_fasset_id>
+      <manurefertappmethod_ecosys_model_id>0</manurefertappmethod_ecosys_model_id>
+      <manurefertappmethodcomments />
+    </manurefertappmethod>
+    <manurefertappmethod>
+      <manurefertappmethodid>11</manurefertappmethodid>
+      <manurefertappmethodname>deep injection</manurefertappmethodname>
+      <manurefertappmethod_fasset_id>0</manurefertappmethod_fasset_id>
+      <manurefertappmethod_ecosys_model_id>0</manurefertappmethod_ecosys_model_id>
+      <manurefertappmethodcomments />
+    </manurefertappmethod>
+    <fielddrainagestatus>
+      <fielddrainagecodeid>1</fielddrainagecodeid>
+      <fielddrainagecodename>poor</fielddrainagecodename>
+    </fielddrainagestatus>
+    <fielddrainagestatus>
+      <fielddrainagecodeid>2</fielddrainagecodeid>
+      <fielddrainagecodename>medium</fielddrainagecodename>
+    </fielddrainagestatus>
+    <fielddrainagestatus>
+      <fielddrainagecodeid>3</fielddrainagecodeid>
+      <fielddrainagecodename>good</fielddrainagecodename>
+    </fielddrainagestatus>
+    <fatecropresidue>
+      <fatecropresidueid>1</fatecropresidueid>
+      <fatecropresiduedescription>baled and carted</fatecropresiduedescription>
+    </fatecropresidue>
+    <fatecropresidue>
+      <fatecropresidueid>2</fatecropresidueid>
+      <fatecropresiduedescription>carted and fed to livestock</fatecropresiduedescription>
+    </fatecropresidue>
+    <fatecropresidue>
+      <fatecropresidueid>3</fatecropresidueid>
+      <fatecropresiduedescription>chopped and incorporated</fatecropresiduedescription>
+    </fatecropresidue>
+    <fatecropresidue>
+      <fatecropresidueid>4</fatecropresidueid>
+      <fatecropresiduedescription>grazed and incorporated</fatecropresiduedescription>
+    </fatecropresidue>
+    <fatecropresidue>
+      <fatecropresidueid>5</fatecropresidueid>
+      <fatecropresiduedescription>incorporated without pre-treatment</fatecropresiduedescription>
+    </fatecropresidue>
+    <cattlecalvingseason>
+      <cattlecalvingseasonid>1</cattlecalvingseasonid>
+      <cattlecalvingseasondescription>spring</cattlecalvingseasondescription>
+    </cattlecalvingseason>
+    <cattlecalvingseason>
+      <cattlecalvingseasonid>2</cattlecalvingseasonid>
+      <cattlecalvingseasondescription>summer</cattlecalvingseasondescription>
+    </cattlecalvingseason>
+    <cattlecalvingseason>
+      <cattlecalvingseasonid>3</cattlecalvingseasonid>
+      <cattlecalvingseasondescription>autumn</cattlecalvingseasondescription>
+    </cattlecalvingseason>
+    <cattlecalvingseason>
+      <cattlecalvingseasonid>4</cattlecalvingseasonid>
+      <cattlecalvingseasondescription>winter</cattlecalvingseasondescription>
+    </cattlecalvingseason>
+    <cattlecalvingseason>
+      <cattlecalvingseasonid>5</cattlecalvingseasonid>
+      <cattlecalvingseasondescription>all year round</cattlecalvingseasondescription>
+    </cattlecalvingseason>
+    <cattlecalvingseason>
+      <cattlecalvingseasonid>6</cattlecalvingseasonid>
+      <cattlecalvingseasondescription>no cattle present</cattlecalvingseasondescription>
+    </cattlecalvingseason>
+    <ventilationtype>
+      <ventilationtypeid>1</ventilationtypeid>
+      <ventilationtypedecription>natural ventilation</ventilationtypedecription>
+    </ventilationtype>
+    <ventilationtype>
+      <ventilationtypeid>2</ventilationtypeid>
+      <ventilationtypedecription>forced ventilation</ventilationtypedecription>
+    </ventilationtype>
+    <cleaningmethod>
+      <cleaningmethodid>1</cleaningmethodid>
+      <cleaningmethoddescription>continous automatic scraper</cleaningmethoddescription>
+    </cleaningmethod>
+    <cleaningmethod>
+      <cleaningmethodid>2</cleaningmethodid>
+      <cleaningmethoddescription>daily cleaning</cleaningmethoddescription>
+    </cleaningmethod>
+    <cleaningmethod>
+      <cleaningmethodid>3</cleaningmethodid>
+      <cleaningmethoddescription>weekly cleaning</cleaningmethoddescription>
+    </cleaningmethod>
+    <cleaningmethod>
+      <cleaningmethodid>4</cleaningmethodid>
+      <cleaningmethoddescription>monthly cleaning</cleaningmethoddescription>
+    </cleaningmethod>
+    <cleaningmethod>
+      <cleaningmethodid>5</cleaningmethodid>
+      <cleaningmethoddescription>seasonal cleaning</cleaningmethoddescription>
+    </cleaningmethod>
+    <cleaningmethod>
+      <cleaningmethodid>6</cleaningmethodid>
+      <cleaningmethoddescription>no cleaning</cleaningmethoddescription>
+    </cleaningmethod>
+    <croptype>
+      <croptypeid>4</croptypeid>
+      <croptypename>spring rape</croptypename>
+      <croptypefasset_id>RS</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>31.4500</croptypedefaultn_content>
+      <croptypedefaultyield>1.8000</croptypedefaultyield>
+      <croptypecomments>spring oilseed	rape?</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>10</croptypeid>
+      <croptypename>peas</croptypename>
+      <croptypefasset_id>PE</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>32.5000</croptypedefaultn_content>
+      <croptypedefaultyield>4.5000</croptypedefaultyield>
+      <croptypecomments>vining or animal feed?</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>11</croptypeid>
+      <croptypename>fava bean</croptypename>
+      <croptypefasset_id>FB</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>43.7100</croptypedefaultn_content>
+      <croptypedefaultyield>4.5000</croptypedefaultyield>
+      <croptypecomments>French input (how to treat in model?)</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>12</croptypeid>
+      <croptypename>sugar beet</croptypename>
+      <croptypefasset_id>SB</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>2.1100</croptypedefaultn_content>
+      <croptypedefaultyield>51.6000</croptypedefaultyield>
+      <croptypecomments>French input (how to treat in model?)</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>26</croptypeid>
+      <croptypename>lupine</croptypename>
+      <croptypefasset_id>LU</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>6.0800</croptypedefaultn_content>
+      <croptypedefaultyield>3.3600</croptypedefaultyield>
+      <croptypecomments>Polish suggestion (how to treat in model?)</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>27</croptypeid>
+      <croptypename>energy plants (e.g. salix)</croptypename>
+      <croptypefasset_id>SA</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>3.8100</croptypedefaultn_content>
+      <croptypedefaultyield>10.0000</croptypedefaultyield>
+      <croptypecomments>Polish suggestion (how to treat in model?)</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>28</croptypeid>
+      <croptypename>permanent	grass</croptypename>
+      <croptypefasset_id>G3</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>10.0000</croptypedefaultyield>
+      <croptypecomments>not ley</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>29</croptypeid>
+      <croptypename>rough/extensive grassland</croptypename>
+      <croptypefasset_id>G4</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>6.0000</croptypedefaultyield>
+      <croptypecomments>Scottish suggestion (not fertilised)</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>31</croptypeid>
+      <croptypename>outdoor vegetables</croptypename>
+      <croptypefasset_id>BE</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>1.9400</croptypedefaultn_content>
+      <croptypedefaultyield>40.0000</croptypedefaultyield>
+      <croptypecomments>Italian suggestion</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>32</croptypeid>
+      <croptypename>covered vegetables</croptypename>
+      <croptypefasset_id>BE</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>1.9400</croptypedefaultn_content>
+      <croptypedefaultyield>40.0000</croptypedefaultyield>
+      <croptypecomments>Italian suggestion + France</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>33</croptypeid>
+      <croptypename>covered orchards</croptypename>
+      <croptypefasset_id>SA</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>1.9400</croptypedefaultn_content>
+      <croptypedefaultyield>40.0000</croptypedefaultyield>
+      <croptypecomments>Italian suggestion</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>34</croptypeid>
+      <croptypename>alfalfa</croptypename>
+      <croptypefasset_id>AL</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>6.0800</croptypedefaultn_content>
+      <croptypedefaultyield>13.0000</croptypedefaultyield>
+      <croptypecomments>Italian</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>3</croptypeid>
+      <croptypename>winter rape</croptypename>
+      <croptypefasset_id>RW</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>31.4500</croptypedefaultn_content>
+      <croptypedefaultyield>3.1000</croptypedefaultyield>
+      <croptypecomments>winter oilseed rape?</croptypecomments>
+    </croptype>
+    <croptype>
+      <croptypeid>2</croptypeid>
+      <croptypename>spring wheat</croptypename>
+      <croptypefasset_id>W5</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>18.7900</croptypedefaultn_content>
+      <croptypedefaultyield>4.6000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>5</croptypeid>
+      <croptypename>spring barley</croptypename>
+      <croptypefasset_id>B1</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>16.3200</croptypedefaultn_content>
+      <croptypedefaultyield>5.6000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>6</croptypeid>
+      <croptypename>winter barley</croptypename>
+      <croptypefasset_id>B5</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>16.3200</croptypedefaultn_content>
+      <croptypedefaultyield>6.1000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>8</croptypeid>
+      <croptypename>rye</croptypename>
+      <croptypefasset_id>RY</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>14.9600</croptypedefaultn_content>
+      <croptypedefaultyield>6.3000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>9</croptypeid>
+      <croptypename>oats</croptypename>
+      <croptypefasset_id>O2</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>16.4600</croptypedefaultn_content>
+      <croptypedefaultyield>5.5000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>13</croptypeid>
+      <croptypename>potatoes</croptypename>
+      <croptypefasset_id>PO</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>3.5300</croptypedefaultn_content>
+      <croptypedefaultyield>44.0000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>14</croptypeid>
+      <croptypename>maize (silage)</croptypename>
+      <croptypefasset_id>MA</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.4100</croptypedefaultn_content>
+      <croptypedefaultyield>55.2000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>16</croptypeid>
+      <croptypename>first year grass ley</croptypename>
+      <croptypefasset_id>G1</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>37.8000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>17</croptypeid>
+      <croptypename>second year grass ley</croptypename>
+      <croptypefasset_id>G2</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>37.8000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>18</croptypeid>
+      <croptypename>permanent grass ley</croptypename>
+      <croptypefasset_id>G3</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>18.0000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>19</croptypeid>
+      <croptypename>first year grass/clover ley</croptypename>
+      <croptypefasset_id>C1</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>37.8000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>20</croptypeid>
+      <croptypename>grass/clover let &gt; 1 yr old</croptypename>
+      <croptypefasset_id>C2</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>37.8000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>21</croptypeid>
+      <croptypename>clover 1st year</croptypename>
+      <croptypefasset_id>K1</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>33.6000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>22</croptypeid>
+      <croptypename>clover 2nd+ year</croptypename>
+      <croptypefasset_id>K2</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>33.6000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>23</croptypeid>
+      <croptypename>fallow (grassland cover)</croptypename>
+      <croptypefasset_id>F1</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>4.1800</croptypedefaultn_content>
+      <croptypedefaultyield>0.0000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>24</croptypeid>
+      <croptypename>fodder beet</croptypename>
+      <croptypefasset_id>BE</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>2.3700</croptypedefaultn_content>
+      <croptypedefaultyield>72.0000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>25</croptypeid>
+      <croptypename>grass for seed</croptypename>
+      <croptypefasset_id>S1</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>34.8000</croptypedefaultn_content>
+      <croptypedefaultyield>1.2000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>30</croptypeid>
+      <croptypename>orchards (fruit trees. christmas trees)</croptypename>
+      <croptypefasset_id>SA</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>3.8100</croptypedefaultn_content>
+      <croptypedefaultyield>40.0000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <croptype>
+      <croptypeid>1</croptypeid>
+      <croptypename>winter wheat</croptypename>
+      <croptypefasset_id>W1</croptypefasset_id>
+      <croptypeecosysmodel_id>0</croptypeecosysmodel_id>
+      <croptypedefaultn_content>18.7900</croptypedefaultn_content>
+      <croptypedefaultyield>6.9000</croptypedefaultyield>
+      <croptypecomments />
+    </croptype>
+    <farmbalancematerial>
+      <materialid>4</materialid>
+      <materialdescription>fertiliser nitrogen</materialdescription>
+      <materialncontent>1000.00</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>5</materialid>
+      <materialdescription>eggs</materialdescription>
+      <materialncontent>18.10</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>10</materialid>
+      <materialdescription>wool</materialdescription>
+      <materialncontent>3.00</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>13</materialid>
+      <materialdescription>medium energy concentrate</materialdescription>
+      <materialncontent>43.87</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>14</materialid>
+      <materialdescription>high energy concentrate</materialdescription>
+      <materialncontent>52.23</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>15</materialid>
+      <materialdescription>rape cake</materialdescription>
+      <materialncontent>49.29</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>16</materialid>
+      <materialdescription>soy beans</materialdescription>
+      <materialncontent>56.44</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>17</materialid>
+      <materialdescription>feed milk</materialdescription>
+      <materialncontent>56.32</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>18</materialid>
+      <materialdescription>sugar beets</materialdescription>
+      <materialncontent>2.06</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>19</materialid>
+      <materialdescription>grass clover fresh</materialdescription>
+      <materialncontent>5.72</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>20</materialid>
+      <materialdescription>grass fresh</materialdescription>
+      <materialncontent>6.34</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>21</materialid>
+      <materialdescription>whole crop fresh</materialdescription>
+      <materialncontent>5.84</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>22</materialid>
+      <materialdescription>clover grass silage</materialdescription>
+      <materialncontent>9.07</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>23</materialid>
+      <materialdescription>silage (grass)</materialdescription>
+      <materialncontent>8.46</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>24</materialid>
+      <materialdescription>whey</materialdescription>
+      <materialncontent>34.98</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>25</materialid>
+      <materialdescription>soybean oil cake</materialdescription>
+      <materialncontent>70.20</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>26</materialid>
+      <materialdescription>beet pulp (dried)</materialdescription>
+      <materialncontent>14.40</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>27</materialid>
+      <materialdescription>wet distillery grain</materialdescription>
+      <materialncontent>3.40</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>28</materialid>
+      <materialdescription>silage (beet pulp)</materialdescription>
+      <materialncontent>3.84</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>29</materialid>
+      <materialdescription>alfalfa green forage</materialdescription>
+      <materialncontent>6.00</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>30</materialid>
+      <materialdescription>full-ration concentrate mix</materialdescription>
+      <materialncontent>25.60</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>31</materialid>
+      <materialdescription>other fodder mixes inc. biscuits</materialdescription>
+      <materialncontent>0.00</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>32</materialid>
+      <materialdescription>silage (alfalfa)</materialdescription>
+      <materialncontent>18.00</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>11</materialid>
+      <materialdescription>meat</materialdescription>
+      <materialncontent />
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>1</materialid>
+      <materialdescription>hay</materialdescription>
+      <materialncontent />
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>2</materialid>
+      <materialdescription>straw</materialdescription>
+      <materialncontent />
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>3</materialid>
+      <materialdescription>cereals</materialdescription>
+      <materialncontent />
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>6</materialid>
+      <materialdescription>milk</materialdescription>
+      <materialncontent>56.32</materialncontent>
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>7</materialid>
+      <materialdescription>silage (grass or clover)</materialdescription>
+      <materialncontent />
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>8</materialid>
+      <materialdescription>silage (whole crop)</materialdescription>
+      <materialncontent />
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>9</materialid>
+      <materialdescription>silage (maize)</materialdescription>
+      <materialncontent />
+    </farmbalancematerial>
+    <farmbalancematerial>
+      <materialid>12</materialid>
+      <materialdescription>animal feed</materialdescription>
+      <materialncontent>0.00</materialncontent>
+    </farmbalancematerial>
+    <ferttype>
+      <ferttypeid>6</ferttypeid>
+      <ferttypename>nitrogen solution</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments>mixed urea and ammonium nitrate</ferttypecomments>
+    </ferttype>
+    <ferttype>
+      <ferttypeid>7</ferttypeid>
+      <ferttypename>combined ammonium phospates</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments>generally diammonium phosphate</ferttypecomments>
+    </ferttype>
+    <ferttype>
+      <ferttypeid>1</ferttypeid>
+      <ferttypename>ammonium sulphate</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments />
+    </ferttype>
+    <ferttype>
+      <ferttypeid>2</ferttypeid>
+      <ferttypename>ammonium nitrate</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments />
+    </ferttype>
+    <ferttype>
+      <ferttypeid>3</ferttypeid>
+      <ferttypename>calcium ammonium nitrate</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments />
+    </ferttype>
+    <ferttype>
+      <ferttypeid>4</ferttypeid>
+      <ferttypename>anhydrous ammonia</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments />
+    </ferttype>
+    <ferttype>
+      <ferttypeid>5</ferttypeid>
+      <ferttypename>urea</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments />
+    </ferttype>
+    <ferttype>
+      <ferttypeid>8</ferttypeid>
+      <ferttypename>mono-ammonium phosphate</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments />
+    </ferttype>
+    <ferttype>
+      <ferttypeid>9</ferttypeid>
+      <ferttypename>di-ammonium phosphate</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments />
+    </ferttype>
+    <ferttype>
+      <ferttypeid>10</ferttypeid>
+      <ferttypename>other complex NK. NPK fertilisers</ferttypename>
+      <ferttypencontent>0.0000</ferttypencontent>
+      <ferttype_fasset_id>0</ferttype_fasset_id>
+      <ferttype_ecosys_model_id>0</ferttype_ecosys_model_id>
+      <ferttypecomments />
+    </ferttype>
+    <harvesttype>
+      <harvesttypeid>6</harvesttypeid>
+      <harvesttypename>scalar picking (fruit/vegetables)</harvesttypename>
+      <harvesttypecomments>typical for field &amp; covered fruit/vegetables (Italy) - add to FASSET/DNDC?</harvesttypecomments>
+    </harvesttype>
+    <harvesttype>
+      <harvesttypeid>1</harvesttypeid>
+      <harvesttypename>combine</harvesttypename>
+      <harvesttypecomments />
+    </harvesttype>
+    <harvesttype>
+      <harvesttypeid>2</harvesttypeid>
+      <harvesttypename>forage harvest (fresh)</harvesttypename>
+      <harvesttypecomments />
+    </harvesttype>
+    <harvesttype>
+      <harvesttypeid>3</harvesttypeid>
+      <harvesttypename>silage (for conservation)</harvesttypename>
+      <harvesttypecomments />
+    </harvesttype>
+    <harvesttype>
+      <harvesttypeid>4</harvesttypeid>
+      <harvesttypename>setaside (grassland mulching/cutting)</harvesttypename>
+      <harvesttypecomments />
+    </harvesttype>
+    <harvesttype>
+      <harvesttypeid>5</harvesttypeid>
+      <harvesttypename>hay (for conservation)</harvesttypename>
+      <harvesttypecomments />
+    </harvesttype>
+    <feedtype>
+      <feedtypeid>1</feedtypeid>
+      <feedtypename>low energy concentrate</feedtypename>
+      <feedtypencontentdefault>25.7500</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg	N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>2</feedtypeid>
+      <feedtypename>medium energy concentrate</feedtypename>
+      <feedtypencontentdefault>43.8700</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>3</feedtypeid>
+      <feedtypename>high energy concentrate</feedtypename>
+      <feedtypencontentdefault>52.2300</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>4</feedtypeid>
+      <feedtypename>rape cake</feedtypename>
+      <feedtypencontentdefault>49.2900</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>5</feedtypeid>
+      <feedtypename>grain cereal</feedtypename>
+      <feedtypencontentdefault>16.3000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>6</feedtypeid>
+      <feedtypename>soy beans</feedtypename>
+      <feedtypencontentdefault>56.4400</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>7</feedtypeid>
+      <feedtypename>feed milk</feedtypename>
+      <feedtypencontentdefault>56.3200</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>8</feedtypeid>
+      <feedtypename>sugar beets</feedtypename>
+      <feedtypencontentdefault>2.0600</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>9</feedtypeid>
+      <feedtypename>grass clover fresh</feedtypename>
+      <feedtypencontentdefault>5.7200</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>10</feedtypeid>
+      <feedtypename>grass fresh</feedtypename>
+      <feedtypencontentdefault>6.3400</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>11</feedtypeid>
+      <feedtypename>whole crop fresh</feedtypename>
+      <feedtypencontentdefault>5.8400</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>12</feedtypeid>
+      <feedtypename>clover grass silage</feedtypename>
+      <feedtypencontentdefault>9.0700</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>13</feedtypeid>
+      <feedtypename>grass silage</feedtypename>
+      <feedtypencontentdefault>8.4600</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>14</feedtypeid>
+      <feedtypename>whole crop cereal silage</feedtypename>
+      <feedtypencontentdefault>5.9500</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>15</feedtypeid>
+      <feedtypename>maize silage</feedtypename>
+      <feedtypencontentdefault>3.9400</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>16</feedtypeid>
+      <feedtypename>hay</feedtypename>
+      <feedtypencontentdefault>15.9700</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>17</feedtypeid>
+      <feedtypename>straw</feedtypename>
+      <feedtypencontentdefault>5.4100</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>18</feedtypeid>
+      <feedtypename>whey</feedtypename>
+      <feedtypencontentdefault>34.9800</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>19</feedtypeid>
+      <feedtypename>soybean oil cake</feedtypename>
+      <feedtypencontentdefault>70.2000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>20</feedtypeid>
+      <feedtypename>beet pulp (dried)</feedtypename>
+      <feedtypencontentdefault>14.4000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>21</feedtypeid>
+      <feedtypename>wet distillery grain</feedtypename>
+      <feedtypencontentdefault>3.4000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>22</feedtypeid>
+      <feedtypename>beet pulp silage</feedtypename>
+      <feedtypencontentdefault>3.8400</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>23</feedtypeid>
+      <feedtypename>alfalfa green forage</feedtypename>
+      <feedtypencontentdefault>6.0000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>24</feedtypeid>
+      <feedtypename>alfalfa silage</feedtypename>
+      <feedtypencontentdefault>18.0000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>25</feedtypeid>
+      <feedtypename>full-ration concentrate mix</feedtypename>
+      <feedtypencontentdefault>25.6000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>26</feedtypeid>
+      <feedtypename>fresh milk</feedtypename>
+      <feedtypencontentdefault>5.0000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <feedtype>
+      <feedtypeid>27</feedtypeid>
+      <feedtypename>Other fodder mixes inc. biscuits</feedtypename>
+      <feedtypencontentdefault>0.0000</feedtypencontentdefault>
+      <feedtypencontentknown>0.00</feedtypencontentknown>
+      <unitsncontent>kg N/tonne</unitsncontent>
+    </feedtype>
+    <lstkhousingtype>
+      <lstkhousetypeid>1</lstkhousetypeid>
+      <lstkhousetypedescription>tied housing (tightly confined)</lstkhousetypedescription>
+    </lstkhousingtype>
+    <lstkhousingtype>
+      <lstkhousetypeid>2</lstkhousetypeid>
+      <lstkhousetypedescription>cubicles (free to roam inside pen)</lstkhousetypedescription>
+    </lstkhousingtype>
+    <lstkhousingtype>
+      <lstkhousetypeid>4</lstkhousetypeid>
+      <lstkhousetypedescription>perchery	(poultry)</lstkhousetypedescription>
+    </lstkhousingtype>
+    <lstkhousingtype>
+      <lstkhousetypeid>5</lstkhousetypeid>
+      <lstkhousetypedescription>free-range	(acccess	to	outdoor	space)</lstkhousetypedescription>
+    </lstkhousingtype>
+    <lstkhousingtype>
+      <lstkhousetypeid>7</lstkhousetypeid>
+      <lstkhousetypedescription>paddocks	(permeable	floor)</lstkhousetypedescription>
+    </lstkhousingtype>
+    <lstkhousingtype>
+      <lstkhousetypeid>8</lstkhousetypeid>
+      <lstkhousetypedescription>woodchip	corrals</lstkhousetypedescription>
+    </lstkhousingtype>
+    <lstkhousingtype>
+      <lstkhousetypeid>9</lstkhousetypeid>
+      <lstkhousetypedescription>hard	standings	(impermeable	floor)</lstkhousetypedescription>
+    </lstkhousingtype>
+    <lstkhousingtype>
+      <lstkhousetypeid>3</lstkhousetypeid>
+      <lstkhousetypedescription>cages	(poultry.	rabbits)</lstkhousetypedescription>
+    </lstkhousingtype>
+    <lstkhousebedding>
+      <lstkhousebeddingtypeid>1</lstkhousebeddingtypeid>
+      <lstkhousebeddingtypedescription>straw</lstkhousebeddingtypedescription>
+    </lstkhousebedding>
+    <lstkhousebedding>
+      <lstkhousebeddingtypeid>2</lstkhousebeddingtypeid>
+      <lstkhousebeddingtypedescription>wood	shavings</lstkhousebeddingtypedescription>
+    </lstkhousebedding>
+    <lstkhousebedding>
+      <lstkhousebeddingtypeid>3</lstkhousebeddingtypeid>
+      <lstkhousebeddingtypedescription>sawdust</lstkhousebeddingtypedescription>
+    </lstkhousebedding>
+    <lstkhousebedding>
+      <lstkhousebeddingtypeid>4</lstkhousebeddingtypeid>
+      <lstkhousebeddingtypedescription>no	bedding</lstkhousebeddingtypedescription>
+    </lstkhousebedding>
+    <lstkhouseflooring>
+      <lstkhouseflooringid>1</lstkhouseflooringid>
+      <lstkhouseflooringdescription>solid	floor	(impermeable)</lstkhouseflooringdescription>
+    </lstkhouseflooring>
+    <lstkhouseflooring>
+      <lstkhouseflooringid>2</lstkhouseflooringid>
+      <lstkhouseflooringdescription>solid	floor	(permeable)</lstkhouseflooringdescription>
+    </lstkhouseflooring>
+    <lstkhouseflooring>
+      <lstkhouseflooringid>3</lstkhouseflooringid>
+      <lstkhouseflooringdescription>fully	slatted	floor</lstkhouseflooringdescription>
+    </lstkhouseflooring>
+    <lstkhouseflooring>
+      <lstkhouseflooringid>4</lstkhouseflooringid>
+      <lstkhouseflooringdescription>part-slatted	floor</lstkhouseflooringdescription>
+    </lstkhouseflooring>
+    <lstktype>
+      <lstktypeid>15</lstktypeid>
+      <lstktypename>finishers</lstktypename>
+      <lstktypeaverageendweight>105</lstktypeaverageendweight>
+      <lstktypestartweight>30</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation>split	into	age	categories?</lstktypeotherinformation>
+    </lstktype>
+    <lstktype>
+      <lstktypeid>16</lstktypeid>
+      <lstktypename>replacement	sows	(gilts	in	pig)</lstktypename>
+      <lstktypeaverageendweight>190</lstktypeaverageendweight>
+      <lstktypestartweight>190</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation>gilts	in	pig?</lstktypeotherinformation>
+    </lstktype>
+    <lstktype>
+      <lstktypeid>1</lstktypeid>
+      <lstktypename>dairy	cow.	large	breed</lstktypename>
+      <lstktypeaverageendweight>577</lstktypeaverageendweight>
+      <lstktypestartweight>577</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>2</lstktypeid>
+      <lstktypename>dairy	cow.	small	breed</lstktypename>
+      <lstktypeaverageendweight>405</lstktypeaverageendweight>
+      <lstktypestartweight>405</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>3</lstktypeid>
+      <lstktypename>dairy	heifers	&gt;	1	yr	old</lstktypename>
+      <lstktypeaverageendweight>560</lstktypeaverageendweight>
+      <lstktypestartweight>300</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>4</lstktypeid>
+      <lstktypename>dairy	female	6-12	mths</lstktypename>
+      <lstktypeaverageendweight>300</lstktypeaverageendweight>
+      <lstktypestartweight>45</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>5</lstktypeid>
+      <lstktypename>dairy	female	0-6	mths</lstktypename>
+      <lstktypeaverageendweight>45</lstktypeaverageendweight>
+      <lstktypestartweight>15</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>6</lstktypeid>
+      <lstktypename>beef	suckler	cows</lstktypename>
+      <lstktypeaverageendweight>577</lstktypeaverageendweight>
+      <lstktypestartweight>577</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>7</lstktypeid>
+      <lstktypename>beef	female	&gt;	1	yr	old</lstktypename>
+      <lstktypeaverageendweight>560</lstktypeaverageendweight>
+      <lstktypestartweight>300</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>8</lstktypeid>
+      <lstktypename>beef	female	6-12	mths</lstktypename>
+      <lstktypeaverageendweight>300</lstktypeaverageendweight>
+      <lstktypestartweight>45</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>9</lstktypeid>
+      <lstktypename>beef	female	0-6	mths</lstktypename>
+      <lstktypeaverageendweight>45</lstktypeaverageendweight>
+      <lstktypestartweight>15</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>10</lstktypeid>
+      <lstktypename>beef	male	&gt;	1	yr	old</lstktypename>
+      <lstktypeaverageendweight>560</lstktypeaverageendweight>
+      <lstktypestartweight>300</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>11</lstktypeid>
+      <lstktypename>beef	male	6-12	mths</lstktypename>
+      <lstktypeaverageendweight>300</lstktypeaverageendweight>
+      <lstktypestartweight>45</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>12</lstktypeid>
+      <lstktypename>beef	male	0-6	mths</lstktypename>
+      <lstktypeaverageendweight>45</lstktypeaverageendweight>
+      <lstktypestartweight>15</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>13</lstktypeid>
+      <lstktypename>breeding	sow	(inc.	piglets)</lstktypename>
+      <lstktypeaverageendweight>190</lstktypeaverageendweight>
+      <lstktypestartweight>190</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>14</lstktypeid>
+      <lstktypename>piglets</lstktypename>
+      <lstktypeaverageendweight>30</lstktypeaverageendweight>
+      <lstktypestartweight>2</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>17</lstktypeid>
+      <lstktypename>water	buffalos	(milking	cows)</lstktypename>
+      <lstktypeaverageendweight>577</lstktypeaverageendweight>
+      <lstktypestartweight>577</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>18</lstktypeid>
+      <lstktypename>water	buffalos	(other	adults)</lstktypename>
+      <lstktypeaverageendweight>560</lstktypeaverageendweight>
+      <lstktypestartweight>200</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>19</lstktypeid>
+      <lstktypename>water	buffalos	(young	animals	&lt;	1yr)</lstktypename>
+      <lstktypeaverageendweight>200</lstktypeaverageendweight>
+      <lstktypestartweight>15</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>20</lstktypeid>
+      <lstktypename>heavy	horses</lstktypename>
+      <lstktypeaverageendweight>600</lstktypeaverageendweight>
+      <lstktypestartweight>600</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>21</lstktypeid>
+      <lstktypename>light	horses</lstktypename>
+      <lstktypeaverageendweight>400</lstktypeaverageendweight>
+      <lstktypestartweight>400</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>22</lstktypeid>
+      <lstktypename>young	horses	&amp;	ponies</lstktypename>
+      <lstktypeaverageendweight>200</lstktypeaverageendweight>
+      <lstktypestartweight>200</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>23</lstktypeid>
+      <lstktypename>adult	sheep	(breeding	flock)</lstktypename>
+      <lstktypeaverageendweight>70</lstktypeaverageendweight>
+      <lstktypestartweight>70</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>24</lstktypeid>
+      <lstktypename>lambs	(&lt;	1	yr	old)</lstktypename>
+      <lstktypeaverageendweight>25</lstktypeaverageendweight>
+      <lstktypestartweight>5</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>25</lstktypeid>
+      <lstktypename>goats	(adults)</lstktypename>
+      <lstktypeaverageendweight>70</lstktypeaverageendweight>
+      <lstktypestartweight>70</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>26</lstktypeid>
+      <lstktypename>young	goats	(&lt;	1	yr	old)</lstktypename>
+      <lstktypeaverageendweight>25</lstktypeaverageendweight>
+      <lstktypestartweight>5</lstktypestartweight>
+      <lstktypencontent>26</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>27</lstktypeid>
+      <lstktypename>laying	hens</lstktypename>
+      <lstktypeaverageendweight>2</lstktypeaverageendweight>
+      <lstktypestartweight>2</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>28</lstktypeid>
+      <lstktypename>broilers	(table	fowl)</lstktypename>
+      <lstktypeaverageendweight>2</lstktypeaverageendweight>
+      <lstktypestartweight>2</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>29</lstktypeid>
+      <lstktypename>breeding	birds</lstktypename>
+      <lstktypeaverageendweight>2</lstktypeaverageendweight>
+      <lstktypestartweight>2</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>30</lstktypeid>
+      <lstktypename>turkeys</lstktypename>
+      <lstktypeaverageendweight>4</lstktypeaverageendweight>
+      <lstktypestartweight>1</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>31</lstktypeid>
+      <lstktypename>geese</lstktypename>
+      <lstktypeaverageendweight>3</lstktypeaverageendweight>
+      <lstktypestartweight>1</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>32</lstktypeid>
+      <lstktypename>ducks</lstktypename>
+      <lstktypeaverageendweight>2</lstktypeaverageendweight>
+      <lstktypestartweight>1</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>33</lstktypeid>
+      <lstktypename>other	poultry	(specify)</lstktypename>
+      <lstktypeaverageendweight>2</lstktypeaverageendweight>
+      <lstktypestartweight>1</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>34</lstktypeid>
+      <lstktypename>donkeys</lstktypename>
+      <lstktypeaverageendweight>70</lstktypeaverageendweight>
+      <lstktypestartweight>70</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>35</lstktypeid>
+      <lstktypename>rabbits</lstktypename>
+      <lstktypeaverageendweight>2</lstktypeaverageendweight>
+      <lstktypestartweight>1</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstktype>
+      <lstktypeid>36</lstktypeid>
+      <lstktypename>veal	calves</lstktypename>
+      <lstktypeaverageendweight>200</lstktypeaverageendweight>
+      <lstktypestartweight>25</lstktypestartweight>
+      <lstktypencontent>27</lstktypencontent>
+      <lstktypeotherinformation />
+    </lstktype>
+    <lstkbuildingtype>
+      <lstkbuildingtypeid>1</lstkbuildingtypeid>
+      <lstkbuildingtypedescription>animal	house</lstkbuildingtypedescription>
+    </lstkbuildingtype>
+    <lstkbuildingtype>
+      <lstkbuildingtypeid>2</lstkbuildingtypeid>
+      <lstkbuildingtypedescription>corral	(permeable	floor.	no	roof)</lstkbuildingtypedescription>
+    </lstkbuildingtype>
+    <lstkbuildingtype>
+      <lstkbuildingtypeid>3</lstkbuildingtypeid>
+      <lstkbuildingtypedescription>hard	standing	(impermeable	floor.	no	roof)</lstkbuildingtypedescription>
+    </lstkbuildingtype>
+    <manuretype>
+      <manuretypeid>14</manuretypeid>
+      <manuretypename>solid	fraction	of	cattle	manure</manuretypename>
+      <manuretypencontent>5.6000</manuretypencontent>
+      <manuretypenh4n_content>1.4000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments>may	include	some	bedding</manuretypecomments>
+    </manuretype>
+    <manuretype>
+      <manuretypeid>15</manuretypeid>
+      <manuretypename>solid	fraction	of	pig	manure	(fatteners)</manuretypename>
+      <manuretypencontent>5.9000</manuretypencontent>
+      <manuretypenh4n_content>5.4000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments>may	include	some	bedding</manuretypecomments>
+    </manuretype>
+    <manuretype>
+      <manuretypeid>16</manuretypeid>
+      <manuretypename>solid	fraction	of	pig	manure	(sows	+	piglets)</manuretypename>
+      <manuretypencontent>8.1000</manuretypencontent>
+      <manuretypenh4n_content>2.8000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments>may	include	some	bedding</manuretypecomments>
+    </manuretype>
+    <manuretype>
+      <manuretypeid>17</manuretypeid>
+      <manuretypename>solid	fraction	of	mixed	manure</manuretypename>
+      <manuretypencontent>5.9000</manuretypencontent>
+      <manuretypenh4n_content>5.4000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments>may	include	some	bedding</manuretypecomments>
+    </manuretype>
+    <manuretype>
+      <manuretypeid>18</manuretypeid>
+      <manuretypename>degassed	cattle	slurry</manuretypename>
+      <manuretypencontent>3.9000</manuretypencontent>
+      <manuretypenh4n_content>2.4000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments>from	biogas	plant</manuretypecomments>
+    </manuretype>
+    <manuretype>
+      <manuretypeid>19</manuretypeid>
+      <manuretypename>degassed	pig	slurry</manuretypename>
+      <manuretypencontent>4.0000</manuretypencontent>
+      <manuretypenh4n_content>2.9000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments>from	biogas	plant</manuretypecomments>
+    </manuretype>
+    <manuretype>
+      <manuretypeid>20</manuretypeid>
+      <manuretypename>degassed	mixed	slurry</manuretypename>
+      <manuretypencontent>4.0000</manuretypencontent>
+      <manuretypenh4n_content>2.5000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments>from	biogas	plant</manuretypecomments>
+    </manuretype>
+    <manuretype>
+      <manuretypeid>24</manuretypeid>
+      <manuretypename>other	organic	fertiliser	(e.g.	bone	meal	etc.)</manuretypename>
+      <manuretypencontent>2.0000</manuretypencontent>
+      <manuretypenh4n_content>1.0000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments>please	specify</manuretypecomments>
+    </manuretype>
+    <manuretype>
+      <manuretypeid>1</manuretypeid>
+      <manuretypename>cattle	slurry</manuretypename>
+      <manuretypencontent>5.4000</manuretypencontent>
+      <manuretypenh4n_content>3.3000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>2</manuretypeid>
+      <manuretypename>pig	slurry	(fattening	pigs)</manuretypename>
+      <manuretypencontent>5.4000</manuretypencontent>
+      <manuretypenh4n_content>4.0000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>3</manuretypeid>
+      <manuretypename>pigs	slurry	(sows	and	piglets)</manuretypename>
+      <manuretypencontent>4.6000</manuretypencontent>
+      <manuretypenh4n_content>3.5000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>4</manuretypeid>
+      <manuretypename>mixed	slurry</manuretypename>
+      <manuretypencontent>5.4000</manuretypencontent>
+      <manuretypenh4n_content>3.7000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>5</manuretypeid>
+      <manuretypename>cattle	FYM</manuretypename>
+      <manuretypencontent>8.4000</manuretypencontent>
+      <manuretypenh4n_content>2.1000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>6</manuretypeid>
+      <manuretypename>pig	FYM</manuretypename>
+      <manuretypencontent>8.8000</manuretypencontent>
+      <manuretypenh4n_content>3.1000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>7</manuretypeid>
+      <manuretypename>sheep/goat	FYM</manuretypename>
+      <manuretypencontent>8.4000</manuretypencontent>
+      <manuretypenh4n_content>2.1000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>8</manuretypeid>
+      <manuretypename>horse	FYM</manuretypename>
+      <manuretypencontent>7.5000</manuretypencontent>
+      <manuretypenh4n_content>1.9000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>9</manuretypeid>
+      <manuretypename>mixed	FYM</manuretypename>
+      <manuretypencontent>8.6000</manuretypencontent>
+      <manuretypenh4n_content>2.8000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>10</manuretypeid>
+      <manuretypename>solid	poultry	manure</manuretypename>
+      <manuretypencontent>21.0000</manuretypencontent>
+      <manuretypenh4n_content>6.3000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>11</manuretypeid>
+      <manuretypename>liquid	fraction	of	cattle	manure</manuretypename>
+      <manuretypencontent>5.4000</manuretypencontent>
+      <manuretypenh4n_content>4.9000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>12</manuretypeid>
+      <manuretypename>liquid	fraction	of	pig	manure</manuretypename>
+      <manuretypencontent>4.0000</manuretypencontent>
+      <manuretypenh4n_content>3.6000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>13</manuretypeid>
+      <manuretypename>liquid	fraction	of	mixed	manure</manuretypename>
+      <manuretypencontent>5.0000</manuretypencontent>
+      <manuretypenh4n_content>4.2000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>21</manuretypeid>
+      <manuretypename>sewage	sludge</manuretypename>
+      <manuretypencontent>6.0000</manuretypencontent>
+      <manuretypenh4n_content>2.0000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>22</manuretypeid>
+      <manuretypename>composted	manure</manuretypename>
+      <manuretypencontent>2.0000</manuretypencontent>
+      <manuretypenh4n_content>1.0000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <manuretype>
+      <manuretypeid>23</manuretypeid>
+      <manuretypename>compost	(other	materials)</manuretypename>
+      <manuretypencontent>2.0000</manuretypencontent>
+      <manuretypenh4n_content>1.0000</manuretypenh4n_content>
+      <manuretype_fasset_id>0</manuretype_fasset_id>
+      <manuretype_ecosys_model_id>0</manuretype_ecosys_model_id>
+      <manuretypecomments />
+    </manuretype>
+    <tillagetype>
+      <tillagetypeid>1</tillagetypeid>
+      <tillagetypename>none</tillagetypename>
+    </tillagetype>
+    <tillagetype>
+      <tillagetypeid>2</tillagetypeid>
+      <tillagetypename>harrowing	or	discing</tillagetypename>
+    </tillagetype>
+    <tillagetype>
+      <tillagetypeid>3</tillagetypeid>
+      <tillagetypename>ploughing</tillagetypename>
+    </tillagetype>
+    <tillagetype>
+      <tillagetypeid>4</tillagetypeid>
+      <tillagetypename>harrowing	and	ploughing</tillagetypename>
+    </tillagetype>
+    <unit>
+      <unitid>1</unitid>
+      <unitdescription>m2</unitdescription>
+    </unit>
+    <unit>
+      <unitid>2</unitid>
+      <unitdescription>m3</unitdescription>
+    </unit>
+    <unit>
+      <unitid>3</unitid>
+      <unitdescription>litres</unitdescription>
+    </unit>
+    <unit>
+      <unitid>4</unitid>
+      <unitdescription>tonnes	(metric)</unitdescription>
+    </unit>
+    <unit>
+      <unitid>5</unitid>
+      <unitdescription>eggs</unitdescription>
+    </unit>
+    <unit>
+      <unitid>6</unitid>
+      <unitdescription>kg	(liveweight)</unitdescription>
+    </unit>
+    <unit>
+      <unitid>7</unitid>
+      <unitdescription>kg	(produce)</unitdescription>
+    </unit>
+    <ventplacement>
+      <ventplacementid>1</ventplacementid>
+      <ventplacementdescription>roof	vented</ventplacementdescription>
+    </ventplacement>
+    <ventplacement>
+      <ventplacementid>2</ventplacementid>
+      <ventplacementdescription>side	vented</ventplacementdescription>
+    </ventplacement>
+    <ventplacement>
+      <ventplacementid>3</ventplacementid>
+      <ventplacementdescription>not	sure	-	see	comments</ventplacementdescription>
+    </ventplacement>
+  </description>
+  <landscape>
+    <landscape_id>2</landscape_id>
+    <ecosystem_id>2</ecosystem_id>
+    <landscape_name>Kervidy-Naizin</landscape_name>
+    <country_code>FR</country_code>
+    <region>Brittany</region>
+    <latitude_sw>0.000000</latitude_sw>
+    <longitude_sw>0.000000</longitude_sw>
+    <latitude_ne>0.000000</latitude_ne>
+    <longitude_ne>0.000000</longitude_ne>
+    <topography>0</topography>
+    <temperature>0.00</temperature>
+    <precipitation>0</precipitation>
+    <wind>0.0</wind>
+    <surface>0.0</surface>
+    <farm>
+      <farmid>2018</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	Robic</farmname>
+      <farmcontactname>Robic	Christophe</farmcontactname>
+      <farmaddress>Le	Grand	Boterff	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>02.97.27.45.08</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>63.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate />
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>No	lamb</farmlambingtime>
+      <lstkbuildings>
+        <lstkbuilind_id></lstkbuilind_id>
+        <buildingtypeid></buildingtypeid>
+        <buildingarea></buildingarea>
+        <buildingventilationtypeid></buildingventilationtypeid>
+        <buildingventilationminrate></buildingventilationminrate>
+        <buildingventilationmaxrate></buildingventilationmaxrate>
+        <buildingventilationtargetT></buildingventilationtargetT>
+        <buildingheight></buildingheight>
+        <buildingpicture></buildingpicture>
+        <buildingheated></buildingheated>
+        <buildingpicture_filetype></buildingpicture_filetype>
+        <buildingpicture_filesize></buildingpicture_filesize>
+        <buildingpicture_imgsize></buildingpicture_imgsize>
+        <numberofsections></numberofsections>
+        <ventplacementid></ventplacementid>
+        <emissionheight></emissionheight>
+        <ventilationcomments></ventilationcomments>
+        <lstkbuildingsection>
+          <sectionid></sectionid>
+          <surface></surface>
+          <lstkflooringtypeid></lstkflooringtypeid>
+          <lstkbeddingtypeid></lstkbeddingtypeid>
+          <lstkmanuretypeid></lstkmanuretypeid>
+          <lstkhousingtypeid></lstkhousingtypeid>
+          <manuredestination></manuredestination>
+          <cleaningmethod></cleaningmethod>
+          <feedingrecords>
+            <feedingrecordid></feedingrecordid>
+            <housingrecordid></housingrecordid>
+            <feedtypeid></feedtypeid>
+            <feedamount></feedamount>
+            <feedcomments></feedcomments>
+          </feedingrecords>
+          <lstkhousingrecord>
+            <lstkhousingrecordid></lstkhousingrecordid>
+            <lstkhousednumber></lstkhousednumber>
+            <lstkhousedstartdate></lstkhousedstartdate>
+            <lstkhousedenddate></lstkhousedenddate>
+            <lstkhousedhoursperday></lstkhousedhoursperday>
+          </lstkhousingrecord>
+        </lstkbuildingsection>
+      </lstkbuildings>
+      <manurestore>
+        <manurestoreid></manurestoreid>
+        <manurestoretypeid></manurestoretypeid>
+        <manuretoringstart></manuretoringstart>
+        <manurestoringend></manurestoringend>
+        <manurestackingend></manurestackingend>
+        <manuresurfacearea></manuresurfacearea>
+        <manureamountstartyear></manureamountstartyear>
+        <manuretypeid></manuretypeid>
+        <manurestoreemptied>
+          <manurestoreemptiedid></manurestoreemptiedid>
+          <manurestoredateemptied></manurestoredateemptied>
+        </manurestoreemptied>
+      </manurestore>
+      <farmlstkbalance>
+        <lstkbalancerecordid></lstkbalancerecordid>
+        <lstktypeid></lstktypeid>
+        <lstkpresentatstartyear></lstkpresentatstartyear>
+        <lstkboughtthisyear></lstkboughtthisyear>
+        <lstksoldthisyear></lstksoldthisyear>
+        <lstkpresentatendyear></lstkpresentatendyear>
+      </farmlstkbalance>
+      <farmstore>
+        <farmstoreid></farmstoreid>
+        <materialid></materialid>
+        <amountstoredstartyear></amountstoredstartyear>
+        <amountstoredendyear></amountstoredendyear>
+        <amountimportedthisyear></amountimportedthisyear>
+        <amountexportedthisyear></amountexportedthisyear>
+        <amountproducedthisyear></amountproducedthisyear>
+        <calendaryear></calendaryear>
+        <unitid></unitid>
+      </farmstore>
+      <manureexported>
+        <manurexportedid></manurexportedid>
+        <manureexportedtypeid></manureexportedtypeid>
+        <manureexportamount></manureexportamount>
+        <manureexportedstored></manureexportedstored>
+        <manureexportedlocation></manureexportedlocation>
+        <manureexporteddestination></manureexporteddestination>
+      </manureexported>
+      <manureimported>
+        <manureimpotedid></manureimpotedid>
+        <manureimportedtypeid></manureimportedtypeid>
+        <manureimportamount></manureimportamount>
+        <manureimportedstored></manureimportedstored>
+        <manureimportedlocation></manureimportedlocation>
+        <manureimportedsource></manureimportedsource>
+      </manureimported>
+      <fields>
+        <fieldid>0</fieldid>
+        <fieldname>soggy_bottom</fieldname>
+        <fieldarea>10</fieldarea>
+        <fielddrained>1</fielddrained>
+        <fielddrainedyear></fielddrainedyear>
+        <soildrainagecode_lut></soildrainagecode_lut>
+        <fieldpermgrassid></fieldpermgrassid>
+        <fieldforestwetland></fieldforestwetland>
+        <rotationid></rotationid>
+        <grasscuttingrecord>
+          <grasscuttingid></grasscuttingid>
+          <grasscuttingdate></grasscuttingdate>
+          <grasscuttingtypeid></grasscuttingtypeid>
+        </grasscuttingrecord>
+        <grazingrecord>
+          <grazingrecordid></grazingrecordid>
+          <grazingperiodstartdate></grazingperiodstartdate>
+          <grazingperiodenddate></grazingperiodenddate>
+          <grazinganimalnumber></grazinganimalnumber>
+          <grazinganimaltypeid></grazinganimaltypeid>
+          <grazinghoursdaily></grazinghoursdaily>
+          <grazingsupplmentaryfeeding></grazingsupplmentaryfeeding>
+          <feedtypeid></feedtypeid>
+          <feedtypeamount></feedtypeamount>
+        </grazingrecord>
+        <manureapp>
+          <manureappid>0</manureappid>
+          <manuretypeid>2</manuretypeid>
+          <manureamount>100</manureamount>
+          <manureappdate>1989-03-15</manureappdate>
+          <manureappmethodid>1</manureappmethodid>
+          <manurehourstoincorporation></manurehourstoincorporation>
+          <manureimported></manureimported>
+          <manurestoreid></manurestoreid>
+        </manureapp>
+        <fertapps>
+          <fertappid>0</fertappid>
+          <ferttypeid>1</ferttypeid>
+          <fertamount>50</fertamount>
+          <fertappmethodid>1</fertappmethodid>
+          <fertappdate>1989-03-16</fertappdate>
+        </fertapps>
+        <irrigation>
+          <irrigationid></irrigationid>
+          <irrigationstartdate></irrigationstartdate>
+          <irrigationenddate></irrigationenddate>
+          <irrigationncontent></irrigationncontent>
+          <irrigationamount></irrigationamount>
+        </irrigation>
+        <tillage>
+          <tillageid>0</tillageid>
+          <fieldid></fieldid>
+          <tillagetypeid>3</tillagetypeid>
+          <tillagedate>1989-03-17</tillagedate>
+        </tillage>
+        <tillage>
+          <tillageid>0</tillageid>
+          <fieldid></fieldid>
+          <tillagetypeid>3</tillagetypeid>
+          <tillagedate>1989-09-05</tillagedate>
+        </tillage>
+        <crops>
+          <cropid>0</cropid>
+          <croptypeid>4</croptypeid>
+          <grassage></grassage>
+          <cropsownplantdate>1989-04-01</cropsownplantdate>
+          <cropharvestdate>1989-08-15</cropharvestdate>
+          <cropyieldknown></cropyieldknown>
+          <cropyield></cropyield>
+          <cropncontentknown></cropncontentknown>
+          <cropncontent></cropncontent>
+          <cropintercroppedid></cropintercroppedid>
+          <cropundersowntypeid></cropundersowntypeid>
+          <cropresiduefate></cropresiduefate>
+        </crops>
+        <crops>
+          <cropid>1</cropid>
+          <croptypeid>1</croptypeid>
+          <grassage></grassage>
+          <cropsownplantdate>1989-08-21</cropsownplantdate>
+          <cropharvestdate>1990-08-15</cropharvestdate>
+          <cropyieldknown></cropyieldknown>
+          <cropyield></cropyield>
+          <cropncontentknown></cropncontentknown>
+          <cropncontent></cropncontent>
+          <cropintercroppedid></cropintercroppedid>
+          <cropundersowntypeid></cropundersowntypeid>
+          <cropresiduefate></cropresiduefate>
+        </crops>
+      </fields>
+      <fields>
+        <fieldid>1</fieldid>
+        <fieldname>soggy_top</fieldname>
+        <fieldarea>20</fieldarea>
+        <fielddrained>1</fielddrained>
+        <fielddrainedyear></fielddrainedyear>
+        <soildrainagecode_lut></soildrainagecode_lut>
+        <fieldpermgrassid></fieldpermgrassid>
+        <fieldforestwetland></fieldforestwetland>
+        <rotationid></rotationid>
+        <grasscuttingrecord>
+          <grasscuttingid></grasscuttingid>
+          <grasscuttingdate></grasscuttingdate>
+          <grasscuttingtypeid></grasscuttingtypeid>
+        </grasscuttingrecord>
+        <grazingrecord>
+          <grazingrecordid></grazingrecordid>
+          <grazingperiodstartdate></grazingperiodstartdate>
+          <grazingperiodenddate></grazingperiodenddate>
+          <grazinganimalnumber></grazinganimalnumber>
+          <grazinganimaltypeid></grazinganimaltypeid>
+          <grazinghoursdaily></grazinghoursdaily>
+          <grazingsupplmentaryfeeding></grazingsupplmentaryfeeding>
+          <feedtypeid></feedtypeid>
+          <feedtypeamount></feedtypeamount>
+        </grazingrecord>
+        <manureapp>
+          <manureappid>0</manureappid>
+          <manuretypeid>2</manuretypeid>
+          <manureamount>100</manureamount>
+          <manureappdate>1988-03-15</manureappdate>
+          <manureappmethodid>1</manureappmethodid>
+          <manurehourstoincorporation></manurehourstoincorporation>
+          <manureimported></manureimported>
+          <manurestoreid></manurestoreid>
+        </manureapp>
+        <fertapps>
+          <fertappid>0</fertappid>
+          <ferttypeid>1</ferttypeid>
+          <fertamount>50</fertamount>
+          <fertappmethodid>1</fertappmethodid>
+          <fertappdate>1988-03-16</fertappdate>
+        </fertapps>
+        <irrigation>
+          <irrigationid></irrigationid>
+          <irrigationstartdate></irrigationstartdate>
+          <irrigationenddate></irrigationenddate>
+          <irrigationncontent></irrigationncontent>
+          <irrigationamount></irrigationamount>
+        </irrigation>
+        <tillage>
+          <tillageid></tillageid>
+          <fieldid></fieldid>
+          <tillagetypeid></tillagetypeid>
+          <tillagedate></tillagedate>
+        </tillage>
+        <crops>
+          <cropid></cropid>
+          <croptypeid>4</croptypeid>
+          <grassage></grassage>
+          <cropsownplantdate>1989-04-01</cropsownplantdate>
+          <cropharvestdate></cropharvestdate>
+          <cropyieldknown></cropyieldknown>
+          <cropyield></cropyield>
+          <cropncontentknown></cropncontentknown>
+          <cropncontent></cropncontent>
+          <cropintercroppedid></cropintercroppedid>
+          <cropundersowntypeid></cropundersowntypeid>
+          <cropresiduefate></cropresiduefate>
+        </crops>
+        <crops>
+          <cropid></cropid>
+          <croptypeid>1</croptypeid>
+          <grassage></grassage>
+          <cropsownplantdate>1989-08-21</cropsownplantdate>
+          <cropharvestdate></cropharvestdate>
+          <cropyieldknown></cropyieldknown>
+          <cropyield></cropyield>
+          <cropncontentknown></cropncontentknown>
+          <cropncontent></cropncontent>
+          <cropintercroppedid></cropintercroppedid>
+          <cropundersowntypeid></cropundersowntypeid>
+          <cropresiduefate></cropresiduefate>
+        </crops>
+      </fields>
+    </farm>
+    <farm>
+      <farmid>2039</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Guillemein</farmname>
+      <farmcontactname>Guillemin	Yannick</farmcontactname>
+      <farmaddress>Le	Hembord	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274089</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>32.23</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate />
+      <farmcattlecalvingseasonid>6</farmcattlecalvingseasonid>
+      <farmlambingtime />
+    </farm>
+    <farm>
+      <farmid>2008</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	Le	Crom</farmname>
+      <farmcontactname>Le	Crom	Dominique</farmcontactname>
+      <farmaddress>Poul	er	Moing	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274215</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>58.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>All	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>No	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2052</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Gillet</farmname>
+      <farmcontactname>Gillet	Albert</farmcontactname>
+      <farmaddress>kerihuel	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274410</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>8.70</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>No	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2051</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Le	Gal</farmname>
+      <farmcontactname>Le	Gal	Robert</farmcontactname>
+      <farmaddress>Penvern	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297383320</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>19.96</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>All	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>No	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2021</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	Hervio</farmname>
+      <farmcontactname>Hervio	christophe</farmcontactname>
+      <farmaddress>6	tocplous	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274595</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>0.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>All	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>0</farmcattlecalvingseasonid>
+      <farmlambingtime>No	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2010</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Allain</farmname>
+      <farmcontactname>Allain	Dominique</farmcontactname>
+      <farmaddress>kerlegouge	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274043</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>65.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>Not	apllicable</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>6</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2055</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>SARL	Le	Strat</farmname>
+      <farmcontactname>Le	Srat	Jean	Pierre</farmcontactname>
+      <farmaddress>Losterven	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>02-97-27-43-44</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>93.17</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>All	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>0</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2013</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	Sainte	Brigitte</farmname>
+      <farmcontactname>Lamour	Lionel</farmcontactname>
+      <farmaddress>Sainte	Brigitte	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274147</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>54.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>No	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2029</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	Rouvray</farmname>
+      <farmcontactname>Georges	Rouvray</farmcontactname>
+      <farmaddress>8	Luzunin	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274038</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>59.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>All	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2040</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Fablet</farmname>
+      <farmcontactname>Fablet	Gilles</farmcontactname>
+      <farmaddress>Le	Perzo	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274223</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>56.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>veal:	January	and	June</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>0</farmcattlecalvingseasonid>
+      <farmlambingtime>No	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2011</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	de	Kerbraz</farmname>
+      <farmcontactname>Le	Dévehat	Jean	François</farmcontactname>
+      <farmaddress>Le	Cosquer	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274658</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>40.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2006</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	corn	er	houet</farmname>
+      <farmcontactname>Le	Négrate	Gaëtan</farmcontactname>
+      <farmaddress>Corn	er	houet	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0291274294</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>50.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2054</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	Le	Douarin</farmname>
+      <farmcontactname>Le	Douarin	Dominique</farmcontactname>
+      <farmaddress>Kermaprio	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274698	0629323327</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>58.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2053</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Folliard</farmname>
+      <farmcontactname>Folliard	Jocelyn</farmcontactname>
+      <farmaddress>kerjosse	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0659786800</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>36.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2037</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>GAEC	Michel</farmname>
+      <farmcontactname>Michel	Eugène</farmcontactname>
+      <farmaddress>Le	Perzo	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274089</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>50.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2050</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	de	Kerlato</farmname>
+      <farmcontactname>Chapel	Christophe</farmcontactname>
+      <farmaddress>Kerlato	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274121</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>47.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2022</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>GAEC	Le	Relais</farmname>
+      <farmcontactname>Jouannic</farmcontactname>
+      <farmaddress>3	Le	stimoes	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274521</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>151.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>All	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2014</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Gaec	Le	Toquin</farmname>
+      <farmcontactname>Jean	Claude	Le	Toquin</farmcontactname>
+      <farmaddress>7	Kerdec	NAIZIN</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274169</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>82.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>Beef:	November.	dairy	cows:	all	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2027</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Corbel</farmname>
+      <farmcontactname>Philippe	Corbel</farmcontactname>
+      <farmaddress>Le	Toulo	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274571</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>44.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>All	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2004</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>Earl	le	Gueriniec</farmname>
+      <farmcontactname>Gillard	jean-Paul</farmcontactname>
+      <farmaddress>Le	Gueriniec	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297274624</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>73.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate>All	year	around</farmlstkmainsalesdate>
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>No	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2057</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>GAEC	Laudren</farmname>
+      <farmcontactname>No	contact</farmcontactname>
+      <farmaddress>Penvern	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297383771</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>50.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate />
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+    </farm>
+    <farm>
+      <farmid>2056</farmid>
+      <gis_polygonid>0</gis_polygonid>
+      <farmname>EARL	Le	Devedec</farmname>
+      <farmcontactname>No	contact</farmcontactname>
+      <farmaddress>Kermabevin	Naizin</farmaddress>
+      <farmpostcode>56500</farmpostcode>
+      <farmtelephone>0297382075</farmtelephone>
+      <farmfax />
+      <farmemail />
+      <farmsubunitname />
+      <farmarea>140.00</farmarea>
+      <farmproduce />
+      <farmlstkmainsalesdate />
+      <farmcattlecalvingseasonid>5</farmcattlecalvingseasonid>
+      <farmlambingtime>no	lamb</farmlambingtime>
+      <lstkbuildings>
+        <lstkbuilind_id></lstkbuilind_id>
+        <buildingtypeid></buildingtypeid>
+        <buildingarea></buildingarea>
+        <buildingventilationtypeid></buildingventilationtypeid>
+        <buildingventilationminrate></buildingventilationminrate>
+        <buildingventilationmaxrate></buildingventilationmaxrate>
+        <buildingventilationtargetT></buildingventilationtargetT>
+        <buildingheight></buildingheight>
+        <buildingpicture></buildingpicture>
+        <buildingheated></buildingheated>
+        <buildingpicture_filetype></buildingpicture_filetype>
+        <buildingpicture_filesize></buildingpicture_filesize>
+        <buildingpicture_imgsize></buildingpicture_imgsize>
+        <numberofsections></numberofsections>
+        <ventplacementid></ventplacementid>
+        <emissionheight></emissionheight>
+        <ventilationcomments></ventilationcomments>
+        <lstkbuildingsection>
+          <sectionid></sectionid>
+          <surface></surface>
+          <lstkflooringtypeid></lstkflooringtypeid>
+          <lstkbeddingtypeid></lstkbeddingtypeid>
+          <lstkmanuretypeid></lstkmanuretypeid>
+          <lstkhousingtypeid></lstkhousingtypeid>
+          <manuredestination></manuredestination>
+          <cleaningmethod></cleaningmethod>
+          <feedingrecords>
+            <feedingrecordid></feedingrecordid>
+            <housingrecordid></housingrecordid>
+            <feedtypeid></feedtypeid>
+            <feedamount></feedamount>
+            <feedcomments></feedcomments>
+          </feedingrecords>
+          <lstkhousingrecord>
+            <lstkhousingrecordid></lstkhousingrecordid>
+            <lstkhousednumber></lstkhousednumber>
+            <lstkhousedstartdate></lstkhousedstartdate>
+            <lstkhousedenddate></lstkhousedenddate>
+            <lstkhousedhoursperday></lstkhousedhoursperday>
+          </lstkhousingrecord>
+        </lstkbuildingsection>
+      </lstkbuildings>
+      <manurestore>
+        <manurestoreid></manurestoreid>
+        <manurestoretypeid></manurestoretypeid>
+        <manuretoringstart></manuretoringstart>
+        <manurestoringend></manurestoringend>
+        <manurestackingend></manurestackingend>
+        <manuresurfacearea></manuresurfacearea>
+        <manureamountstartyear></manureamountstartyear>
+        <manuretypeid></manuretypeid>
+        <manurestoreemptied>
+          <manurestoreemptiedid></manurestoreemptiedid>
+          <manurestoredateemptied></manurestoredateemptied>
+        </manurestoreemptied>
+      </manurestore>
+      <farmlstkbalance>
+        <lstkbalancerecordid></lstkbalancerecordid>
+        <lstktypeid></lstktypeid>
+        <lstkpresentatstartyear></lstkpresentatstartyear>
+        <lstkboughtthisyear></lstkboughtthisyear>
+        <lstksoldthisyear></lstksoldthisyear>
+        <lstkpresentatendyear></lstkpresentatendyear>
+      </farmlstkbalance>
+      <farmstore>
+        <farmstoreid></farmstoreid>
+        <materialid></materialid>
+        <amountstoredstartyear></amountstoredstartyear>
+        <amountstoredendyear></amountstoredendyear>
+        <amountimportedthisyear></amountimportedthisyear>
+        <amountexportedthisyear></amountexportedthisyear>
+        <amountproducedthisyear></amountproducedthisyear>
+        <calendaryear></calendaryear>
+        <unitid></unitid>
+      </farmstore>
+      <manureexported>
+        <manurexportedid></manurexportedid>
+        <manureexportedtypeid></manureexportedtypeid>
+        <manureexportamount></manureexportamount>
+        <manureexportedstored></manureexportedstored>
+        <manureexportedlocation></manureexportedlocation>
+        <manureexporteddestination></manureexporteddestination>
+      </manureexported>
+      <manureimported>
+        <manureimpotedid></manureimpotedid>
+        <manureimportedtypeid></manureimportedtypeid>
+        <manureimportamount></manureimportamount>
+        <manureimportedstored></manureimportedstored>
+        <manureimportedlocation></manureimportedlocation>
+        <manureimportedsource></manureimportedsource>
+      </manureimported>
+      <fields>
+        <fieldid></fieldid>
+        <fieldname></fieldname>
+        <fieldarea></fieldarea>
+        <fielddrained></fielddrained>
+        <fielddrainedyear></fielddrainedyear>
+        <soildrainagecode_lut></soildrainagecode_lut>
+        <fieldpermgrassid></fieldpermgrassid>
+        <fieldforestwetland></fieldforestwetland>
+        <rotationid></rotationid>
+        <grasscuttingrecord>
+          <grasscuttingid></grasscuttingid>
+          <grasscuttingdate></grasscuttingdate>
+          <grasscuttingtypeid></grasscuttingtypeid>
+        </grasscuttingrecord>
+        <grazingrecord>
+          <grazingrecordid></grazingrecordid>
+          <grazingperiodstartdate></grazingperiodstartdate>
+          <grazingperiodenddate></grazingperiodenddate>
+          <grazinganimalnumber></grazinganimalnumber>
+          <grazinganimaltypeid></grazinganimaltypeid>
+          <grazinghoursdaily></grazinghoursdaily>
+          <grazingsupplmentaryfeeding></grazingsupplmentaryfeeding>
+          <feedtypeid></feedtypeid>
+          <feedtypeamount></feedtypeamount>
+        </grazingrecord>
+        <manureapp>
+          <manureappid></manureappid>
+          <manuretypeid></manuretypeid>
+          <manureamount></manureamount>
+          <manureappdate></manureappdate>
+          <manureappmethodid></manureappmethodid>
+          <manurehourstoincorporation></manurehourstoincorporation>
+          <manureimported></manureimported>
+          <manurestoreid></manurestoreid>
+        </manureapp>
+        <fertapps>
+          <fertappid></fertappid>
+          <ferttypeid></ferttypeid>
+          <fertamount></fertamount>
+          <fertappmethodid></fertappmethodid>
+          <fertappdate></fertappdate>
+        </fertapps>
+        <irrigation>
+          <irrigationid></irrigationid>
+          <irrigationstartdate></irrigationstartdate>
+          <irrigationenddate></irrigationenddate>
+          <irrigationncontent></irrigationncontent>
+          <irrigationamount></irrigationamount>
+        </irrigation>
+        <crops>
+          <cropid></cropid>
+          <croptypeid></croptypeid>
+          <grassage></grassage>
+          <cropsownplantdate></cropsownplantdate>
+          <cropharvestdate></cropharvestdate>
+          <cropyieldknown></cropyieldknown>
+          <cropyield></cropyield>
+          <cropncontentknown></cropncontentknown>
+          <cropncontent></cropncontent>
+          <cropintercroppedid></cropintercroppedid>
+          <cropundersowntypeid></cropundersowntypeid>
+          <cropresiduefate></cropresiduefate>
+        </crops>
+        <tillage>
+          <tillageid></tillageid>
+          <fieldid></fieldid>
+          <tillagetypeid></tillagetypeid>
+          <tillagedate></tillagedate>
+        </tillage>
+      </fields>
+    </farm>
+  </landscape>
+</nitroscape>
